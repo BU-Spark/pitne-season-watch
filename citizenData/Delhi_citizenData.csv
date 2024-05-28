@@ -1,0 +1,553 @@
+Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+2019-09-19,Arjun tree- Terminalia arjuna,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2019,33
+2023-11-29,Arjun tree- Terminalia arjuna,1.0,2.0,0.0,-1.0,-1.0,-2.0,-2.0,2.0,2.0,-2.0,2023,42
+2023-11-09,Babool- Acacia nilotica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,40
+2023-11-06,Banyan-Ficus benghalensis,0.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+2016-03-22,Banyan-Ficus benghalensis,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,10
+2015-11-03,Banyan-Ficus benghalensis,2.0,2.0,,2.0,2.0,,,1.0,2.0,,2015,39
+2015-11-24,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2015,42
+2016-02-09,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,5
+2015-12-01,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,1.0,1.0,,2015,43
+2016-03-01,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,7
+2019-12-13,Banyan-Ficus benghalensis,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,44
+2016-02-16,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,6
+2016-02-23,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,6
+2015-11-10,Banyan-Ficus benghalensis,1.0,2.0,,2.0,0.0,,,2.0,1.0,,2015,40
+2015-11-17,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,2.0,1.0,,2015,41
+2016-03-08,Banyan-Ficus benghalensis,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,8
+2016-09-20,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,33
+2016-09-06,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,32
+2016-09-13,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,33
+2016-08-30,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,31
+2016-08-23,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,30
+2016-09-27,Banyan-Ficus benghalensis,0.0,2.0,,0.0,1.0,,,1.0,2.0,,2016,34
+2016-08-09,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,28
+2016-08-16,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,29
+2016-03-15,Banyan-Ficus benghalensis,0.0,1.0,,1.0,1.0,,,2.0,0.0,,2016,9
+2016-04-12,Banyan-Ficus benghalensis,2.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,13
+2016-03-29,Banyan-Ficus benghalensis,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,11
+2016-04-05,Banyan-Ficus benghalensis,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,12
+2016-03-22,Banyan-Ficus benghalensis,0.0,1.0,,1.0,0.0,,,2.0,0.0,,2016,10
+2016-01-12,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,1
+2015-12-15,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2015,44
+2015-12-29,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2015,46
+2015-12-22,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2015,45
+2016-08-02,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,1.0,2.0,,2016,27
+2016-01-05,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,0
+2016-01-05,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,0
+2016-02-02,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,4
+2019-03-18,Banyan-Ficus benghalensis,0.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,2.0,-2.0,2019,9
+2015-12-08,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2015,44
+2023-11-14,Banyan-Ficus benghalensis,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,40
+2016-01-19,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,2
+2016-07-19,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,25
+2016-07-12,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,24
+2016-07-05,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,24
+2016-06-28,Banyan-Ficus benghalensis,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,23
+2016-06-21,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,0.0,2.0,,2016,22
+2016-06-14,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,0.0,2.0,,2016,21
+2016-06-07,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,1.0,2.0,,2016,20
+2016-05-31,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,1.0,2.0,,2016,19
+2016-05-24,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,1.0,2.0,,2016,18
+2016-05-17,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,1.0,1.0,,2016,17
+2016-05-10,Banyan-Ficus benghalensis,1.0,2.0,,1.0,0.0,,,1.0,1.0,,2016,16
+2016-05-04,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,16
+2016-01-26,Banyan-Ficus benghalensis,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,3
+2016-10-11,Banyan-Ficus benghalensis,1.0,2.0,,0.0,1.0,,,1.0,2.0,,2016,36
+2023-11-04,Champa- Michelia champaca,1.0,2.0,1.0,0.0,1.0,-2.0,-2.0,0.0,0.0,0.0,2023,39
+2023-11-04,Chiku- Sapodilla-Manilkara zapota ,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+2019-09-16,Chinaberry- Melia azedarach,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2019,33
+2020-03-30,Chinaberry- Melia azedarach,2.0,0.0,0.0,0.0,2.0,-2.0,-2.0,0.0,2.0,-2.0,2020,11
+2019-03-15,Chinaberry- Melia azedarach,2.0,0.0,1.0,0.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2019,9
+2022-04-22,Coconut palm-Cocos nucifera,2.0,1.0,1.0,2.0,2.0,-2.0,-2.0,2.0,2.0,-2.0,2022,14
+2019-09-16,Country Fig- Ficus racemosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,2.0,1.0,-2.0,2019,33
+2019-09-16,Country Fig- Ficus racemosa,1.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,2.0,1.0,-2.0,2019,33
+2018-05-05,Country Fig- Ficus racemosa,1.0,2.0,,-1.0,-1.0,,,2.0,-1.0,,2018,16
+2018-06-12,Country Fig- Ficus racemosa,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2018,20
+2018-04-04,Country Fig- Ficus racemosa,1.0,2.0,,-1.0,-1.0,,,2.0,2.0,,2018,12
+2019-03-15,Country Fig- Ficus racemosa,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2019,9
+2023-11-09,Crepe Jasmine- Tabernaemontana divaricata,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2023,40
+2019-06-11,Curry leaf plant-Murraya koenigii,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2019,20
+2019-12-15,Devil's tree- Alstonia scholaris,2.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,-1.0,1.0,2019,44
+2023-12-10,Devil's tree- Alstonia scholaris,1.0,2.0,0.0,-1.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2023,44
+2019-10-25,Devil's tree- Alstonia scholaris,-2.0,-2.0,-2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,2019,38
+2019-11-12,Devil's tree- Alstonia scholaris,2.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,0.0,2019,40
+2023-12-15,Devil's tree- Alstonia scholaris,1.0,2.0,1.0,-1.0,2.0,0.0,0.0,0.0,0.0,0.0,2023,44
+2022-09-02,Devil's tree- Alstonia scholaris,2.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2022,31
+2023-12-02,Devil's tree- Alstonia scholaris,0.0,2.0,1.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2019-12-01,Devil's tree- Alstonia scholaris,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,-1.0,-1.0,1.0,2019,43
+2021-11-21,Devil's tree- Alstonia scholaris,-1.0,2.0,-1.0,0.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2021,41
+2020-01-04,Devil's tree- Alstonia scholaris,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,-1.0,1.0,2020,0
+2022-03-19,Devil's tree- Alstonia scholaris,-1.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2022,10
+2023-12-04,Devil's tree- Alstonia scholaris,1.0,2.0,0.0,-1.0,2.0,0.0,0.0,0.0,0.0,0.0,2023,43
+2020-03-29,Devil's tree- Alstonia scholaris,0.0,2.0,0.0,0.0,1.0,-2.0,-2.0,2.0,0.0,0.0,2020,11
+2023-11-04,Devil's tree- Alstonia scholaris,1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2023,39
+2019-03-18,Devil's tree- Alstonia scholaris,0.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-1.0,-1.0,0.0,2019,9
+2021-11-25,Drumstick tree-Moringa oleifera,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,42
+2021-01-22,Drumstick tree-Moringa oleifera,1.0,2.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2021,2
+2023-11-09,Drumstick tree-Moringa oleifera,1.0,2.0,1.0,1.0,2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,40
+2019-11-28,Drumstick tree-Moringa oleifera,2.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2019,42
+2019-11-01,Drumstick tree-Moringa oleifera,1.0,2.0,2.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,39
+2020-02-05,Drumstick tree-Moringa oleifera,0.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2020,4
+2018-11-19,Drumstick tree-Moringa oleifera,-1.0,2.0,-1.0,-1.0,1.0,-2.0,-2.0,-2.0,2.0,-2.0,2018,41
+2020-02-25,Drumstick tree-Moringa oleifera,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2020,7
+2023-11-09,Ficus mollis-Soft fig,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,40
+2019-09-16,Fish-tail palm- Caryota urens,0.0,1.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,33
+2023-11-29,Fish-tail palm- Caryota urens,1.0,2.0,2.0,-1.0,-1.0,-2.0,-2.0,-1.0,-1.0,-2.0,2023,42
+2017-04-02,Fish-tail palm- Caryota urens,0.0,2.0,,0.0,0.0,,,2.0,-1.0,,2017,11
+2023-11-04,Flame of the forest- Butea monosperma,0.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+2019-03-20,Flame of the forest- Butea monosperma,0.0,1.0,1.0,1.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,10
+2020-01-23,Floss-silk tree- Ceiba speciosa,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2020,2
+2020-03-12,Floss-silk tree- Ceiba speciosa,1.0,1.0,0.0,0.0,0.0,-2.0,-2.0,1.0,1.0,0.0,2020,9
+2020-02-06,Floss-silk tree- Ceiba speciosa,0.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2020,4
+2020-01-03,Floss-silk tree- Ceiba speciosa,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2020,0
+2019-11-13,Floss-silk tree- Ceiba speciosa,1.0,2.0,1.0,2.0,1.0,-2.0,-2.0,0.0,0.0,0.0,2019,40
+2019-10-30,Floss-silk tree- Ceiba speciosa,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2019,39
+2019-12-16,Floss-silk tree- Ceiba speciosa,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2019,45
+2019-11-29,Floss-silk tree- Ceiba speciosa,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2019,42
+2020-10-22,Floss-silk tree- Ceiba speciosa,2.0,2.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2020,38
+2019-11-22,Floss-silk tree- Ceiba speciosa,1.0,2.0,1.0,2.0,1.0,-2.0,-2.0,0.0,0.0,0.0,2019,41
+2020-02-25,Floss-silk tree- Ceiba speciosa,1.0,1.0,1.0,0.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2020,7
+2021-03-04,Floss-silk tree- Ceiba speciosa,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2021,8
+2021-03-16,Floss-silk tree- Ceiba speciosa,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2021,9
+2022-12-20,Floss-silk tree- Ceiba speciosa,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2022,45
+2021-01-22,Floss-silk tree- Ceiba speciosa,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2021,2
+2019-12-02,Floss-silk tree- Ceiba speciosa,0.0,1.0,1.0,2.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2019,43
+2020-01-29,Floss-silk tree- Ceiba speciosa,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,-1.0,0.0,2020,3
+2021-07-14,Floss-silk tree- Ceiba speciosa,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,2021,25
+2023-04-28,Frangipani- temple tree- Plumeria rubra,1.0,2.0,0.0,1.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,15
+2023-12-10,Frangipani- temple tree- Plumeria rubra,1.0,2.0,0.0,-1.0,1.0,0.0,0.0,0.0,0.0,0.0,2023,44
+2023-12-02,Frangipani- temple tree- Plumeria rubra,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2022-04-22,Ghost rree- Sterculia urens,0.0,0.0,0.0,-2.0,1.0,-2.0,-2.0,1.0,2.0,-1.0,2022,14
+2022-04-15,Guava tree-Psidium guajava,2.0,1.0,1.0,2.0,2.0,-2.0,-2.0,2.0,0.0,-2.0,2022,13
+2022-04-24,Guava tree-Psidium guajava,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,14
+2023-11-09,Guava tree-Psidium guajava,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2023,40
+2019-06-11,Guava tree-Psidium guajava,1.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2019,20
+2015-04-26,Gulmohur- Delonix regia,2.0,0.0,,2.0,1.0,,,1.0,0.0,,2015,14
+2014-09-02,Gulmohur- Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,31
+2015-05-24,Gulmohur- Delonix regia,1.0,2.0,,2.0,2.0,,,1.0,0.0,,2015,18
+2015-09-27,Gulmohur- Delonix regia,1.0,2.0,,1.0,2.0,,,1.0,2.0,,2015,34
+2023-11-12,Gulmohur- Delonix regia,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2023,40
+2015-08-02,Gulmohur- Delonix regia,1.0,2.0,,2.0,2.0,,,1.0,1.0,,2015,27
+2015-07-19,Gulmohur- Delonix regia,1.0,2.0,,2.0,1.0,,,1.0,1.0,,2015,25
+2023-11-09,Gulmohur- Delonix regia,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2023,40
+2015-04-19,Gulmohur- Delonix regia,2.0,0.0,,2.0,0.0,,,2.0,1.0,,2015,14
+2016-07-24,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,26
+2014-01-26,Gulmohur- Delonix regia,0.0,2.0,,0.0,0.0,,,1.0,0.0,,2014,3
+2023-05-17,Gulmohur- Delonix regia,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
+2015-05-03,Gulmohur- Delonix regia,2.0,1.0,,2.0,2.0,,,2.0,0.0,,2015,15
+2016-07-31,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,27
+2015-09-06,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2015,32
+2014-02-02,Gulmohur- Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,4
+2015-09-13,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,2.0,2.0,,2015,32
+2015-08-23,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,2.0,1.0,,2015,30
+2015-08-16,Gulmohur- Delonix regia,2.0,2.0,,1.0,2.0,,,2.0,1.0,,2015,29
+2015-05-10,Gulmohur- Delonix regia,1.0,2.0,,2.0,2.0,,,1.0,0.0,,2015,16
+2015-08-21,Gulmohur- Delonix regia,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2015,30
+2015-08-21,Gulmohur- Delonix regia,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2015,30
+2015-08-30,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2015,31
+2016-07-04,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,23
+2016-06-29,Gulmohur- Delonix regia,1.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,23
+2015-11-01,Gulmohur- Delonix regia,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2015,39
+2014-12-01,Gulmohur- Delonix regia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2014,43
+2015-07-05,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2015,23
+2014-06-22,Gulmohur- Delonix regia,1.0,2.0,,2.0,1.0,,,1.0,1.0,,2014,22
+2015-03-29,Gulmohur- Delonix regia,1.0,0.0,,0.0,0.0,,,2.0,0.0,,2015,11
+2014-06-30,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,2.0,,2014,23
+2014-09-03,Gulmohur- Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,31
+2014-06-15,Gulmohur- Delonix regia,1.0,2.0,,2.0,1.0,,,1.0,2.0,,2014,21
+2014-04-20,Gulmohur- Delonix regia,2.0,0.0,,0.0,0.0,,,1.0,0.0,,2014,14
+2015-03-22,Gulmohur- Delonix regia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2015,10
+2014-03-30,Gulmohur- Delonix regia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,11
+2016-06-18,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,2.0,,2016,21
+2014-06-04,Gulmohur- Delonix regia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,19
+2014-04-13,Gulmohur- Delonix regia,2.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,13
+2014-05-25,Gulmohur- Delonix regia,2.0,2.0,,2.0,2.0,,,1.0,0.0,,2014,18
+2014-08-06,Gulmohur- Delonix regia,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,28
+2014-03-16,Gulmohur- Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,9
+2014-01-06,Gulmohur- Delonix regia,1.0,2.0,,2.0,1.0,,,1.0,0.0,,2014,0
+2015-06-28,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2015,23
+2014-11-05,Gulmohur- Delonix regia,2.0,1.0,,2.0,2.0,,,1.0,0.0,,2014,39
+2014-04-27,Gulmohur- Delonix regia,2.0,1.0,,2.0,1.0,,,0.0,0.0,,2014,15
+2014-04-05,Gulmohur- Delonix regia,2.0,1.0,,2.0,1.0,,,1.0,0.0,,2014,12
+2014-03-23,Gulmohur- Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,10
+2014-05-18,Gulmohur- Delonix regia,1.0,2.0,,2.0,2.0,,,1.0,0.0,,2014,17
+2015-04-06,Gulmohur- Delonix regia,2.0,0.0,,0.0,0.0,,,2.0,1.0,,2015,12
+2016-08-10,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,28
+2014-05-01,Gulmohur- Delonix regia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2014,15
+2014-02-16,Gulmohur- Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,6
+2015-04-12,Gulmohur- Delonix regia,2.0,0.0,,0.0,0.0,,,2.0,1.0,,2015,13
+2015-10-04,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2015,35
+2015-07-12,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2015,24
+2014-06-07,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,2.0,1.0,,2014,20
+2014-02-03,Gulmohur- Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,4
+2014-02-23,Gulmohur- Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,6
+2014-01-19,Gulmohur- Delonix regia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2014,2
+2014-07-20,Gulmohur- Delonix regia,1.0,2.0,,0.0,0.0,,,-1.0,2.0,,2014,25
+2014-10-08,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,2.0,1.0,,2014,36
+2016-07-10,Gulmohur- Delonix regia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,24
+2014-07-27,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,2.0,,2014,26
+2021-08-30,Indian Cork Tree- Millingtonia hortensis,2.0,2.0,2.0,2.0,2.0,-2.0,-2.0,-1.0,0.0,0.0,2021,31
+2023-11-09,Indian Mulberry-Morinda pubescens,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,40
+2020-03-01,Indian coral tree- Erythrina indica,0.0,0.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2020,7
+2020-03-01,Indian coral tree- Erythrina indica,0.0,0.0,0.0,2.0,2.0,-2.0,-2.0,-2.0,0.0,0.0,2020,7
+2019-09-16,Indian elm- Holoptelea integrifolia,1.0,2.0,1.0,0.0,0.0,0.0,-2.0,0.0,0.0,-2.0,2019,33
+2019-09-16,Indian laburnum- Cassia fistula,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,2.0,-2.0,2019,33
+2023-11-29,Indian laburnum- Cassia fistula,0.0,2.0,2.0,0.0,0.0,-2.0,-2.0,-2.0,2.0,-2.0,2023,42
+2023-05-24,Indian laburnum- Cassia fistula,1.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2023,18
+2019-07-01,Indian laburnum- Cassia fistula,1.0,1.0,,2.0,2.0,,,0.0,1.0,,2019,23
+2023-11-12,Indian laburnum- Cassia fistula,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,40
+2023-11-04,Indian laburnum- Cassia fistula,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+2023-11-08,Indian laburnum- Cassia fistula,0.0,2.0,0.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2023,40
+2023-04-28,Indian laburnum- Cassia fistula,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2023,15
+2023-04-12,Indian laburnum- Cassia fistula,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023,13
+2023-04-05,Indian laburnum- Cassia fistula,0.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,12
+2022-09-02,Indian laburnum- Cassia fistula,0.0,2.0,0.0,1.0,1.0,-2.0,-2.0,2.0,0.0,-2.0,2022,31
+2017-04-28,Indian laburnum- Cassia fistula,1.0,0.0,,1.0,1.0,,,0.0,0.0,,2017,15
+2023-04-21,Indian laburnum- Cassia fistula,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023,14
+2023-03-28,Indian laburnum- Cassia fistula,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023,11
+2023-03-20,Indian laburnum- Cassia fistula,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023,10
+2022-02-22,Indian rosewood- Dalbergia sissoo,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2022,6
+2020-02-25,Indian rosewood- Dalbergia sissoo,0.0,2.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,2.0,2020,7
+2019-11-28,Indian rosewood- Dalbergia sissoo,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,1.0,1.0,-1.0,2019,42
+2020-02-05,Indian rosewood- Dalbergia sissoo,0.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,1.0,2020,4
+2019-12-06,Indian rosewood- Dalbergia sissoo,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2019,43
+2022-05-17,Indian rosewood- Dalbergia sissoo,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2022,17
+2023-11-12,Jacaranda- Jacaranda mimosifolia,0.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2023,40
+2023-11-08,Jacaranda- Jacaranda mimosifolia,0.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,2.0,2.0,2023,40
+2023-11-08,Jacaranda- Jacaranda mimosifolia,0.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2023,40
+2015-08-21,Jackfruit- Artocarpus heterophyllus,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2015,30
+2022-04-17,Jackfruit- Artocarpus heterophyllus,2.0,1.0,1.0,2.0,-2.0,-1.0,-1.0,2.0,0.0,-2.0,2022,13
+2022-04-13,Jackfruit- Artocarpus heterophyllus,2.0,1.0,1.0,2.0,-2.0,-1.0,-1.0,1.0,0.0,-2.0,2022,13
+2022-04-22,Jackfruit- Artocarpus heterophyllus,2.0,1.0,1.0,2.0,-2.0,-1.0,-1.0,2.0,1.0,-2.0,2022,14
+2015-08-02,Jamun- Syzygium cumini,1.0,2.0,,0.0,1.0,,,2.0,2.0,,2015,27
+2016-05-30,Jamun- Syzygium cumini,1.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,19
+2014-04-27,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,15
+2014-04-05,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,12
+2016-07-04,Jamun- Syzygium cumini,2.0,2.0,,1.0,1.0,,,2.0,1.0,,2016,23
+2016-06-06,Jamun- Syzygium cumini,1.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,20
+2015-07-12,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2015,24
+2014-11-05,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,39
+2015-05-24,Jamun- Syzygium cumini,1.0,2.0,,2.0,1.0,,,0.0,0.0,,2015,18
+2014-06-22,Jamun- Syzygium cumini,1.0,2.0,,1.0,2.0,,,-1.0,2.0,,2014,22
+2016-11-06,Jamun- Syzygium cumini,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,40
+2016-11-14,Jamun- Syzygium cumini,2.0,2.0,,1.0,1.0,,,2.0,1.0,,2016,41
+2016-11-21,Jamun- Syzygium cumini,1.0,2.0,,1.0,2.0,,,2.0,1.0,,2016,41
+2016-11-28,Jamun- Syzygium cumini,2.0,2.0,,1.0,2.0,,,0.0,1.0,,2016,42
+2016-12-05,Jamun- Syzygium cumini,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2016,43
+2016-12-12,Jamun- Syzygium cumini,2.0,1.0,,0.0,1.0,,,0.0,1.0,,2016,44
+2016-12-19,Jamun- Syzygium cumini,1.0,2.0,,1.0,1.0,,,2.0,1.0,,2016,45
+2016-12-26,Jamun- Syzygium cumini,1.0,2.0,,1.0,2.0,,,1.0,2.0,,2016,46
+2016-10-30,Jamun- Syzygium cumini,2.0,2.0,,2.0,1.0,,,1.0,0.0,,2016,39
+2016-10-23,Jamun- Syzygium cumini,2.0,1.0,,1.0,1.0,,,1.0,0.0,,2016,38
+2016-10-16,Jamun- Syzygium cumini,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,37
+2014-06-29,Jamun- Syzygium cumini,1.0,2.0,,1.0,1.0,,,0.0,2.0,,2014,23
+2014-05-18,Jamun- Syzygium cumini,2.0,1.0,,2.0,0.0,,,0.0,0.0,,2014,17
+2016-07-31,Jamun- Syzygium cumini,1.0,2.0,,0.0,1.0,,,1.0,2.0,,2016,27
+2014-08-06,Jamun- Syzygium cumini,1.0,2.0,,2.0,1.0,,,1.0,1.0,,2014,28
+2014-01-06,Jamun- Syzygium cumini,1.0,2.0,,2.0,2.0,,,0.0,0.0,,2014,0
+2016-07-10,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2016,24
+2015-07-06,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2015,24
+2014-07-20,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2014,25
+2015-11-01,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,39
+2014-07-27,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,2.0,2.0,,2014,26
+2015-07-19,Jamun- Syzygium cumini,1.0,2.0,,1.0,1.0,,,2.0,2.0,,2015,25
+2023-05-17,Jamun- Syzygium cumini,0.0,2.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2023,17
+2023-05-17,Jamun- Syzygium cumini,0.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2023,17
+2015-06-28,Jamun- Syzygium cumini,1.0,2.0,,1.0,2.0,,,0.0,1.0,,2015,23
+2016-05-16,Jamun- Syzygium cumini,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,17
+2016-05-23,Jamun- Syzygium cumini,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,18
+2014-06-07,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2014,20
+2016-06-29,Jamun- Syzygium cumini,2.0,2.0,,1.0,1.0,,,2.0,0.0,,2016,23
+2014-06-15,Jamun- Syzygium cumini,1.0,2.0,,1.0,1.0,,,0.0,2.0,,2014,21
+2014-05-25,Jamun- Syzygium cumini,1.0,2.0,,2.0,2.0,,,0.0,0.0,,2014,18
+2016-06-18,Jamun- Syzygium cumini,2.0,2.0,,1.0,1.0,,,2.0,0.0,,2016,21
+2014-10-08,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2014,36
+2016-07-04,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,23
+2016-06-13,Jamun- Syzygium cumini,1.0,2.0,,2.0,1.0,,,1.0,0.0,,2016,21
+2016-06-20,Jamun- Syzygium cumini,1.0,2.0,,0.0,1.0,,,1.0,0.0,,2016,22
+2016-06-27,Jamun- Syzygium cumini,2.0,2.0,,2.0,0.0,,,1.0,0.0,,2016,23
+2016-07-24,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,26
+2014-01-19,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,2
+2015-09-13,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,32
+2014-05-01,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,15
+2023-04-02,Jamun- Syzygium cumini,2.0,2.0,1.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,11
+2014-12-01,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,43
+2023-04-11,Jamun- Syzygium cumini,2.0,1.0,1.0,2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,13
+2014-09-02,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,31
+2016-01-04,Jamun- Syzygium cumini,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,0
+2017-04-20,Jamun- Syzygium cumini,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2017,14
+2015-11-16,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,41
+2015-11-23,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,42
+2014-01-26,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,3
+2014-02-02,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,4
+2016-08-08,Jamun- Syzygium cumini,2.0,2.0,,1.0,2.0,,,1.0,1.0,,2016,28
+2016-08-15,Jamun- Syzygium cumini,1.0,1.0,,1.0,1.0,,,1.0,2.0,,2016,29
+2016-08-22,Jamun- Syzygium cumini,2.0,2.0,,1.0,2.0,,,1.0,2.0,,2016,30
+2016-08-29,Jamun- Syzygium cumini,1.0,2.0,,1.0,2.0,,,2.0,2.0,,2016,31
+2016-09-05,Jamun- Syzygium cumini,2.0,1.0,,2.0,2.0,,,1.0,2.0,,2016,32
+2016-09-12,Jamun- Syzygium cumini,1.0,2.0,,1.0,1.0,,,1.0,0.0,,2016,32
+2016-08-01,Jamun- Syzygium cumini,2.0,1.0,,2.0,1.0,,,1.0,1.0,,2016,27
+2016-07-18,Jamun- Syzygium cumini,2.0,2.0,,2.0,2.0,,,1.0,1.0,,2016,25
+2016-07-25,Jamun- Syzygium cumini,2.0,2.0,,1.0,2.0,,,1.0,1.0,,2016,26
+2016-07-11,Jamun- Syzygium cumini,1.0,2.0,,1.0,1.0,,,1.0,2.0,,2016,24
+2016-09-19,Jamun- Syzygium cumini,0.0,2.0,,0.0,1.0,,,0.0,0.0,,2016,33
+2016-09-26,Jamun- Syzygium cumini,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,34
+2016-10-03,Jamun- Syzygium cumini,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-02-08,Jamun- Syzygium cumini,1.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,5
+2016-02-15,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,5
+2020-03-30,Jamun- Syzygium cumini,2.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2020,11
+2015-12-14,Jamun- Syzygium cumini,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,44
+2015-10-04,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,35
+2016-02-01,Jamun- Syzygium cumini,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,4
+2015-12-07,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,43
+2015-09-27,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,34
+2020-03-26,Jamun- Syzygium cumini,2.0,1.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2020,11
+2015-11-30,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,43
+2016-01-11,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,1
+2016-01-18,Jamun- Syzygium cumini,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,2
+2016-01-25,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,3
+2016-04-18,Jamun- Syzygium cumini,2.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,14
+2016-04-25,Jamun- Syzygium cumini,2.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,14
+2014-02-03,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,4
+2015-12-28,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,46
+2015-12-21,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,45
+2015-04-19,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,14
+2014-09-03,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,31
+2015-04-12,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,13
+2015-08-23,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2015,30
+2014-02-23,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,6
+2015-08-16,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2015,29
+2014-04-13,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,13
+2014-06-04,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,19
+2015-05-10,Jamun- Syzygium cumini,1.0,2.0,,2.0,0.0,,,0.0,0.0,,2015,16
+2014-03-30,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,11
+2015-05-03,Jamun- Syzygium cumini,2.0,2.0,,2.0,0.0,,,0.0,0.0,,2015,15
+2016-08-10,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,28
+2015-11-09,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,40
+2014-04-20,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,14
+2016-05-09,Jamun- Syzygium cumini,2.0,0.0,,1.0,0.0,,,0.0,0.0,,2016,16
+2016-05-02,Jamun- Syzygium cumini,2.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,15
+2014-03-16,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,9
+2015-04-26,Jamun- Syzygium cumini,2.0,2.0,,2.0,0.0,,,0.0,0.0,,2015,14
+2014-03-23,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,10
+2015-08-30,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,31
+2015-09-06,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,32
+2015-03-29,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,11
+2023-11-09,Jamun- Syzygium cumini,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,40
+2015-03-22,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,10
+2016-03-28,Jamun- Syzygium cumini,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,11
+2016-04-04,Jamun- Syzygium cumini,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,12
+2014-02-16,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,6
+2015-04-05,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,12
+2016-03-21,Jamun- Syzygium cumini,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,10
+2016-03-14,Jamun- Syzygium cumini,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,9
+2016-02-22,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,6
+2016-02-29,Jamun- Syzygium cumini,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,7
+2016-03-07,Jamun- Syzygium cumini,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,8
+2016-04-11,Jamun- Syzygium cumini,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,13
+2023-11-04,Jamun- Syzygium cumini,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+2019-03-15,Jamun- Syzygium cumini,2.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,9
+2019-09-14,Khajur- Phoenix sylvestris,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,33
+2022-06-18,Mango (all varieties)- Mangifera indica,0.0,1.0,1.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2022,21
+2022-08-27,Mango (all varieties)- Mangifera indica,1.0,2.0,0.0,1.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2022,30
+2021-11-20,Mango (all varieties)- Mangifera indica,0.0,1.0,1.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2021,41
+2022-11-26,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,-2.0,2022,42
+2020-11-20,Mango (all varieties)- Mangifera indica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,41
+2022-08-13,Mango (all varieties)- Mangifera indica,1.0,2.0,0.0,1.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,28
+2021-04-11,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,2021,13
+2021-07-05,Mango (all varieties)- Mangifera indica,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,2021,23
+2022-06-11,Mango (all varieties)- Mangifera indica,1.0,1.0,1.0,0.0,0.0,-2.0,-2.0,1.0,1.0,-2.0,2022,20
+2022-07-16,Mango (all varieties)- Mangifera indica,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,1.0,1.0,-2.0,2022,25
+2022-07-30,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,27
+2021-07-30,Mango (all varieties)- Mangifera indica,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,2021,27
+2023-03-11,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,9
+2022-07-23,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2022,26
+2022-12-03,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,43
+2022-12-31,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,-2.0,2022,47
+2022-06-26,Mango (all varieties)- Mangifera indica,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,1.0,1.0,-2.0,2022,22
+2021-09-04,Mango (all varieties)- Mangifera indica,1.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,2021,31
+2023-03-04,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,8
+2022-07-09,Mango (all varieties)- Mangifera indica,1.0,1.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,24
+2022-09-24,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,34
+2022-04-16,Mango (all varieties)- Mangifera indica,2.0,1.0,0.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,13
+2021-01-20,Mango (all varieties)- Mangifera indica,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,2021,2
+2022-02-26,Mango (all varieties)- Mangifera indica,1.0,2.0,2.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2022,7
+2023-01-28,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,3
+2022-03-26,Mango (all varieties)- Mangifera indica,1.0,1.0,0.0,1.0,2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,10
+2023-01-14,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,1
+2022-10-15,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,37
+2022-03-12,Mango (all varieties)- Mangifera indica,1.0,1.0,1.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2022,9
+2022-10-08,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,36
+2022-10-22,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,2022,37
+2022-10-01,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,35
+2022-04-09,Mango (all varieties)- Mangifera indica,1.0,1.0,1.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2022,12
+2023-02-11,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,1.0,-2.0,2023,5
+2022-09-10,Mango (all varieties)- Mangifera indica,1.0,2.0,0.0,1.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,32
+2022-01-15,Mango (all varieties)- Mangifera indica,0.0,1.0,2.0,0.0,2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,1
+2021-03-16,Mango (all varieties)- Mangifera indica,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,2021,9
+2022-09-03,Mango (all varieties)- Mangifera indica,1.0,2.0,0.0,1.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2022,31
+2020-12-17,Mango (all varieties)- Mangifera indica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,45
+2022-05-14,Mango (all varieties)- Mangifera indica,2.0,2.0,0.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,17
+2022-02-12,Mango (all varieties)- Mangifera indica,1.0,1.0,0.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2022,5
+2022-09-17,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2022,33
+2022-11-12,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,40
+2021-02-17,Mango (all varieties)- Mangifera indica,2.0,2.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,2021,6
+2022-02-05,Mango (all varieties)- Mangifera indica,1.0,1.0,1.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2022,4
+2022-11-05,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,39
+2023-07-15,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,25
+2023-06-17,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,1.0,-2.0,2023,21
+2023-07-01,Mango (all varieties)- Mangifera indica,2.0,2.0,1.0,1.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2023,23
+2023-06-03,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,2023,19
+2018-07-05,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2018,23
+2014-04-07,Mango (all varieties)- Mangifera indica,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2014,12
+2023-07-08,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2023,24
+2019-06-12,Mango (all varieties)- Mangifera indica,2.0,2.0,1.0,-1.0,-1.0,-2.0,-2.0,2.0,1.0,-2.0,2019,20
+2023-10-14,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,1.0,-2.0,2023,36
+2023-11-04,Mango (all varieties)- Mangifera indica,0.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+2023-10-08,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2023,36
+2023-08-19,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,1.0,-2.0,2023,29
+2023-08-12,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2023,28
+2023-08-05,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,27
+2023-11-18,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,1.0,-2.0,2023,41
+2023-09-09,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,1.0,-2.0,2023,32
+2023-09-16,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,1.0,-2.0,2023,33
+2023-08-26,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2023,30
+2023-09-02,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,1.0,-2.0,2023,31
+2023-04-22,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,14
+2014-01-23,Mango (all varieties)- Mangifera indica,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2014,2
+2015-08-21,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,30
+2023-04-15,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,1.0,-2.0,2023,13
+2023-12-23,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,45
+2023-04-29,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,15
+2023-03-25,Mango (all varieties)- Mangifera indica,1.0,2.0,2.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,10
+2023-04-08,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,12
+2023-04-01,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,11
+2023-12-16,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,45
+2023-12-09,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,44
+2023-05-27,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,18
+2023-05-20,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,18
+2023-05-13,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2023,17
+2023-12-10,Mast Tree-Monoon longifolium,2.0,2.0,0.0,-2.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,2023,44
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,-1.0,-2.0,-2.0,-1.0,-1.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,0.0,2.0,1.0,-2.0,-1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-15,Mast Tree-Monoon longifolium,2.0,2.0,0.0,-2.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,2023,44
+2023-12-02,Mast Tree-Monoon longifolium,0.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,0.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,-1.0,-2.0,-2.0,2.0,2.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,2.0,2.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,-2.0,-2.0,-2.0,-2.0,1.0,-2.0,-2.0,0.0,-1.0,-2.0,2023,43
+2023-05-17,Mast Tree-Monoon longifolium,2.0,1.0,0.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
+2023-05-17,Mast Tree-Monoon longifolium,2.0,1.0,0.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
+2023-12-02,Mast Tree-Monoon longifolium,2.0,2.0,0.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,-1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,2.0,2.0,0.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,0.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,-1.0,-1.0,-2.0,2023,43
+2023-05-17,Mast Tree-Monoon longifolium,2.0,1.0,0.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,-1.0,-1.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,0.0,2.0,1.0,-2.0,-1.0,-2.0,-2.0,2.0,2.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,1.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,43
+2023-12-02,Mast Tree-Monoon longifolium,2.0,2.0,0.0,-2.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,2023,43
+2023-11-30,Maulsari- Mimusops elengi,1.0,2.0,1.0,1.0,2.0,-2.0,-2.0,-1.0,-1.0,-2.0,2023,43
+2023-11-29,Maulsari- Mimusops elengi,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2023,42
+2022-08-24,Neem- Azadirachta indica,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,30
+2022-09-02,Neem- Azadirachta indica,2.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,31
+2022-09-02,Neem- Azadirachta indica,2.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,31
+2022-09-02,Neem- Azadirachta indica,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,31
+2023-11-04,Neem- Azadirachta indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+2023-08-17,Neem- Azadirachta indica,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023,29
+2023-07-20,Neem- Azadirachta indica,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2023,25
+2020-02-05,Neem- Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2020,4
+2019-09-16,Neem- Azadirachta indica,1.0,2.0,-2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,33
+2019-09-16,Neem- Azadirachta indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,33
+2019-03-18,Neem- Azadirachta indica,0.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2019,9
+2023-11-09,Night Flowering Jasmine- Harsingar- Nyctanthes arbor-tristis,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,40
+2019-03-15,Night Flowering Jasmine- Harsingar- Nyctanthes arbor-tristis,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,1.0,-1.0,-2.0,2019,9
+2019-11-22,Night Flowering Jasmine- Harsingar- Nyctanthes arbor-tristis,1.0,2.0,1.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2019,41
+2019-11-14,Night Flowering Jasmine- Harsingar- Nyctanthes arbor-tristis,1.0,2.0,1.0,1.0,2.0,-2.0,-2.0,1.0,0.0,-2.0,2019,40
+2023-11-04,Peepal- Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+2019-03-15,Peepal- Ficus religiosa,0.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,9
+2023-05-17,Peepal- Ficus religiosa,1.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,2.0,0.0,-2.0,2023,17
+2019-09-16,Peepal- Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2019,33
+2023-10-03,Peepal- Ficus religiosa,2.0,2.0,1.0,-2.0,-2.0,0.0,0.0,0.0,0.0,0.0,2023,35
+2023-10-03,Peepal- Ficus religiosa,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,2.0,-2.0,2023,35
+2023-10-03,Peepal- Ficus religiosa,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,35
+2019-03-18,Peepal- Ficus religiosa,0.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2019,9
+2015-09-07,Peepal- Ficus religiosa,-1.0,-1.0,,-1.0,-1.0,,,-1.0,-1.0,,2015,32
+2022-08-24,Peepal- Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,30
+2023-10-10,Peepal- Ficus religiosa,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,36
+2023-10-10,Peepal- Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,36
+2023-10-10,Peepal- Ficus religiosa,1.0,2.0,2.0,-2.0,-2.0,0.0,0.0,0.0,0.0,0.0,2023,36
+2023-10-10,Peepal- Ficus religiosa,2.0,2.0,2.0,-2.0,-2.0,0.0,0.0,0.0,0.0,0.0,2023,36
+2023-10-10,Peepal- Ficus religiosa,2.0,2.0,2.0,-2.0,-2.0,0.0,0.0,0.0,0.0,0.0,2023,36
+2023-11-13,Peepal- Ficus religiosa,-2.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,40
+2018-10-13,Pongam Tree- Pongamia pinnata,-1.0,2.0,-1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,2018,36
+2023-11-29,Pride of India- Lagerstroemia speciosa,1.0,2.0,2.0,-2.0,1.0,-2.0,-2.0,-2.0,2.0,-2.0,2023,42
+2019-09-16,Purple bauhinia- Bauhinia purpurea,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2019,33
+2019-12-08,Quickstick- Gliricidia sepium,2.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2019,44
+2020-03-30,Red silk-cotton- Bombax ceiba,1.0,0.0,1.0,0.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2020,11
+2020-03-09,Red silk-cotton- Bombax ceiba,0.0,0.0,1.0,1.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2020,8
+2015-08-21,Red silk-cotton- Bombax ceiba,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2015,30
+2023-05-17,Red silk-cotton- Bombax ceiba,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
+2020-03-01,Red silk-cotton- Bombax ceiba,0.0,0.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2020,7
+2020-03-26,Red silk-cotton- Bombax ceiba,0.0,1.0,1.0,1.0,1.0,-2.0,-2.0,1.0,0.0,0.0,2020,11
+2019-09-16,Red silk-cotton- Bombax ceiba,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2019,33
+2020-03-02,Red silk-cotton- Bombax ceiba,0.0,1.0,1.0,1.0,1.0,-2.0,-2.0,0.0,0.0,0.0,2020,7
+2019-03-18,Red silk-cotton- Bombax ceiba,0.0,0.0,0.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2019,9
+2022-09-02,Red silk-cotton- Bombax ceiba,2.0,2.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2022,31
+2020-03-30,Silkworm Mulberry- Morus alba,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,-2.0,2020,11
+2019-03-15,Silkworm Mulberry- Morus alba,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,2019,9
+2020-03-09,Silkworm Mulberry- Morus alba,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-2.0,2020,8
+2020-03-29,Silkworm Mulberry- Morus alba,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,-2.0,2020,11
+2020-03-02,Silkworm Mulberry- Morus alba,-1.0,0.0,0.0,0.0,0.0,-1.0,-1.0,2.0,0.0,-2.0,2020,7
+2020-03-17,Tamarind- Tamarindus indica,0.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2020,9
+2020-03-26,Tamarind- Tamarindus indica,1.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2020,11
+2021-09-05,Teak- Tectona grandis,-2.0,2.0,-2.0,2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2021,31
+2023-11-05,Toddy palm- Borassus flabellifer,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+2014-02-16,True Ashoka- Saraca asoca,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,6
+2015-04-06,True Ashoka- Saraca asoca,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,12
+2015-04-12,True Ashoka- Saraca asoca,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,13
+2014-07-27,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,26
+2014-07-20,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,25
+2014-10-08,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,36
+2015-05-10,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,16
+2014-03-23,True Ashoka- Saraca asoca,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,10
+2014-03-16,True Ashoka- Saraca asoca,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,9
+2014-04-20,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,14
+2014-04-27,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,15
+2014-04-13,True Ashoka- Saraca asoca,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,13
+2015-05-03,True Ashoka- Saraca asoca,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,15
+2014-03-30,True Ashoka- Saraca asoca,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,11
+2014-12-01,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,43
+2014-02-03,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,4
+2014-09-03,True Ashoka- Saraca asoca,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,31
+2014-02-23,True Ashoka- Saraca asoca,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,6
+2015-04-19,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,14
+2014-05-25,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,18
+2014-01-06,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,0
+2014-11-05,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,39
+2015-04-26,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,14
+2014-06-15,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,21
+2014-08-06,True Ashoka- Saraca asoca,1.0,2.0,,2.0,2.0,,,0.0,-1.0,,2014,28
+2014-01-19,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,2
+2014-09-02,True Ashoka- Saraca asoca,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,31
+2014-05-01,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,15
+2014-02-02,True Ashoka- Saraca asoca,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,4
+2023-11-04,True Ashoka- Saraca asoca,0.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2023,39
+2021-07-11,True Ashoka- Saraca asoca,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2021,24
+2014-01-26,True Ashoka- Saraca asoca,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2014,3
+2015-03-22,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,10
+2015-06-28,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,23
+2015-03-29,True Ashoka- Saraca asoca,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,11
+2019-03-18,Vilaiti keekar- Prosopis juliflora,1.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2019,9
+2022-03-30,Wood Apple- Aegle marmelos,1.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2.0,-1.0,-2.0,2022,11
+2022-04-22,Wood Apple- Aegle marmelos,0.0,0.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,1.0,-2.0,2022,14
+2023-12-10,Wood Apple- Aegle marmelos,2.0,-1.0,2.0,-1.0,-1.0,-2.0,-2.0,2.0,0.0,-2.0,2023,44
+2023-12-02,Wood Apple- Aegle marmelos,-1.0,2.0,2.0,-1.0,-1.0,0.0,0.0,2.0,0.0,0.0,2023,43
+2023-11-09,Wood Apple- Aegle marmelos,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2023,40
