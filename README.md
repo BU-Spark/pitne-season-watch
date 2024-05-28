@@ -1,7 +1,10 @@
-# TEMPLATE-base-repo
+# COMMIT DOC
 
-Create a new branch from dev, add changes on the new branch you just created.
+The code is in data_cleaning.ipynb
 
-Open a Pull Request to dev. Add your PM and TPM as reviewers. 
+The 'india' folder contains the shapefiles which i used to classify which state a particular coordinate of latitude and longitude falls into.
+I thoroughly tested this and know its correct.
 
-At the end of the semester during project wrap up open a final Pull Request to main from dev branch.
+The citizenData folder contains the cleaned CSV files which are formatted similar to reference data for the ease of plotting and visualization.
+
+The updated_alldata.csv is the backup dataset which i kept just in case. It is basically just the original dataset except that I filled in the state names using latitude and longitude and sorted it by species. 
