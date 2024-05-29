@@ -1,0 +1,94 @@
+Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+2016-08-28,Amla- Phyllanthus emblica,1.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,31
+2016-09-05,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,32
+2016-09-12,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,32
+2016-09-19,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,33
+2016-09-26,Amla- Phyllanthus emblica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,34
+2016-08-22,Amla- Phyllanthus emblica,2.0,1.0,,1.0,1.0,,,1.0,2.0,,2016,30
+2016-05-27,Amla- Phyllanthus emblica,2.0,2.0,,0.0,1.0,,,1.0,0.0,,2016,19
+2016-06-03,Amla- Phyllanthus emblica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,19
+2016-06-10,Amla- Phyllanthus emblica,2.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,20
+2016-06-17,Amla- Phyllanthus emblica,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,21
+2016-06-24,Amla- Phyllanthus emblica,1.0,1.0,,1.0,1.0,,,1.0,0.0,,2016,22
+2016-07-04,Amla- Phyllanthus emblica,1.0,1.0,,1.0,1.0,,,0.0,0.0,,2016,23
+2016-07-18,Amla- Phyllanthus emblica,1.0,1.0,,1.0,1.0,,,1.0,0.0,,2016,25
+2016-07-25,Amla- Phyllanthus emblica,1.0,1.0,,1.0,0.0,,,1.0,1.0,,2016,26
+2016-08-01,Amla- Phyllanthus emblica,1.0,1.0,,0.0,1.0,,,1.0,1.0,,2016,27
+2016-08-08,Amla- Phyllanthus emblica,1.0,1.0,,0.0,1.0,,,1.0,2.0,,2016,28
+2016-08-15,Amla- Phyllanthus emblica,2.0,1.0,,0.0,1.0,,,1.0,2.0,,2016,29
+2016-07-08,Amla- Phyllanthus emblica,1.0,2.0,,1.0,1.0,,,1.0,0.0,,2016,24
+2016-10-03,Amla- Phyllanthus emblica,2.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,35
+2016-10-10,Amla- Phyllanthus emblica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,36
+2016-10-17,Amla- Phyllanthus emblica,2.0,1.0,,2.0,1.0,,,1.0,1.0,,2016,37
+2016-10-24,Amla- Phyllanthus emblica,1.0,2.0,,1.0,1.0,,,1.0,0.0,,2016,38
+2016-11-07,Amla- Phyllanthus emblica,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,40
+2016-10-31,Amla- Phyllanthus emblica,2.0,2.0,,2.0,1.0,,,1.0,1.0,,2016,39
+2016-11-14,Amla- Phyllanthus emblica,2.0,1.0,,2.0,1.0,,,2.0,1.0,,2016,41
+2016-11-21,Amla- Phyllanthus emblica,2.0,1.0,,2.0,1.0,,,2.0,1.0,,2016,41
+2016-11-28,Amla- Phyllanthus emblica,2.0,2.0,,2.0,1.0,,,2.0,2.0,,2016,42
+2016-12-05,Amla- Phyllanthus emblica,2.0,2.0,,1.0,0.0,,,2.0,2.0,,2016,43
+2016-04-15,Amla- Phyllanthus emblica,1.0,-1.0,,0.0,0.0,,,0.0,0.0,,2016,13
+2016-04-24,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,14
+2016-05-02,Amla- Phyllanthus emblica,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,15
+2016-05-12,Amla- Phyllanthus emblica,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,17
+2016-05-20,Amla- Phyllanthus emblica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,18
+2016-05-04,Amla- Phyllanthus emblica,1.0,2.0,,0.0,1.0,,,1.0,0.0,,2016,16
+2016-05-06,Amla- Phyllanthus emblica,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2016,16
+2016-02-05,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,4
+2016-02-12,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,5
+2016-03-16,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,9
+2016-04-01,Amla- Phyllanthus emblica,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,11
+2016-04-08,Amla- Phyllanthus emblica,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,12
+2016-03-07,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,8
+2016-03-25,Amla- Phyllanthus emblica,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,10
+2016-02-26,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,7
+2016-02-19,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,6
+2016-03-11,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,9
+2022-08-24,Indian laburnum- Cassia fistula,2.0,2.0,0.0,1.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,30
+2016-01-29,Indian laburnum- Cassia fistula,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,3
+2016-01-28,Indian laburnum- Cassia fistula,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,3
+2016-02-06,Indian laburnum- Cassia fistula,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,4
+2019-06-15,Jackfruit- Artocarpus heterophyllus,2.0,1.0,0.0,-2.0,-2.0,1.0,0.0,1.0,-2.0,-2.0,2019,21
+2016-01-28,Jamun- Syzygium cumini,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,3
+2016-09-12,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,32
+2016-09-19,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,33
+2016-09-26,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,34
+2016-08-29,Mango (all varieties)- Mangifera indica,2.0,1.0,,0.0,1.0,,,1.0,0.0,,2016,31
+2016-09-05,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,32
+2016-01-28,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,3
+2016-10-03,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,35
+2016-10-10,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2016,36
+2016-10-17,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2016,37
+2016-11-28,Mango (all varieties)- Mangifera indica,1.0,2.0,,1.0,1.0,,,1.0,2.0,,2016,42
+2016-12-05,Mango (all varieties)- Mangifera indica,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,43
+2016-11-21,Mango (all varieties)- Mangifera indica,2.0,2.0,,-1.0,1.0,,,1.0,0.0,,2016,41
+2016-10-24,Mango (all varieties)- Mangifera indica,0.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,38
+2016-10-31,Mango (all varieties)- Mangifera indica,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,39
+2016-11-14,Mango (all varieties)- Mangifera indica,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,41
+2016-11-07,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,40
+2016-05-20,Mango (all varieties)- Mangifera indica,2.0,2.0,,2.0,1.0,,,2.0,1.0,,2016,18
+2016-04-15,Mango (all varieties)- Mangifera indica,2.0,2.0,,2.0,1.0,,,2.0,0.0,,2016,13
+2016-04-08,Mango (all varieties)- Mangifera indica,2.0,2.0,,2.0,0.0,,,0.0,0.0,,2016,12
+2016-05-02,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,0.0,,,2.0,1.0,,2016,15
+2016-05-06,Mango (all varieties)- Mangifera indica,2.0,1.0,,2.0,1.0,,,2.0,1.0,,2016,16
+2016-05-12,Mango (all varieties)- Mangifera indica,1.0,2.0,,1.0,0.0,,,2.0,1.0,,2016,17
+2016-04-25,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,0.0,,,2.0,1.0,,2016,14
+2016-07-11,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2016,24
+2016-07-25,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2016,26
+2016-08-01,Mango (all varieties)- Mangifera indica,2.0,2.0,,0.0,1.0,,,1.0,2.0,,2016,27
+2016-08-08,Mango (all varieties)- Mangifera indica,1.0,2.0,,1.0,1.0,,,1.0,2.0,,2016,28
+2016-08-15,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,29
+2016-08-22,Mango (all varieties)- Mangifera indica,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2016,30
+2016-07-04,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,0.0,,,2.0,2.0,,2016,23
+2016-07-18,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2016,25
+2016-05-27,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,1.0,,,1.0,1.0,,2016,19
+2016-06-03,Mango (all varieties)- Mangifera indica,1.0,2.0,,2.0,2.0,,,2.0,1.0,,2016,19
+2016-06-10,Mango (all varieties)- Mangifera indica,1.0,2.0,,1.0,2.0,,,2.0,1.0,,2016,20
+2016-06-17,Mango (all varieties)- Mangifera indica,2.0,1.0,,2.0,2.0,,,2.0,1.0,,2016,21
+2016-06-24,Mango (all varieties)- Mangifera indica,2.0,2.0,,1.0,2.0,,,2.0,2.0,,2016,22
+2016-01-28,Neem- Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,3
+2016-01-29,Neem- Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,3
+2016-02-11,Pongam Tree- Pongamia pinnata,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,5
+2016-01-19,Pongam Tree- Pongamia pinnata,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,2
+2016-01-29,Pongam Tree- Pongamia pinnata,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,3
+2022-08-24,Pride of India- Lagerstroemia speciosa,2.0,2.0,1.0,1.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2022,30
