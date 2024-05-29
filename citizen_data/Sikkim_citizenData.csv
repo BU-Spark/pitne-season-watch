@@ -1,0 +1,485 @@
+Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+2016-10-31,Amla- Phyllanthus emblica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2016-11-21,Amla- Phyllanthus emblica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2016-11-14,Amla- Phyllanthus emblica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2016-09-05,Amla- Phyllanthus emblica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,32
+2016-09-12,Amla- Phyllanthus emblica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,32
+2016-09-19,Amla- Phyllanthus emblica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,33
+2016-09-27,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,34
+2016-10-05,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-08-08,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,28
+2016-08-15,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,29
+2016-08-22,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,30
+2016-08-29,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,31
+2016-11-01,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2016-10-10,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2016-10-17,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
+2016-10-24,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,38
+2017-01-09,Amla- Phyllanthus emblica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2017-01-16,Amla- Phyllanthus emblica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2017-01-02,Amla- Phyllanthus emblica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2016-12-12,Amla- Phyllanthus emblica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2016-12-19,Amla- Phyllanthus emblica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,45
+2016-11-28,Amla- Phyllanthus emblica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42
+2016-12-05,Amla- Phyllanthus emblica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,43
+2016-12-26,Amla- Phyllanthus emblica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2016-06-21,Amla- Phyllanthus emblica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,22
+2016-06-21,Amla- Phyllanthus emblica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,22
+2016-07-26,Amla- Phyllanthus emblica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,26
+2016-07-11,Amla- Phyllanthus emblica,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,24
+2016-07-04,Amla- Phyllanthus emblica,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,23
+2016-08-01,Amla- Phyllanthus emblica,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,27
+2016-08-10,Amla- Phyllanthus emblica,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,28
+2023-11-03,Banyan-Ficus benghalensis,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,39
+2023-11-03,Banyan-Ficus benghalensis,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,39
+2023-10-16,Blue pine-Pinus wallichiana,0.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,37
+2023-10-23,Chiku- Sapodilla-Manilkara zapota ,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,38
+2023-10-23,Coconut palm-Cocos nucifera,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,38
+2023-10-30,Evergreen Maple-Acer oblongum,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,39
+2017-04-12,Gamar- Gmelina arborea,1.0,1.0,,-1.0,2.0,,,-1.0,2.0,,2017,13
+2021-08-27,Guava tree-Psidium guajava,2.0,2.0,1.0,1.0,2.0,-2.0,-2.0,2.0,1.0,-2.0,2021,30
+2021-09-03,Guava tree-Psidium guajava,2.0,2.0,1.0,1.0,2.0,0.0,0.0,2.0,1.0,0.0,2021,31
+2021-08-12,Guava tree-Psidium guajava,2.0,2.0,1.0,1.0,2.0,0.0,0.0,2.0,1.0,0.0,2021,28
+2021-09-09,Guava tree-Psidium guajava,2.0,2.0,1.0,1.0,2.0,0.0,0.0,2.0,1.0,0.0,2021,32
+2023-10-16,Guava tree-Psidium guajava,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,37
+2017-05-15,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,0.0,2.0,,2017,17
+2017-05-02,Gulmohur- Delonix regia,2.0,1.0,,1.0,1.0,,,0.0,2.0,,2017,15
+2017-04-27,Gulmohur- Delonix regia,2.0,0.0,,0.0,0.0,,,0.0,2.0,,2017,15
+2017-05-08,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,0.0,2.0,,2017,16
+2017-05-22,Gulmohur- Delonix regia,0.0,2.0,,1.0,1.0,,,0.0,2.0,,2017,18
+2017-07-03,Gulmohur- Delonix regia,0.0,2.0,,-1.0,1.0,,,1.0,2.0,,2017,23
+2017-06-26,Gulmohur- Delonix regia,0.0,2.0,,1.0,1.0,,,1.0,2.0,,2017,22
+2017-06-19,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,2.0,,2017,21
+2017-06-12,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,2.0,,2017,20
+2017-06-05,Gulmohur- Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,2.0,,2017,20
+2017-05-29,Gulmohur- Delonix regia,0.0,2.0,,1.0,1.0,,,1.0,2.0,,2017,19
+2016-06-22,Gulmohur- Delonix regia,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,22
+2016-06-22,Gulmohur- Delonix regia,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,22
+2016-06-22,Gulmohur- Delonix regia,2.0,2.0,,0.0,1.0,,,2.0,1.0,,2016,22
+2017-01-02,Himalayan Cherry- Prunus cerasoides,2.0,1.0,,0.0,1.0,,,0.0,0.0,,2017,0
+2016-12-25,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,1.0,,,0.0,0.0,,2016,46
+2016-08-29,Himalayan Cherry- Prunus cerasoides,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,31
+2016-09-05,Himalayan Cherry- Prunus cerasoides,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,32
+2016-06-20,Himalayan Cherry- Prunus cerasoides,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,22
+2018-11-19,Himalayan Cherry- Prunus cerasoides,-2.0,-2.0,-2.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2018,41
+2017-02-05,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,4
+2016-09-25,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,34
+2017-01-30,Himalayan Cherry- Prunus cerasoides,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,3
+2016-08-08,Himalayan Cherry- Prunus cerasoides,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,28
+2016-10-02,Himalayan Cherry- Prunus cerasoides,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,35
+2016-09-19,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,33
+2017-01-15,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2016-09-25,Himalayan Cherry- Prunus cerasoides,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,34
+2017-01-22,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2016-08-15,Himalayan Cherry- Prunus cerasoides,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,29
+2017-01-08,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,1.0,,,0.0,0.0,,2017,1
+2016-09-11,Himalayan Cherry- Prunus cerasoides,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,32
+2017-02-27,Himalayan Cherry- Prunus cerasoides,0.0,2.0,,0.0,0.0,,,2.0,0.0,,2017,7
+2016-11-21,Himalayan Cherry- Prunus cerasoides,1.0,0.0,,1.0,2.0,,,0.0,0.0,,2016,41
+2016-10-30,Himalayan Cherry- Prunus cerasoides,0.0,0.0,,2.0,0.0,,,0.0,0.0,,2016,39
+2017-03-19,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,10
+2017-02-12,Himalayan Cherry- Prunus cerasoides,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,5
+2017-03-05,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2017,8
+2016-11-27,Himalayan Cherry- Prunus cerasoides,2.0,0.0,,0.0,2.0,,,0.0,0.0,,2016,42
+2016-10-23,Himalayan Cherry- Prunus cerasoides,0.0,0.0,,2.0,0.0,,,0.0,0.0,,2016,38
+2017-02-19,Himalayan Cherry- Prunus cerasoides,0.0,2.0,,0.0,0.0,,,2.0,0.0,,2017,6
+2017-03-12,Himalayan Cherry- Prunus cerasoides,1.0,2.0,,0.0,0.0,,,1.0,1.0,,2017,9
+2021-07-21,Himalayan Cherry- Prunus cerasoides,2.0,1.0,0.0,0.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,2021,26
+2016-08-21,Himalayan Cherry- Prunus cerasoides,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,30
+2016-12-04,Himalayan Cherry- Prunus cerasoides,2.0,1.0,,1.0,1.0,,,0.0,0.0,,2016,43
+2016-12-11,Himalayan Cherry- Prunus cerasoides,2.0,1.0,,0.0,1.0,,,0.0,0.0,,2016,44
+2016-10-17,Himalayan Cherry- Prunus cerasoides,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,37
+2016-11-06,Himalayan Cherry- Prunus cerasoides,0.0,0.0,,2.0,1.0,,,0.0,0.0,,2016,40
+2016-10-09,Himalayan Cherry- Prunus cerasoides,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,36
+2017-04-02,Himalayan Cherry- Prunus cerasoides,0.0,2.0,,0.0,0.0,,,1.0,2.0,,2017,11
+2016-12-18,Himalayan Cherry- Prunus cerasoides,2.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,45
+2016-11-13,Himalayan Cherry- Prunus cerasoides,0.0,0.0,,1.0,1.0,,,0.0,0.0,,2016,40
+2017-03-26,Himalayan Cherry- Prunus cerasoides,0.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,10
+2023-10-30,Himalayan Fir-Abies pindrow,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,39
+2023-10-30,Himalayan Maple- Acer sterculiaceum,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,39
+2017-04-02,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,0.0,1.0,,,0.0,0.0,,2017,11
+2017-03-05,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,2.0,,,0.0,0.0,,2017,8
+2016-09-25,Himalayan rhododendron- Rhododendron arboreum,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,34
+2017-02-05,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,4
+2017-01-30,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,3
+2017-03-19,Himalayan rhododendron- Rhododendron arboreum,1.0,1.0,,1.0,2.0,,,0.0,0.0,,2017,10
+2016-10-16,Himalayan rhododendron- Rhododendron arboreum,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
+2016-10-10,Himalayan rhododendron- Rhododendron arboreum,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2016-10-02,Himalayan rhododendron- Rhododendron arboreum,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-11-21,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2017-02-27,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,7
+2016-12-25,Himalayan rhododendron- Rhododendron arboreum,0.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,46
+2016-06-21,Himalayan rhododendron- Rhododendron arboreum,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,22
+2016-10-23,Himalayan rhododendron- Rhododendron arboreum,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,38
+2017-01-22,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,2
+2016-11-13,Himalayan rhododendron- Rhododendron arboreum,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2017-02-19,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,6
+2016-11-27,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,42
+2016-12-18,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,45
+2017-02-12,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,5
+2016-12-04,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,43
+2017-01-02,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,0
+2016-10-30,Himalayan rhododendron- Rhododendron arboreum,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2017-05-11,Himalayan rhododendron- Rhododendron arboreum,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,16
+2016-12-11,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,44
+2017-03-26,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,2.0,,,0.0,0.0,,2017,10
+2016-10-09,Himalayan rhododendron- Rhododendron arboreum,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2017-01-15,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,1
+2016-11-06,Himalayan rhododendron- Rhododendron arboreum,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2017-03-12,Himalayan rhododendron- Rhododendron arboreum,1.0,1.0,,1.0,2.0,,,0.0,0.0,,2017,9
+2017-06-13,Himalayan rhododendron- Rhododendron arboreum,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,21
+2016-10-21,Himalayan rhododendron- Rhododendron arboreum,2.0,1.0,,2.0,0.0,,,0.0,0.0,,2016,37
+2017-01-08,Himalayan rhododendron- Rhododendron arboreum,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,1
+2023-10-30,Himalayan silver fir-Abies spectabilis,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,39
+2016-06-20,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,22
+2016-06-22,Indian coral tree- Erythrina indica,2.0,2.0,,2.0,1.0,,,0.0,0.0,,2016,22
+2016-08-03,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,27
+2016-08-10,Indian coral tree- Erythrina indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,28
+2016-07-25,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,26
+2016-08-27,Indian coral tree- Erythrina indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,30
+2016-08-20,Indian coral tree- Erythrina indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,30
+2016-07-18,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,25
+2016-08-01,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,27
+2016-08-08,Indian coral tree- Erythrina indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,28
+2016-06-20,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,22
+2016-06-27,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,23
+2016-07-06,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,24
+2016-07-11,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,24
+2016-07-04,Indian coral tree- Erythrina indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,23
+2016-09-19,Indian coral tree- Erythrina indica,1.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,33
+2016-09-12,Indian coral tree- Erythrina indica,1.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,32
+2016-09-05,Indian coral tree- Erythrina indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,32
+2016-10-10,Indian coral tree- Erythrina indica,0.0,2.0,,2.0,2.0,,,0.0,0.0,,2016,36
+2016-10-17,Indian coral tree- Erythrina indica,0.0,2.0,,2.0,2.0,,,0.0,0.0,,2016,37
+2016-10-03,Indian coral tree- Erythrina indica,0.0,2.0,,2.0,2.0,,,0.0,0.0,,2016,35
+2016-09-26,Indian coral tree- Erythrina indica,0.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,34
+2016-10-24,Indian coral tree- Erythrina indica,0.0,2.0,,2.0,2.0,,,0.0,0.0,,2016,38
+2021-07-14,Indian elm- Holoptelea integrifolia,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2021,25
+2017-01-16,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2016-12-05,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,43
+2016-07-06,Jackfruit- Artocarpus heterophyllus,2.0,-1.0,,-1.0,-1.0,,,-1.0,-1.0,,2016,24
+2017-01-03,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2017-01-02,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2016-12-12,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2016-11-21,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2016-11-14,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2016-11-28,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42
+2016-10-31,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2016-12-26,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2016-12-19,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,45
+2023-10-30,Jackfruit- Artocarpus heterophyllus,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,39
+2016-10-05,Jackfruit- Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-09-27,Jackfruit- Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,34
+2016-06-22,Jackfruit- Artocarpus heterophyllus,2.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,22
+2016-10-24,Jackfruit- Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,38
+2016-06-21,Jackfruit- Artocarpus heterophyllus,1.0,2.0,,1.0,1.0,,,1.0,0.0,,2016,22
+2016-11-01,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2016-10-10,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2016-10-17,Jackfruit- Artocarpus heterophyllus,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
+2016-11-13,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2016-12-05,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,43
+2016-12-11,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2017-01-02,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2017-02-05,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,4
+2016-10-09,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2016-09-25,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,34
+2016-09-12,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,32
+2016-09-19,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,33
+2016-10-02,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-12-18,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,45
+2016-12-12,Mango (all varieties)- Mangifera indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2016-09-27,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,34
+2016-10-05,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-10-31,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2016-11-14,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2016-11-21,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2016-11-28,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42
+2017-01-22,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2016-10-24,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,38
+2016-10-23,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,38
+2017-01-30,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,3
+2016-10-30,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2016-11-27,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42
+2016-11-01,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2016-10-17,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
+2016-10-10,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2016-10-17,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
+2017-01-02,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2017-01-08,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2017-01-16,Mango (all varieties)- Mangifera indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2017-01-09,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2016-12-04,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,43
+2016-11-21,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2017-01-15,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2016-11-06,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2016-06-21,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2016,22
+2016-12-26,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2016-12-25,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2016-09-19,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,33
+2016-09-19,Mango (all varieties)- Mangifera indica,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,33
+2016-12-19,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,45
+2016-08-18,Mango (all varieties)- Mangifera indica,2.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,29
+2023-10-15,Mango (all varieties)- Mangifera indica,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,37
+2017-04-02,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,1.0,,,0.0,0.0,,2017,11
+2017-02-27,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,7
+2017-03-05,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,8
+2017-02-12,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,5
+2017-02-19,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,6
+2023-04-05,Mango (all varieties)- Mangifera indica,1.0,2.0,0.0,2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,12
+2023-04-05,Mango (all varieties)- Mangifera indica,1.0,2.0,0.0,2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,12
+2023-04-05,Mango (all varieties)- Mangifera indica,1.0,2.0,0.0,2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,12
+2023-04-05,Mango (all varieties)- Mangifera indica,1.0,2.0,0.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,12
+2017-03-26,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,10
+2017-03-12,Mango (all varieties)- Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,9
+2017-03-19,Mango (all varieties)- Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,10
+2023-10-30,Mountain coffee- Coffea arabica,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,39
+2023-10-14,Peach tree-Prunus persica,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,36
+2023-10-15,Peach tree-Prunus persica,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,37
+2018-04-27,Pear tree-Pyrus pyrifolia,1.0,2.0,,-1.0,-1.0,,,-1.0,-1.0,,2018,15
+2017-11-08,Pear tree-Pyrus pyrifolia,1.0,-1.0,,0.0,0.0,,,0.0,0.0,,2017,40
+2018-03-24,Pear tree-Pyrus pyrifolia,2.0,2.0,,1.0,2.0,,,-1.0,0.0,,2018,10
+2018-01-03,Pear tree-Pyrus pyrifolia,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2018,0
+2017-11-16,Pear tree-Pyrus pyrifolia,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,41
+2016-06-22,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,22
+2017-02-19,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,6
+2016-10-30,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2017-01-25,Peepal- Ficus religiosa,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,3
+2016-09-27,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,34
+2017-03-08,Peepal- Ficus religiosa,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,8
+2017-02-22,Peepal- Ficus religiosa,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,6
+2017-02-28,Peepal- Ficus religiosa,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,7
+2017-02-07,Peepal- Ficus religiosa,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,4
+2017-02-01,Peepal- Ficus religiosa,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,4
+2017-02-14,Peepal- Ficus religiosa,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,5
+2017-01-05,Peepal- Ficus religiosa,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2017-01-19,Peepal- Ficus religiosa,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2017-01-11,Peepal- Ficus religiosa,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2021-07-21,Peepal- Ficus religiosa,2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2021,26
+2016-11-27,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42
+2017-01-30,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,3
+2017-02-12,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,5
+2016-10-02,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-11-13,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2016-12-26,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,46
+2016-12-26,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,46
+2016-09-25,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,34
+2017-05-27,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,18
+2017-06-01,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,19
+2016-11-21,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2017-06-14,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,21
+2017-06-07,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,20
+2017-05-21,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,18
+2017-07-13,Peepal- Ficus religiosa,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,24
+2017-07-21,Peepal- Ficus religiosa,1.0,2.0,,2.0,0.0,,,0.0,0.0,,2017,26
+2017-07-27,Peepal- Ficus religiosa,1.0,2.0,,2.0,0.0,,,0.0,0.0,,2017,26
+2017-06-28,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,23
+2017-07-06,Peepal- Ficus religiosa,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,24
+2017-06-22,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,22
+2017-04-05,Peepal- Ficus religiosa,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,12
+2017-03-14,Peepal- Ficus religiosa,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,9
+2017-03-22,Peepal- Ficus religiosa,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,10
+2017-03-29,Peepal- Ficus religiosa,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,11
+2017-05-09,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,16
+2017-04-26,Peepal- Ficus religiosa,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,14
+2017-05-16,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,17
+2017-04-11,Peepal- Ficus religiosa,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,13
+2017-04-19,Peepal- Ficus religiosa,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,14
+2017-05-02,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,15
+2017-08-10,Peepal- Ficus religiosa,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,28
+2017-08-03,Peepal- Ficus religiosa,1.0,2.0,,2.0,0.0,,,0.0,0.0,,2017,27
+2017-08-17,Peepal- Ficus religiosa,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2017,29
+2017-02-05,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,4
+2017-01-02,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2017-01-08,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2017-01-02,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2017-01-02,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2017,0
+2023-10-23,Peepal- Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,38
+2016-11-01,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,39
+2016-12-12,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,44
+2016-12-12,Peepal- Ficus religiosa,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2016-11-01,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,39
+2017-03-05,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,8
+2016-12-18,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,45
+2016-10-16,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
+2016-12-14,Peepal- Ficus religiosa,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2016-12-06,Peepal- Ficus religiosa,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,43
+2016-11-30,Peepal- Ficus religiosa,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,43
+2016-12-23,Peepal- Ficus religiosa,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2016-11-23,Peepal- Ficus religiosa,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,42
+2016-11-16,Peepal- Ficus religiosa,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2016-12-27,Peepal- Ficus religiosa,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2016-11-09,Peepal- Ficus religiosa,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2016-11-02,Peepal- Ficus religiosa,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2016-10-26,Peepal- Ficus religiosa,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,38
+2016-08-31,Peepal- Ficus religiosa,0.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,31
+2016-08-25,Peepal- Ficus religiosa,0.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,30
+2016-08-10,Peepal- Ficus religiosa,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,28
+2016-08-04,Peepal- Ficus religiosa,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,27
+2016-07-27,Peepal- Ficus religiosa,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,26
+2016-07-20,Peepal- Ficus religiosa,1.0,1.0,,2.0,0.0,,,0.0,0.0,,2016,26
+2016-08-18,Peepal- Ficus religiosa,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,29
+2016-10-20,Peepal- Ficus religiosa,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,37
+2016-10-13,Peepal- Ficus religiosa,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2016-10-05,Peepal- Ficus religiosa,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-09-29,Peepal- Ficus religiosa,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-08-21,Peepal- Ficus religiosa,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,30
+2016-09-14,Peepal- Ficus religiosa,0.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,33
+2016-12-04,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,43
+2016-09-08,Peepal- Ficus religiosa,0.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,32
+2016-07-14,Peepal- Ficus religiosa,1.0,1.0,,2.0,0.0,,,0.0,0.0,,2016,25
+2016-07-07,Peepal- Ficus religiosa,1.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,24
+2017-03-19,Peepal- Ficus religiosa,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,10
+2016-11-06,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2017-01-15,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2016-06-27,Peepal- Ficus religiosa,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,23
+2017-03-12,Peepal- Ficus religiosa,0.0,1.0,,1.0,0.0,,,0.0,0.0,,2017,9
+2016-10-09,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2017-01-09,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2017,1
+2017-01-16,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2017,2
+2017-01-09,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2017-01-16,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2016-10-10,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2016-10-17,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
+2016-10-03,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,35
+2016-10-17,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,37
+2016-10-10,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,36
+2016-12-05,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,43
+2016-12-05,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,43
+2016-12-11,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2016-10-05,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2016-11-28,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,42
+2016-11-21,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,41
+2016-11-14,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,41
+2016-10-31,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,39
+2016-11-28,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,42
+2016-11-21,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,41
+2016-11-14,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,41
+2016-10-31,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,39
+2016-12-25,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2017-04-02,Peepal- Ficus religiosa,0.0,0.0,,2.0,0.0,,,0.0,0.0,,2017,11
+2017-03-26,Peepal- Ficus religiosa,0.0,0.0,,2.0,0.0,,,0.0,0.0,,2017,10
+2016-10-24,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,38
+2016-10-24,Peepal- Ficus religiosa,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,38
+2017-01-22,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2016-10-23,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,38
+2017-02-27,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,7
+2016-12-19,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,45
+2016-12-19,Peepal- Ficus religiosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,45
+2023-10-23,Pink Poui-Tabebuia rosea,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,38
+2023-10-15,Plum tree-Prunus domestica,0.0,0.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,37
+2023-10-15,Plum tree-Prunus domestica,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,37
+2021-08-26,Pomegranate- Punica granatum,1.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2021,30
+2016-06-23,Pomegranate- Punica granatum,1.0,2.0,,1.0,1.0,,,2.0,0.0,,2016,22
+2019-04-05,Pomegranate- Punica granatum,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,12
+2019-07-01,Pomelo tree- Citrus maxima,0.0,2.0,,0.0,0.0,,,2.0,0.0,,2019,23
+2019-06-17,Pomelo tree- Citrus maxima,0.0,2.0,,0.0,0.0,,,2.0,0.0,,2019,21
+2019-06-10,Pomelo tree- Citrus maxima,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2019,20
+2019-09-05,Pomelo tree- Citrus maxima,-2.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2.0,2.0,-2.0,2019,31
+2019-04-03,Pride of India- Lagerstroemia speciosa,-1.0,2.0,-1.0,-1.0,2.0,-2.0,-2.0,-1.0,-1.0,-1.0,2019,11
+2019-05-13,Pride of India- Lagerstroemia speciosa,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2019,17
+2019-05-06,Pride of India- Lagerstroemia speciosa,1.0,1.0,,1.0,0.0,,,0.0,0.0,,2019,16
+2019-04-29,Pride of India- Lagerstroemia speciosa,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2019,15
+2019-04-22,Pride of India- Lagerstroemia speciosa,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2019,14
+2019-06-10,Pride of India- Lagerstroemia speciosa,0.0,2.0,,0.0,2.0,,,0.0,0.0,,2019,20
+2019-06-03,Pride of India- Lagerstroemia speciosa,0.0,2.0,,2.0,1.0,,,0.0,0.0,,2019,19
+2019-06-17,Pride of India- Lagerstroemia speciosa,1.0,2.0,,0.0,2.0,,,0.0,0.0,,2019,21
+2019-05-27,Pride of India- Lagerstroemia speciosa,0.0,2.0,,2.0,0.0,,,0.0,0.0,,2019,18
+2019-05-20,Pride of India- Lagerstroemia speciosa,0.0,2.0,,1.0,0.0,,,0.0,0.0,,2019,18
+2018-06-25,Pride of India- Lagerstroemia speciosa,0.0,2.0,,0.0,2.0,,,0.0,1.0,,2018,22
+2019-04-08,Pride of India- Lagerstroemia speciosa,2.0,0.0,,0.0,0.0,,,0.0,2.0,,2019,12
+2019-04-01,Pride of India- Lagerstroemia speciosa,0.0,0.0,,0.0,0.0,,,0.0,2.0,,2019,11
+2018-06-21,Pride of India- Lagerstroemia speciosa,0.0,2.0,,2.0,2.0,,,0.0,1.0,,2018,22
+2019-04-15,Pride of India- Lagerstroemia speciosa,2.0,0.0,,0.0,0.0,,,0.0,1.0,,2019,13
+2018-07-23,Pride of India- Lagerstroemia speciosa,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2018,26
+2018-07-16,Pride of India- Lagerstroemia speciosa,1.0,2.0,,0.0,1.0,,,1.0,1.0,,2018,25
+2018-07-09,Pride of India- Lagerstroemia speciosa,0.0,2.0,,0.0,2.0,,,0.0,1.0,,2018,24
+2018-07-02,Pride of India- Lagerstroemia speciosa,0.0,2.0,,1.0,2.0,,,0.0,1.0,,2018,23
+2018-07-30,Pride of India- Lagerstroemia speciosa,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2018,27
+2019-12-30,Pride of India- Lagerstroemia speciosa,0.0,2.0,2.0,0.0,0.0,-2.0,-2.0,0.0,-1.0,2.0,2020,46
+2018-08-27,Pride of India- Lagerstroemia speciosa,1.0,2.0,,0.0,0.0,,,2.0,2.0,,2018,30
+2019-07-01,Pride of India- Lagerstroemia speciosa,0.0,2.0,,2.0,2.0,,,0.0,0.0,,2019,23
+2018-08-06,Pride of India- Lagerstroemia speciosa,0.0,2.0,,0.0,0.0,,,2.0,1.0,,2018,28
+2018-08-20,Pride of India- Lagerstroemia speciosa,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2018,29
+2018-08-13,Pride of India- Lagerstroemia speciosa,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2018,28
+2023-04-05,Red silk-cotton- Bombax ceiba,2.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,2.0,2023,12
+2023-04-05,Red silk-cotton- Bombax ceiba,2.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,2.0,2023,12
+2023-04-05,Red silk-cotton- Bombax ceiba,2.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,2.0,2023,12
+2023-04-05,Red silk-cotton- Bombax ceiba,2.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,2.0,2023,12
+2023-04-05,Red silk-cotton- Bombax ceiba,2.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,2.0,2023,12
+2019-03-12,Red silk-cotton- Bombax ceiba,-1.0,1.0,0.0,1.0,2.0,-2.0,-2.0,-1.0,-1.0,-1.0,2019,9
+2016-06-22,Silkworm Mulberry- Morus alba,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,22
+2016-06-25,Siris- Albizia lebbeck,2.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,22
+2023-10-23,Toddy palm- Borassus flabellifer,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,38
+2017-01-16,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2016-10-10,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,36
+2016-10-30,Walnut-Juglans regia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,39
+2016-10-17,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,37
+2016-09-25,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,34
+2016-10-23,Walnut-Juglans regia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,38
+2017-01-08,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2016-11-06,Walnut-Juglans regia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,40
+2017-03-12,Walnut-Juglans regia,0.0,0.0,,1.0,0.0,,,0.0,0.0,,2017,9
+2017-01-02,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2017-01-30,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,3
+2016-10-09,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,36
+2016-11-21,Walnut-Juglans regia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2017-02-19,Walnut-Juglans regia,0.0,0.0,,1.0,0.0,,,0.0,0.0,,2017,6
+2016-10-24,Walnut-Juglans regia,1.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,38
+2017-02-05,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,4
+2017-01-09,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2016-12-25,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2016-09-27,Walnut-Juglans regia,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,34
+2016-11-01,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,39
+2017-01-22,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2016-12-18,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,45
+2016-12-26,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2016-11-27,Walnut-Juglans regia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,42
+2017-02-27,Walnut-Juglans regia,0.0,0.0,,1.0,0.0,,,0.0,0.0,,2017,7
+2016-10-31,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,39
+2017-01-02,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2017-04-02,Walnut-Juglans regia,0.0,0.0,,2.0,0.0,,,0.0,0.0,,2017,11
+2017-03-26,Walnut-Juglans regia,0.0,0.0,,2.0,0.0,,,0.0,0.0,,2017,10
+2016-12-12,Walnut-Juglans regia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2016-10-05,Walnut-Juglans regia,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,35
+2016-11-13,Walnut-Juglans regia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2016-11-21,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,41
+2016-12-05,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,43
+2017-01-15,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2017-02-12,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,5
+2016-12-11,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2016-10-17,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,37
+2017-03-05,Walnut-Juglans regia,0.0,0.0,,1.0,0.0,,,0.0,0.0,,2017,8
+2017-03-19,Walnut-Juglans regia,0.0,0.0,,2.0,0.0,,,0.0,0.0,,2017,10
+2016-11-28,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,42
+2016-12-19,Walnut-Juglans regia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,45
+2016-10-02,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,35
+2016-12-04,Walnut-Juglans regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,43
+2016-11-14,Walnut-Juglans regia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,41
+2016-11-21,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
+2017-01-30,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,3
+2017-01-22,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
+2017-03-19,White siris- Albizia procera,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,10
+2017-02-12,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,5
+2017-03-12,White siris- Albizia procera,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,9
+2016-10-02,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
+2017-01-08,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2016-11-13,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2017-01-02,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,0
+2017-02-27,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,7
+2016-10-09,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
+2017-03-26,White siris- Albizia procera,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,10
+2017-02-19,White siris- Albizia procera,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,6
+2016-12-18,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,45
+2016-10-23,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,38
+2016-12-04,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,43
+2016-10-17,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
+2017-02-05,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,4
+2016-10-30,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
+2016-11-06,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,40
+2016-12-11,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44
+2016-11-27,White siris- Albizia procera,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42
+2017-03-05,White siris- Albizia procera,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,8
+2017-01-15,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,1
+2016-12-25,White siris- Albizia procera,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46
+2023-10-23,Wild rose-Rosa webbiana,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,38
+2023-10-23,Wood Apple- Aegle marmelos,1.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,38
