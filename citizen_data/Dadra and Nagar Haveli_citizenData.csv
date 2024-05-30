@@ -1,0 +1,6 @@
+Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+2020-02-18,Indian laburnum- Cassia fistula,0.0,0.0,0.0,2.0,2.0,-2.0,-2.0,0.0,2.0,-2.0,2020,6
+2018-11-21,Kadamba-Neolamarckia cadamba,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,-2.0,0.0,0.0,2018,41
+2019-03-15,Mango (all varieties)- Mangifera indica,1.0,2.0,1.0,2.0,2.0,-2.0,-2.0,2.0,0.0,-2.0,2019,9
+2019-03-15,Purple bauhinia- Bauhinia purpurea,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2019,9
+2018-12-08,Purple bauhinia- Bauhinia purpurea,1.0,2.0,1.0,2.0,2.0,-2.0,-2.0,-2.0,-1.0,-1.0,2018,44
