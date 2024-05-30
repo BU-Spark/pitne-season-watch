@@ -1,0 +1,12 @@
+Observation_ID,Date_of_observation,User_id,User_Tree_id,Species_name,Lat,Long,State_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+235047.0,2018-12-01,15318.0,13567.0,Gamar- Gmelina arborea,13.06697,77.57372,Lakshadweep,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,44
+109880.0,2015-10-26,14042.0,7784.0,Jackfruit- Artocarpus heterophyllus,8.35943,77.06589,Lakshadweep,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,39
+109877.0,2015-10-19,14042.0,7784.0,Jackfruit- Artocarpus heterophyllus,8.35943,77.06589,Lakshadweep,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,38
+109886.0,2015-10-12,14042.0,7784.0,Jackfruit- Artocarpus heterophyllus,8.35943,77.06589,Lakshadweep,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,37
+109867.0,2015-09-28,14042.0,7784.0,Jackfruit- Artocarpus heterophyllus,8.35943,77.06589,Lakshadweep,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,35
+109863.0,2015-09-21,14042.0,7784.0,Jackfruit- Artocarpus heterophyllus,8.35943,77.06589,Lakshadweep,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,34
+109862.0,2015-09-14,14042.0,7784.0,Jackfruit- Artocarpus heterophyllus,8.35943,77.06589,Lakshadweep,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,33
+109871.0,2015-10-05,14042.0,7784.0,Jackfruit- Artocarpus heterophyllus,8.35943,77.06589,Lakshadweep,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,36
+109853.0,2015-09-07,14042.0,7784.0,Jackfruit- Artocarpus heterophyllus,8.35943,77.06589,Lakshadweep,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,32
+108761.0,2015-10-20,14042.0,7784.0,Jackfruit- Artocarpus heterophyllus,8.35943,77.06589,Lakshadweep,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2015,38
+706656.0,2023-10-30,28686.0,149467.0,Walnut-Juglans regia,19.77857,75.45062,Lakshadweep,1.0,2.0,0.0,2.0,-2.0,1.0,1.0,1.0,0.0,-2.0,2023,39
