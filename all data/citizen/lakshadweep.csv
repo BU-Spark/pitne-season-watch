@@ -1,0 +1,12 @@
+,Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+0,2018-12-01,Gamar-Gmelina arborea,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,43
+1,2015-10-26,Jackfruit-Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,38
+2,2015-10-19,Jackfruit-Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,37
+3,2015-10-12,Jackfruit-Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,36
+4,2015-09-28,Jackfruit-Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,34
+5,2015-09-21,Jackfruit-Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,33
+6,2015-09-14,Jackfruit-Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,33
+7,2015-10-05,Jackfruit-Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,35
+8,2015-09-07,Jackfruit-Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,32
+9,2015-10-20,Jackfruit-Artocarpus heterophyllus,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2015,37
+10,2023-10-30,Walnut-Juglans regia,1.0,2.0,0.0,2.0,-2.0,1.0,1.0,1.0,0.0,-2.0,2023,39

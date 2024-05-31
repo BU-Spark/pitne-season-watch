@@ -1,0 +1,24 @@
+,Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+0,2023-10-31,Apple-Malus domestica,1.0,1.0,2.0,0.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2023,39
+1,2023-10-31,Apricot tree-Prunus armeniaca,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2023,39
+2,2022-03-26,Apricot tree-Prunus armeniaca,0.0,0.0,1.0,2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,10
+3,2019-06-14,Arjun-Terminalia arjuna,2.0,0.0,,2.0,2.0,,,1.0,0.0,,2019,21
+4,2019-06-15,Babool-Acacia nilotica,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,2.0,1.0,-2.0,2019,21
+5,2019-06-14,Beheda-Terminalia bellirica,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2019,21
+6,2023-10-24,Chinar-Platanus Orientalis,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2023,38
+7,2023-11-28,Chinar-Platanus Orientalis,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2023,42
+8,2023-12-12,Chinar-Platanus Orientalis,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2023,44
+9,2023-11-09,Chinar-Platanus Orientalis,0.0,1.0,2.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2023,40
+10,2023-12-13,Chinar-Platanus Orientalis,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2023,44
+11,2023-11-28,Chinar-Platanus Orientalis,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2023,42
+12,2019-06-15,Devil's Tree-Alstonia scholaris,2.0,1.0,1.0,0.0,0.0,-2.0,-2.0,2.0,2.0,1.0,2019,21
+13,2018-12-01,Drumstick tree-Moringa oleifera,1.0,2.0,1.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2018,43
+14,2023-11-08,Himalayan Fir-Abies pindrow,1.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,2.0,1.0,0.0,2023,40
+15,2019-06-15,Mast Tree-Monoon longifolium,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,21
+16,2019-06-14,Neem-Azadirachta indica,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2019,21
+17,2023-10-31,Peach tree-Prunus persica,0.0,1.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+18,2023-10-31,Plum tree-Prunus domestica,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+19,2019-06-14,Silkworm Mulberry-Morus alba,2.0,1.0,,2.0,0.0,,,2.0,1.0,,2019,21
+20,2023-10-31,Walnut-Juglans regia,0.0,1.0,2.0,0.0,-2.0,0.0,0.0,0.0,1.0,-2.0,2023,39
+21,2023-11-08,Wild rose or Webbs rose-Rosa webbiana,0.0,0.0,2.0,0.0,0.0,-2.0,-2.0,0.0,2.0,0.0,2023,40
+22,2019-06-14,Wood Apple-Aegle marmelos,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2019,21
