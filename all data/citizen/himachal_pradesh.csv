@@ -1,580 +1,580 @@
-,Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
-0,2021-02-02,Apricot tree-Prunus armeniaca,0.0,0.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4
-1,2021-01-21,Apricot tree-Prunus armeniaca,0.0,0.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,2
-2,2023-04-01,Axlewood-Anogeissus latifolia,2.0,2.0,2.0,1.0,1.0,-2.0,-2.0,2.0,1.0,-2.0,2023,11
-3,2021-01-30,Banyan-Ficus benghalensis,2.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2021,3
-4,2021-02-04,Ber-Ziziphus mauritiana,2.0,1.0,0.0,1.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2021,4
-5,2018-12-02,Bottle brush-Melaleuca viminalis,1.0,2.0,0.0,2.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2018,43
-6,2018-12-02,Bottle brush-Melaleuca viminalis,1.0,2.0,1.0,2.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2018,43
-7,2018-12-02,Bottle brush-Melaleuca viminalis,2.0,2.0,1.0,2.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2018,43
-8,2018-12-02,Bottle brush-Melaleuca viminalis,1.0,2.0,0.0,2.0,2.0,-2.0,-2.0,2.0,2.0,-2.0,2018,43
-9,2021-02-04,Curry leaf plant-Murraya koenigii,-1.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4
-10,2023-11-14,Deodar-Cedrus deodara,1.0,2.0,1.0,-2.0,-2.0,0.0,0.0,1.0,2.0,0.0,2023,40
-11,2016-11-24,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42
-12,2016-09-15,Devil's Tree-Alstonia scholaris,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,33
-13,2016-12-08,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44
-14,2016-11-03,Devil's Tree-Alstonia scholaris,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,39
-15,2016-10-06,Devil's Tree-Alstonia scholaris,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,36
-16,2016-08-18,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2016,29
-17,2016-12-26,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46
-18,2016-09-08,Devil's Tree-Alstonia scholaris,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,32
-19,2016-11-17,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
-20,2017-01-09,Devil's Tree-Alstonia scholaris,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,1
-21,2017-09-29,Devil's Tree-Alstonia scholaris,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,35
-22,2016-08-11,Devil's Tree-Alstonia scholaris,2.0,2.0,,1.0,2.0,,,0.0,0.0,,2016,28
-23,2017-11-03,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2017,39
-24,2017-11-21,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2017,41
-25,2017-10-10,Devil's Tree-Alstonia scholaris,2.0,2.0,,1.0,1.0,,,0.0,0.0,,2017,36
-26,2017-01-16,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
-27,2017-01-23,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
-28,2017-01-30,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,3
-29,2018-01-26,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,3
-30,2017-02-13,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,5
-31,2017-02-20,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,6
-32,2017-02-06,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,4
-33,2017-02-27,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,7
-34,2018-07-02,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,2.0,1.0,,2018,23
-35,2016-08-04,Devil's Tree-Alstonia scholaris,2.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,27
-36,2018-01-12,Devil's Tree-Alstonia scholaris,1.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,1
-37,2016-08-25,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2016,30
-38,2016-09-01,Devil's Tree-Alstonia scholaris,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,31
-39,2016-12-19,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,45
-40,2018-01-01,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,1.0,0.0,,2018,0
-41,2018-02-20,Devil's Tree-Alstonia scholaris,1.0,2.0,,1.0,1.0,,,0.0,0.0,,2018,6
-42,2018-02-08,Devil's Tree-Alstonia scholaris,1.0,2.0,,2.0,1.0,,,0.0,0.0,,2018,5
-43,2018-02-01,Devil's Tree-Alstonia scholaris,1.0,2.0,,2.0,1.0,,,0.0,0.0,,2018,4
-44,2018-03-12,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,9
-45,2018-04-02,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,1.0,0.0,,2018,11
-46,2016-08-01,Devil's Tree-Alstonia scholaris,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,27
-47,2016-08-02,Devil's Tree-Alstonia scholaris,2.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,27
-48,2021-01-30,Soft fig-Ficus mollis,2.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,2.0,0.0,-2.0,2021,3
-49,2021-01-30,Soft fig-Ficus mollis,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,2021,3
-50,2021-01-30,Five-leaved vitex-Vitex negundo,1.0,2.0,2.0,0.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2021,3
-51,2019-06-09,Gamar-Gmelina arborea,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,20
-52,2018-12-01,Grey Oak-Quercus leucotrichophora,0.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2018,43
-53,2021-02-04,Guava tree-Psidium guajava,-1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2021,4
-54,2017-01-08,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,1
-55,2017-01-19,Gulmohur-Delonix regia,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
-56,2016-11-14,Gulmohur-Delonix regia,-1.0,2.0,,-1.0,1.0,,,-1.0,1.0,,2016,41
-57,2017-04-16,Gulmohur-Delonix regia,2.0,-1.0,,1.0,0.0,,,0.0,1.0,,2017,13
-58,2016-09-01,Gulmohur-Delonix regia,1.0,0.0,,0.0,0.0,,,1.0,1.0,,2016,31
-59,2016-10-27,Gulmohur-Delonix regia,0.0,2.0,,0.0,1.0,,,1.0,-1.0,,2016,38
-60,2017-05-21,Gulmohur-Delonix regia,2.0,0.0,,2.0,2.0,,,0.0,0.0,,2017,18
-61,2016-10-16,Gulmohur-Delonix regia,-1.0,2.0,,0.0,1.0,,,-1.0,1.0,,2016,37
-62,2017-05-14,Gulmohur-Delonix regia,2.0,-1.0,,2.0,2.0,,,0.0,0.0,,2017,17
-63,2017-05-08,Gulmohur-Delonix regia,2.0,-1.0,,2.0,2.0,,,0.0,0.0,,2017,16
-64,2017-03-04,Gulmohur-Delonix regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,8
-65,2017-03-20,Gulmohur-Delonix regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,10
-66,2017-02-27,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2017,7
-67,2017-02-01,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,4
-68,2016-08-23,Gulmohur-Delonix regia,1.0,2.0,,1.0,2.0,,,2.0,-1.0,,2016,30
-69,2017-06-10,Gulmohur-Delonix regia,2.0,1.0,,2.0,2.0,,,2.0,-1.0,,2017,20
-70,2017-02-14,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2017,5
-71,2016-11-03,Gulmohur-Delonix regia,0.0,2.0,,0.0,1.0,,,0.0,0.0,,2016,39
-72,2016-07-01,Gulmohur-Delonix regia,2.0,1.0,,1.0,2.0,,,0.0,0.0,,2016,23
-73,2016-10-01,Gulmohur-Delonix regia,0.0,2.0,,1.0,1.0,,,1.0,0.0,,2016,35
-74,2016-06-16,Gulmohur-Delonix regia,2.0,1.0,,1.0,2.0,,,1.0,2.0,,2016,21
-75,2016-12-25,Gulmohur-Delonix regia,0.0,0.0,,0.0,0.0,,,0.0,1.0,,2016,46
-76,2016-08-12,Gulmohur-Delonix regia,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,28
-77,2016-12-01,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,1.0,,2016,43
-78,2016-09-24,Gulmohur-Delonix regia,2.0,1.0,,2.0,1.0,,,0.0,0.0,,2016,34
-79,2016-11-26,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,42
-80,2016-10-03,Gulmohur-Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,35
-81,2016-10-10,Gulmohur-Delonix regia,1.0,2.0,,-1.0,1.0,,,1.0,1.0,,2016,36
-82,2016-12-08,Gulmohur-Delonix regia,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44
-83,2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,2.0,0.0,0.0,2.0,-2.0,-2.0,1.0,0.0,-2.0,2018,43
-84,2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,1.0,0.0,0.0,1.0,-2.0,-2.0,1.0,0.0,-2.0,2018,43
-85,2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,2.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2018,43
-86,2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2018,43
-87,2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2018,43
-88,2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,2.0,0.0,0.0,1.0,-2.0,-2.0,2.0,0.0,-2.0,2018,43
-89,2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,2.0,0.0,0.0,1.0,-2.0,-2.0,2.0,0.0,-2.0,2018,43
-90,2021-02-02,Himalayan Cherry-Prunus cerasoides,0.0,0.0,1.0,2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4
-91,2021-01-21,Himalayan Cherry-Prunus cerasoides,0.0,0.0,1.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,2
-92,2018-12-02,Himalayan Cherry-Prunus cerasoides,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,43
-93,2018-12-02,Himalayan Cherry-Prunus cerasoides,1.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,43
-94,2018-12-02,Himalayan Cherry-Prunus cerasoides,1.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,43
-95,2021-01-21,Himalayan Maple-Acer sterculiaceum,0.0,0.0,2.0,0.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2021,2
-96,2021-02-02,Himalayan Maple-Acer sterculiaceum,0.0,0.0,2.0,0.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4
-97,2016-05-27,Himalayan Rhododendron-Rhododendron arboreum,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,19
-98,2014-08-07,Himalayan Rhododendron-Rhododendron arboreum,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,28
-99,2019-06-08,Indian Horsechestnut-Aesculus indica,2.0,2.0,0.0,1.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2019,20
-100,2023-10-21,Indian Horsechestnut-Aesculus indica,0.0,2.0,1.0,0.0,0.0,-2.0,-2.0,2.0,1.0,1.0,2023,37
-101,2023-10-21,Indian Horsechestnut-Aesculus indica,0.0,2.0,2.0,0.0,0.0,-2.0,-2.0,1.0,2.0,2.0,2023,37
-102,2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,2.0,1.0,1.0,2022,30
-103,2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,2.0,2.0,2.0,2022,30
-104,2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,1.0,2.0,2.0,2022,30
-105,2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,2.0,2.0,2.0,2022,30
-106,2022-04-25,Indian Horsechestnut-Aesculus indica,2.0,-2.0,-2.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2022,14
-107,2022-08-28,Indian Horsechestnut-Aesculus indica,2.0,2.0,2.0,0.0,0.0,-2.0,-2.0,0.0,1.0,2.0,2022,30
-108,2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,1.0,2.0,1.0,2022,30
-109,2022-08-28,Indian Horsechestnut-Aesculus indica,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,2.0,2.0,2022,30
-110,2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,1.0,1.0,2022,30
-111,2021-08-01,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,27
-112,2021-03-21,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,10
-113,2021-06-06,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,20
-114,2021-03-14,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,9
-115,2021-01-03,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,0
-116,2021-07-18,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,25
-117,2020-11-22,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,42
-118,2021-05-23,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2021,18
-119,2021-05-30,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,19
-120,2020-12-20,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,45
-121,2021-11-20,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,,,0.0,0.0,0.0,2021,41
-122,2021-04-18,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,13
-123,2020-11-01,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,39
-124,2021-04-25,Indian Mahogany-Toona ciliata,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,14
-125,2021-09-05,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,31
-126,2021-05-02,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,15
-127,2021-03-28,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,11
-128,2020-11-15,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2020,41
-129,2021-05-16,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,17
-130,2020-12-27,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,46
-131,2021-05-09,Indian Mahogany-Toona ciliata,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2021,16
-132,2020-11-08,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,40
-133,2021-08-29,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,31
-134,2021-04-04,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,12
-135,2021-04-11,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,13
-136,2020-11-29,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,43
-137,2021-01-31,Indian Mahogany-Toona ciliata,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,3
-138,2021-06-27,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,22
-139,2021-02-21,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,6
-140,2021-02-28,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,7
-141,2021-01-17,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,2
-142,2021-07-11,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,24
-143,2020-12-13,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,44
-144,2021-01-24,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,3
-145,2021-02-07,Indian Mahogany-Toona ciliata,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,4
-146,2020-12-06,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2020,43
-147,2020-10-18,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,37
-148,2020-10-11,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,36
-149,2021-07-04,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,23
-150,2021-02-14,Indian Mahogany-Toona ciliata,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2021,5
-151,2021-06-13,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,21
-152,2021-01-10,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,1
-153,2021-06-20,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,22
-154,2020-10-25,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,38
-155,2018-06-08,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2018,20
-156,2023-05-13,Jacaranda-Jacaranda mimosifolia,0.0,2.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
-157,2019-06-17,Jacaranda-Jacaranda mimosifolia,2.0,-1.0,0.0,-1.0,2.0,-2.0,-2.0,-1.0,2.0,2.0,2019,21
-158,2016-12-09,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,44
-159,2016-06-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,0.0,2.0,,2016,19
-160,2018-11-02,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2018,39
-161,2018-10-26,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2018,38
-162,2018-09-14,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,33
-163,2018-10-19,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2018,37
-164,2018-10-12,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2018,36
-165,2016-08-05,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,1.0,,2016,28
-166,2017-07-28,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,26
-167,2018-03-02,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2018,7
-168,2018-10-05,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2018,35
-169,2018-09-28,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,34
-170,2018-02-23,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2018,6
-171,2015-12-03,Jacaranda-Jacaranda mimosifolia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2015,43
-172,2018-09-21,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,33
-173,2018-03-09,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2018,8
-174,2018-11-23,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,42
-175,2018-11-16,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,41
-176,2018-11-09,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,40
-177,2016-06-15,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,1.0,,,0.0,1.0,,2016,21
-178,2018-09-07,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,0.0,1.0,,2018,32
-179,2018-08-24,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2018,30
-180,2018-08-17,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,29
-181,2018-08-31,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2018,31
-182,2017-06-16,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,21
-183,2016-07-22,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,2.0,,2016,26
-184,2018-05-11,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,1.0,,2018,16
-185,2016-06-13,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,2.0,,2016,21
-186,2017-06-23,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,22
-187,2017-06-30,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,2.0,,2017,23
-188,2016-12-30,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,2.0,,2016,47
-189,2017-06-09,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,20
-190,2022-05-13,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,0.0,2022,17
-191,2022-05-20,Jacaranda-Jacaranda mimosifolia,2.0,1.0,1.0,2.0,1.0,-2.0,-2.0,1.0,0.0,1.0,2022,18
-192,2019-01-04,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,0.0,,2019,0
-193,2019-01-18,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2019,2
-194,2016-09-21,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,34
-195,2016-06-16,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,21
-196,2019-01-25,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2019,3
-197,2019-02-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,0.0,,2019,4
-198,2019-02-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2019,5
-199,2019-02-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2019,5
-200,2019-02-22,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,1.0,1.0,,2019,6
-201,2019-03-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2019,7
-202,2019-03-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,1.0,1.0,,2019,8
-203,2019-03-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,9
-204,2019-03-22,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,10
-205,2019-03-29,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,11
-206,2019-04-05,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2019,12
-207,2019-04-12,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2019,13
-208,2019-04-19,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,14
-209,2019-04-26,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,14
-210,2019-05-03,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2019,15
-211,2017-07-07,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2017,24
-212,2016-06-10,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,0.0,,,1.0,2.0,,2016,20
-213,2019-01-11,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,0.0,,2019,1
-214,2022-09-12,Jacaranda-Jacaranda mimosifolia,1.0,2.0,1.0,2.0,0.0,-2.0,-2.0,1.0,0.0,0.0,2022,32
-215,2016-07-29,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,2.0,,2016,27
-216,2016-08-12,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,1.0,,2016,28
-217,2016-08-19,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2016,29
-218,2018-06-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2018,21
-219,2018-06-22,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,1.0,,,1.0,0.0,,2018,22
-220,2018-06-29,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2018,23
-221,2016-08-07,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,28
-222,2016-05-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,1.0,2.0,,2016,19
-223,2017-01-15,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,1.0,,,1.0,1.0,,2017,1
-224,2017-11-10,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,40
-225,2017-01-25,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,3
-226,2017-11-17,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,41
-227,2016-09-09,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,32
-228,2017-11-03,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,39
-229,2018-05-18,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,1.0,,,1.0,1.0,,2018,17
-230,2016-12-02,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2016,43
-231,2018-05-25,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,1.0,,,2.0,1.0,,2018,18
-232,2018-06-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,1.0,,2018,19
-233,2017-01-05,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,1.0,,,1.0,1.0,,2017,0
-234,2017-03-31,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,2.0,,,1.0,2.0,,2017,11
-235,2017-04-15,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,1.0,,,1.0,1.0,,2017,13
-236,2017-04-30,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,15
-237,2017-02-15,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,5
-238,2017-03-15,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,2.0,,,1.0,2.0,,2017,9
-239,2023-03-27,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,2.0,0.0,-2.0,-2.0,2.0,1.0,0.0,2023,11
-240,2017-02-28,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,7
-241,2017-02-10,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,5
-242,2016-06-17,Jacaranda-Jacaranda mimosifolia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,21
-243,2017-03-31,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,11
-244,2017-02-17,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,6
-245,2017-05-19,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,2.0,,,2.0,1.0,,2017,17
-246,2017-05-12,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,2.0,,,1.0,2.0,,2017,16
-247,2020-05-29,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,2020,19
-248,2016-11-18,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2016,41
-249,2017-09-22,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,34
-250,2017-09-15,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,33
-251,2017-03-24,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,10
-252,2020-07-03,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,1.0,1.0,-2.0,-2.0,1.0,1.0,0.0,2020,23
-253,2020-06-12,Jacaranda-Jacaranda mimosifolia,2.0,2.0,0.0,1.0,1.0,-2.0,-2.0,1.0,1.0,0.0,2020,21
-254,2020-06-19,Jacaranda-Jacaranda mimosifolia,2.0,2.0,0.0,2.0,2.0,-2.0,-2.0,1.0,1.0,0.0,2020,22
-255,2020-06-26,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,1.0,1.0,-2.0,-2.0,2.0,1.0,0.0,2020,22
-256,2020-12-04,Jacaranda-Jacaranda mimosifolia,1.0,1.0,1.0,2.0,1.0,-2.0,-2.0,1.0,1.0,1.0,2020,43
-257,2020-12-11,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,2.0,1.0,-2.0,-2.0,2.0,2.0,1.0,2020,44
-258,2020-12-18,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,2.0,2.0,-2.0,-2.0,2.0,2.0,1.0,2020,45
-259,2020-12-25,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,2.0,2.0,-2.0,-2.0,1.0,2.0,2.0,2020,46
-260,2016-09-16,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,33
-261,2016-09-23,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,34
-262,2017-12-22,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,45
-263,2017-12-29,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,2.0,0.0,,2017,46
-264,2018-01-05,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,0.0,,,2.0,1.0,,2018,0
-265,2018-01-12,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,0.0,1.0,,2018,1
-266,2018-01-19,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,2
-267,2016-10-15,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,37
-268,2018-02-02,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2018,4
-269,2018-02-09,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2018,5
-270,2016-10-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,35
-271,2016-10-08,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,36
-272,2016-06-28,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,23
-273,2018-01-26,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2018,3
-274,2016-07-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,25
-275,2017-01-20,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,2
-276,2017-01-13,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,1
-277,2017-03-17,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,9
-278,2017-01-06,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,0
-279,2017-01-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2017,3
-280,2016-05-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,0.0,2.0,,2016,19
-281,2016-07-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,23
-282,2017-03-10,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,8
-283,2017-02-03,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,4
-284,2016-05-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,0.0,2.0,,2016,19
-285,2023-04-03,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,1.0,0.0,-2.0,-2.0,1.0,0.0,0.0,2023,11
-286,2016-05-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,1.0,,,0.0,2.0,,2016,19
-287,2016-07-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,23
-288,2016-06-24,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,22
-289,2018-11-30,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,43
-290,2016-08-26,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,0.0,,,1.0,2.0,,2016,30
-291,2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,1.0,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,17
-292,2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
-293,2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,2.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
-294,2017-04-07,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,1.0,0.0,,2017,12
-295,2018-12-07,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2018,43
-296,2018-12-14,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2018,44
-297,2017-05-10,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,1.0,,,1.0,1.0,,2017,16
-298,2017-05-22,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,18
-299,2016-07-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,24
-300,2019-06-02,Jacaranda-Jacaranda mimosifolia,2.0,2.0,0.0,1.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2019,19
-301,2018-12-28,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2018,46
-302,2018-12-21,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2018,45
-303,2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,1.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
-304,2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,2.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
-305,2017-04-14,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,1.0,0.0,,2017,13
-306,2017-08-04,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,27
-307,2017-07-21,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,26
-308,2015-12-10,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2015,44
-309,2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,2.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
-310,2017-08-18,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,29
-311,2017-07-14,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,2.0,,2017,25
-312,2017-08-11,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,28
-313,2018-04-27,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2018,15
-314,2018-04-20,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,1.0,0.0,,2018,14
-315,2018-04-13,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,13
-316,2016-09-02,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,31
-317,2016-06-21,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,1.0,,,0.0,0.0,,2016,22
-318,2018-05-04,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2018,15
-319,2016-06-02,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,0.0,1.0,,2016,19
-320,2017-08-25,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,30
-321,2016-10-28,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,2.0,1.0,,2016,38
-322,2017-09-01,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,31
-323,2017-09-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2017,32
-324,2016-08-17,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,0.0,0.0,,2016,29
-325,2016-08-25,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,30
-326,2016-09-05,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,32
-327,2016-08-10,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,-1.0,,,0.0,0.0,,2016,28
-328,2016-11-04,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,1.0,,,2.0,2.0,,2016,39
-329,2017-12-15,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,1.0,0.0,,2017,44
-330,2017-12-08,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,44
-331,2016-11-11,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,40
-332,2017-12-01,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,1.0,0.0,,2017,43
-333,2016-08-03,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,27
-334,2017-05-05,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,1.0,2.0,,,1.0,0.0,,2017,16
-335,2016-09-28,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2016,35
-336,2016-12-25,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,1.0,,,1.0,0.0,,2016,46
-337,2018-07-06,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2018,24
-338,2016-12-15,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,45
-339,2016-01-20,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,2
-340,2016-12-05,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,43
-341,2016-11-25,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2016,42
-342,2016-07-05,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2016,24
-343,2016-11-15,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
-344,2017-05-26,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,2.0,,2017,18
-345,2017-06-02,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,2.0,,2017,19
-346,2018-07-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,26
-347,2018-08-10,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,28
-348,2018-08-03,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,0.0,,2018,27
-349,2018-07-13,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2018,24
-350,2018-07-20,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,1.0,,,1.0,0.0,,2018,25
-351,2016-01-11,Jacaranda-Jacaranda mimosifolia,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,1
-352,2015-12-23,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2015,45
-353,2016-01-04,Jacaranda-Jacaranda mimosifolia,0.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,0
-354,2016-10-15,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,1.0,,,0.0,0.0,,2016,37
-355,2016-10-25,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,1.0,,,0.0,0.0,,2016,38
-356,2016-11-05,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,39
-357,2016-01-18,Jacaranda-Jacaranda mimosifolia,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,2
-358,2016-10-05,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,35
-359,2021-01-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,2.0,2.0,1.0,-2.0,-2.0,2.0,2.0,1.0,2020,0
-360,2022-09-05,Jacaranda-Jacaranda mimosifolia,1.0,2.0,1.0,2.0,1.0,-2.0,-2.0,1.0,2.0,0.0,2022,31
-361,2018-02-16,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2018,6
-362,2017-09-29,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,2.0,,2017,35
-363,2017-04-21,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,1.0,,,1.0,1.0,,2017,14
-364,2021-01-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,2.0,2.0,-2.0,-2.0,2.0,2.0,1.0,2021,1
-365,2021-01-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,2.0,2.0,2.0,-2.0,-2.0,2.0,2.0,2.0,2021,1
-366,2017-04-28,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,2.0,,,2.0,1.0,,2017,15
-367,2016-06-03,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,1.0,,,0.0,2.0,,2016,19
-368,2016-12-23,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,46
-369,2016-06-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,2.0,,,1.0,2.0,,2016,19
-370,2017-02-24,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,7
-371,2017-03-03,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,7
-372,2016-12-16,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,45
-373,2016-10-21,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,2.0,1.0,,2016,37
-374,2017-11-24,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,42
-375,2017-10-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,38
-376,2017-10-20,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2017,37
-377,2017-10-13,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,36
-378,2016-06-02,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,2.0,0.0,,2016,19
-379,2016-06-03,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,1.0,0.0,,2016,19
-380,2016-11-25,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,42
-381,2017-10-06,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,35
-382,2023-04-01,Jackfruit-Artocarpus heterophyllus,2.0,2.0,2.0,1.0,-2.0,0.0,0.0,2.0,1.0,-2.0,2023,11
-383,2015-12-01,Jamun-Syzygium cumini,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,43
-384,2022-11-26,Lantana-Lantana camara,2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2022,42
-385,2016-10-03,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
-386,2016-11-24,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42
-387,2016-12-08,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44
-388,2016-11-17,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
-389,2016-11-03,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
-390,2016-10-27,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,38
-391,2017-01-09,Mango (all varieties)-Mangifera indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,1
-392,2016-06-02,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,2.0,,,2.0,2.0,,2016,19
-393,2016-06-02,Mango (all varieties)-Mangifera indica,2.0,1.0,,1.0,2.0,,,2.0,0.0,,2016,19
-394,2016-07-14,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,25
-395,2016-07-21,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,26
-396,2016-06-09,Mango (all varieties)-Mangifera indica,2.0,1.0,,1.0,2.0,,,2.0,0.0,,2016,20
-397,2016-12-26,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46
-398,2016-08-04,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,27
-399,2021-01-27,Mango (all varieties)-Mangifera indica,-1.0,2.0,1.0,2.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2021,3
-400,2016-05-26,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,2.0,0.0,,2016,18
-401,2016-07-28,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,27
-402,2016-05-26,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,18
-403,2016-05-26,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,1.0,0.0,,2016,18
-404,2021-01-30,Mango (all varieties)-Mangifera indica,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,3
-405,2016-06-24,Mango (all varieties)-Mangifera indica,2.0,1.0,,2.0,1.0,,,2.0,1.0,,2016,22
-406,2016-07-07,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,24
-407,2016-07-05,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,2.0,,,2.0,2.0,,2016,24
-408,2016-07-01,Mango (all varieties)-Mangifera indica,2.0,1.0,,1.0,0.0,,,1.0,0.0,,2016,23
-409,2016-06-17,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,1.0,,,2.0,2.0,,2016,21
-410,2016-05-17,Mango (all varieties)-Mangifera indica,2.0,1.0,,1.0,2.0,,,2.0,1.0,,2016,17
-411,2016-09-01,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,31
-412,2016-09-08,Mango (all varieties)-Mangifera indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,32
-413,2016-09-15,Mango (all varieties)-Mangifera indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,33
-414,2016-12-19,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,45
-415,2016-08-25,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,30
-416,2016-08-11,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,28
-417,2016-08-18,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,29
-418,2018-07-02,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,2.0,1.0,,2018,23
-419,2018-01-01,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2018,0
-420,2018-02-01,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2018,4
-421,2018-02-08,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,0.0,,,0.0,0.0,,2018,5
-422,2018-01-12,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2018,1
-423,2018-01-26,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2018,3
-424,2018-04-04,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,12
-425,2018-02-20,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2018,6
-426,2018-03-12,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,9
-427,2017-01-23,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
-428,2017-01-30,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,3
-429,2017-02-06,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,4
-430,2017-02-20,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,6
-431,2017-02-13,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,5
-432,2017-02-27,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,7
-433,2017-01-16,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
-434,2017-09-29,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,35
-435,2016-05-26,Mast Tree-Monoon longifolium,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,18
-436,2016-05-26,Neem-Azadirachta indica,2.0,2.0,,2.0,0.0,,,0.0,2.0,,2016,18
-437,2016-07-01,Neem-Azadirachta indica,2.0,1.0,,1.0,2.0,,,2.0,1.0,,2016,23
-438,2016-10-10,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36
-439,2016-08-23,Neem-Azadirachta indica,1.0,2.0,,0.0,-1.0,,,2.0,1.0,,2016,30
-440,2016-08-12,Neem-Azadirachta indica,1.0,2.0,,0.0,1.0,,,0.0,0.0,,2016,28
-441,2016-06-16,Neem-Azadirachta indica,2.0,1.0,,2.0,1.0,,,2.0,1.0,,2016,21
-442,2018-10-30,Neem-Azadirachta indica,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2018,39
-443,2016-10-01,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35
-444,2019-01-08,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2019,1
-445,2016-09-01,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,31
-446,2016-09-23,Neem-Azadirachta indica,2.0,1.0,,-1.0,1.0,,,0.0,0.0,,2016,34
-447,2017-11-23,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,42
-448,2019-06-24,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2019,22
-449,2016-12-25,Neem-Azadirachta indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,46
-450,2017-12-04,Neem-Azadirachta indica,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,43
-451,2021-01-27,Neem-Azadirachta indica,-1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,3
-452,2016-11-26,Neem-Azadirachta indica,-1.0,2.0,,0.0,0.0,,,-1.0,-1.0,,2016,42
-453,2016-12-01,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,43
-454,2016-11-14,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41
-455,2019-06-17,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2019,21
-456,2016-12-08,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44
-457,2017-04-16,Neem-Azadirachta indica,2.0,-1.0,,1.0,0.0,,,0.0,0.0,,2017,13
-458,2017-03-20,Neem-Azadirachta indica,0.0,-1.0,,0.0,0.0,,,0.0,0.0,,2017,10
-459,2017-01-08,Neem-Azadirachta indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,1
-460,2017-05-14,Neem-Azadirachta indica,2.0,-1.0,,0.0,0.0,,,0.0,0.0,,2017,17
-461,2017-05-08,Neem-Azadirachta indica,2.0,-1.0,,0.0,0.0,,,0.0,0.0,,2017,16
-462,2017-05-21,Neem-Azadirachta indica,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,18
-463,2017-02-01,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,-1.0,,2017,4
-464,2017-02-14,Neem-Azadirachta indica,0.0,-1.0,,0.0,0.0,,,0.0,0.0,,2017,5
-465,2017-02-27,Neem-Azadirachta indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,7
-466,2017-01-19,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2
-467,2017-03-04,Neem-Azadirachta indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,8
-468,2017-07-01,Neem-Azadirachta indica,2.0,2.0,,-1.0,-1.0,,,2.0,-1.0,,2017,23
-469,2017-06-19,Neem-Azadirachta indica,2.0,1.0,,0.0,0.0,,,2.0,-1.0,,2017,21
-470,2017-06-26,Neem-Azadirachta indica,2.0,-1.0,,0.0,0.0,,,2.0,-1.0,,2017,22
-471,2017-06-10,Neem-Azadirachta indica,2.0,2.0,,-1.0,-1.0,,,2.0,1.0,,2017,20
-472,2016-11-03,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39
-473,2019-04-09,Neem-Azadirachta indica,1.0,2.0,,2.0,1.0,,,0.0,0.0,,2019,12
-474,2016-10-21,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
-475,2019-04-02,Neem-Azadirachta indica,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2019,11
-476,2016-10-16,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37
-477,2019-04-24,Neem-Azadirachta indica,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2019,14
-478,2018-01-10,Neem-Azadirachta indica,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2018,1
-479,2016-10-27,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,38
-480,2021-02-02,Pear tree-Pyrus pyrifolia,0.0,0.0,0.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4
-481,2021-01-21,Pear tree-Pyrus pyrifolia,0.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,2
-482,2022-08-27,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,30
-483,2023-11-18,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,41
-484,2023-09-09,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,32
-485,2022-03-26,Peepal-Ficus religiosa,0.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,10
-486,2023-04-22,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2023,14
-487,2023-02-11,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,5
-488,2023-09-16,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,33
-489,2022-08-27,Peepal-Ficus religiosa,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,30
-490,2023-06-03,Peepal-Ficus religiosa,2.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,19
-491,2023-07-15,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,25
-492,2022-11-26,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,42
-493,2022-03-12,Peepal-Ficus religiosa,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,9
-494,2022-11-12,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,40
-495,2021-09-04,Peepal-Ficus religiosa,0.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2021,31
-496,2022-06-18,Peepal-Ficus religiosa,1.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,21
-497,2022-10-08,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,36
-498,2021-02-17,Peepal-Ficus religiosa,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,6
-499,2023-01-14,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,1
-500,2022-08-13,Peepal-Ficus religiosa,1.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,28
-501,2023-04-29,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,15
-502,2023-07-01,Peepal-Ficus religiosa,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,23
-503,2021-01-20,Peepal-Ficus religiosa,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2021,2
-504,2019-06-02,Peepal-Ficus religiosa,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19
-505,2019-06-02,Peepal-Ficus religiosa,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19
-506,2019-06-02,Peepal-Ficus religiosa,0.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19
-507,2019-06-02,Peepal-Ficus religiosa,0.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19
-508,2019-06-02,Peepal-Ficus religiosa,0.0,0.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19
-509,2019-06-02,Peepal-Ficus religiosa,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19
-510,2019-06-02,Peepal-Ficus religiosa,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,2.0,2.0,-2.0,2019,19
-511,2019-06-02,Peepal-Ficus religiosa,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19
-512,2019-06-02,Peepal-Ficus religiosa,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19
-513,2019-06-02,Peepal-Ficus religiosa,1.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19
-514,2021-01-18,Peepal-Ficus religiosa,2.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,2021,2
-515,2023-12-23,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,45
-516,2023-05-20,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,18
-517,2023-06-17,Peepal-Ficus religiosa,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,21
-518,2022-09-20,Peepal-Ficus religiosa,0.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,33
-519,2021-07-05,Peepal-Ficus religiosa,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,23
-520,2023-07-08,Peepal-Ficus religiosa,2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,24
-521,2022-04-09,Peepal-Ficus religiosa,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,12
-522,2022-10-01,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,35
-523,2022-06-11,Peepal-Ficus religiosa,1.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,20
-524,2022-04-16,Peepal-Ficus religiosa,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,13
-525,2022-01-22,Peepal-Ficus religiosa,0.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,2
-526,2022-09-24,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,34
-527,2022-09-17,Peepal-Ficus religiosa,1.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,33
-528,2016-06-10,Peepal-Ficus religiosa,1.0,-1.0,,-1.0,-1.0,,,2.0,1.0,,2016,20
-529,2023-03-25,Peepal-Ficus religiosa,0.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,10
-530,2022-07-09,Peepal-Ficus religiosa,1.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2022,24
-531,2023-12-16,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,45
-532,2023-05-13,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,17
-533,2021-04-11,Peepal-Ficus religiosa,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,13
-534,2022-05-14,Peepal-Ficus religiosa,2.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,17
-535,2023-08-26,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,30
-536,2023-04-08,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,12
-537,2023-12-09,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,44
-538,2022-11-05,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,39
-539,2022-02-26,Peepal-Ficus religiosa,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,7
-540,2023-03-04,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,8
-541,2022-12-03,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,43
-542,2023-08-19,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,29
-543,2022-07-16,Peepal-Ficus religiosa,2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,25
-544,2022-12-31,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,47
-545,2022-02-12,Peepal-Ficus religiosa,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,5
-546,2023-10-08,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,36
-547,2022-09-03,Peepal-Ficus religiosa,2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,31
-548,2023-08-12,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,28
-549,2023-04-01,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,11
-550,2022-01-15,Peepal-Ficus religiosa,0.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,1
-551,2022-07-23,Peepal-Ficus religiosa,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,26
-552,2023-05-27,Peepal-Ficus religiosa,2.0,0.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,18
-553,2021-11-20,Peepal-Ficus religiosa,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2021,41
-554,2022-05-13,Peepal-Ficus religiosa,1.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,17
-555,2023-08-05,Peepal-Ficus religiosa,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,27
-556,2022-07-30,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,27
-557,2022-10-15,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,37
-558,2021-07-30,Peepal-Ficus religiosa,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,2021,27
-559,2021-03-16,Peepal-Ficus religiosa,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2021,9
-560,2023-09-02,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,0.0,0.0,1.0,1.0,0.0,2023,31
-561,2022-06-26,Peepal-Ficus religiosa,0.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,22
-562,2023-04-15,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,13
-563,2023-10-14,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,36
-564,2022-02-05,Peepal-Ficus religiosa,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,4
-565,2022-10-22,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,37
-566,2022-09-10,Peepal-Ficus religiosa,2.0,0.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,32
-567,2023-03-11,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,9
-568,2023-01-28,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,3
-569,2019-06-21,Pride of India-Lagerstroemia speciosa,1.0,1.0,0.0,1.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2019,22
-570,2021-01-30,Red Silk Cotton-Bombax ceiba,1.0,2.0,2.0,0.0,2.0,0.0,0.0,1.0,2.0,1.0,2021,3
-571,2015-12-14,Red Silk Cotton-Bombax ceiba,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,44
-572,2019-06-09,Siris-Albizia lebbeck,2.0,2.0,0.0,1.0,2.0,-2.0,-2.0,-2.0,0.0,-2.0,2019,20
-573,2023-11-10,Walnut-Juglans regia,1.0,2.0,0.0,1.0,-2.0,2.0,2.0,1.0,2.0,-2.0,2023,40
-574,2021-01-21,Walnut-Juglans regia,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,1.0,-2.0,2021,2
-575,2021-02-02,Walnut-Juglans regia,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,1.0,-2.0,2021,4
-576,2023-05-13,White Babool-Acacia leucophloea,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
-577,2023-05-13,White Babool-Acacia leucophloea,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
-578,2023-05-13,White Babool-Acacia leucophloea,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17
+Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week,Lat,Long,Observation_ID,User_id,User_Tree_id
+2021-02-02,Apricot tree-Prunus armeniaca,0.0,0.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4,31.43458,78.26061,475960.0,22892.0,98467.0
+2021-01-21,Apricot tree-Prunus armeniaca,0.0,0.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,2,31.43458,78.26061,475949.0,22892.0,98456.0
+2023-04-01,Axlewood-Anogeissus latifolia,2.0,2.0,2.0,1.0,1.0,-2.0,-2.0,2.0,1.0,-2.0,2023,11,32.17322,77.1917,652291.0,18376.0,133528.0
+2021-01-30,Banyan-Ficus benghalensis,2.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2021,3,32.12111,76.38345,472226.0,22892.0,98280.0
+2021-02-04,Ber-Ziziphus mauritiana,2.0,1.0,0.0,1.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2021,4,31.46846,76.27126,476140.0,22940.0,98512.0
+2018-12-02,Bottle brush-Melaleuca viminalis,1.0,2.0,0.0,2.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2018,43,31.06601,77.1771,241379.0,18811.0,19743.0
+2018-12-02,Bottle brush-Melaleuca viminalis,1.0,2.0,1.0,2.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2018,43,31.06601,77.1771,241312.0,18811.0,19676.0
+2018-12-02,Bottle brush-Melaleuca viminalis,2.0,2.0,1.0,2.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2018,43,31.06601,77.1771,241390.0,18811.0,19754.0
+2018-12-02,Bottle brush-Melaleuca viminalis,1.0,2.0,0.0,2.0,2.0,-2.0,-2.0,2.0,2.0,-2.0,2018,43,31.06601,77.1771,241324.0,18811.0,19688.0
+2021-02-04,Curry leaf plant-Murraya koenigii,-1.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4,31.46846,76.27126,476135.0,22940.0,98507.0
+2023-11-14,Deodar-Cedrus deodara,1.0,2.0,1.0,-2.0,-2.0,0.0,0.0,1.0,2.0,0.0,2023,40,32.53949,77.4702,702976.0,28367.0,148170.0
+2016-11-24,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42,31.02226,76.71472,143946.0,15304.0,8536.0
+2016-09-15,Devil's Tree-Alstonia scholaris,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,33,31.02226,76.71472,137309.0,15304.0,8536.0
+2016-12-08,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44,31.02226,76.71472,145774.0,15304.0,8536.0
+2016-11-03,Devil's Tree-Alstonia scholaris,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,39,31.02226,76.71472,142126.0,15304.0,8536.0
+2016-10-06,Devil's Tree-Alstonia scholaris,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,36,31.02226,76.71472,139393.0,15304.0,8536.0
+2016-08-18,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2016,29,31.02226,76.71472,135843.0,15304.0,8536.0
+2016-12-26,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46,31.02226,76.71472,154063.0,15304.0,8536.0
+2016-09-08,Devil's Tree-Alstonia scholaris,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,32,31.02226,76.71472,137200.0,15304.0,8536.0
+2016-11-17,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41,31.02226,76.71472,143283.0,15304.0,8536.0
+2017-01-09,Devil's Tree-Alstonia scholaris,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,1,31.02226,76.71472,154065.0,15304.0,8536.0
+2017-09-29,Devil's Tree-Alstonia scholaris,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,35,31.02226,76.71472,175706.0,15304.0,8536.0
+2016-08-11,Devil's Tree-Alstonia scholaris,2.0,2.0,,1.0,2.0,,,0.0,0.0,,2016,28,31.02226,76.71472,135406.0,15304.0,8536.0
+2017-11-03,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2017,39,31.02226,76.71472,182811.0,15304.0,8536.0
+2017-11-21,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2017,41,31.02226,76.71472,182810.0,15304.0,8536.0
+2017-10-10,Devil's Tree-Alstonia scholaris,2.0,2.0,,1.0,1.0,,,0.0,0.0,,2017,36,31.02226,76.71472,182809.0,15304.0,8536.0
+2017-01-16,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2,31.02226,76.71472,160891.0,15304.0,8536.0
+2017-01-23,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2,31.02226,76.71472,160894.0,15304.0,8536.0
+2017-01-30,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,3,31.02226,76.71472,160899.0,15304.0,8536.0
+2018-01-26,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,3,31.02226,76.71472,188722.0,15304.0,8536.0
+2017-02-13,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,5,31.02226,76.71472,160908.0,15304.0,8536.0
+2017-02-20,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,6,31.02226,76.71472,160909.0,15304.0,8536.0
+2017-02-06,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,4,31.02226,76.71472,160903.0,15304.0,8536.0
+2017-02-27,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,7,31.02226,76.71472,160910.0,15304.0,8536.0
+2018-07-02,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,2.0,1.0,,2018,23,31.02226,76.71472,205458.0,15304.0,8536.0
+2016-08-04,Devil's Tree-Alstonia scholaris,2.0,1.0,,1.0,0.0,,,0.0,0.0,,2016,27,31.02226,76.71472,134945.0,15304.0,8536.0
+2018-01-12,Devil's Tree-Alstonia scholaris,1.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,1,31.02226,76.71472,188719.0,15304.0,8536.0
+2016-08-25,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2016,30,31.02226,76.71472,136120.0,15304.0,8536.0
+2016-09-01,Devil's Tree-Alstonia scholaris,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,31,31.02226,76.71472,136478.0,15304.0,8536.0
+2016-12-19,Devil's Tree-Alstonia scholaris,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,45,31.02226,76.71472,148043.0,15304.0,8536.0
+2018-01-01,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,1.0,0.0,,2018,0,31.02226,76.71472,186297.0,15304.0,8536.0
+2018-02-20,Devil's Tree-Alstonia scholaris,1.0,2.0,,1.0,1.0,,,0.0,0.0,,2018,6,31.02226,76.71472,201625.0,15304.0,8536.0
+2018-02-08,Devil's Tree-Alstonia scholaris,1.0,2.0,,2.0,1.0,,,0.0,0.0,,2018,5,31.02226,76.71472,192845.0,15304.0,8536.0
+2018-02-01,Devil's Tree-Alstonia scholaris,1.0,2.0,,2.0,1.0,,,0.0,0.0,,2018,4,31.02226,76.71472,192843.0,15304.0,8536.0
+2018-03-12,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,9,31.02226,76.71472,201622.0,15304.0,8536.0
+2018-04-02,Devil's Tree-Alstonia scholaris,2.0,2.0,,2.0,2.0,,,1.0,0.0,,2018,11,31.02226,76.71472,201620.0,15304.0,8536.0
+2016-08-01,Devil's Tree-Alstonia scholaris,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,27,31.02226,76.71472,134993.0,15304.0,8536.0
+2016-08-02,Devil's Tree-Alstonia scholaris,2.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,27,31.02226,76.71472,134556.0,15304.0,8536.0
+2021-01-30,Soft fig-Ficus mollis,2.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,2.0,0.0,-2.0,2021,3,32.11607,76.38385,472225.0,22892.0,98278.0
+2021-01-30,Soft fig-Ficus mollis,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,2021,3,32.11607,76.38385,472221.0,22892.0,98277.0
+2021-01-30,Five-leaved vitex-Vitex negundo,1.0,2.0,2.0,0.0,1.0,-2.0,-2.0,2.0,2.0,-2.0,2021,3,32.11769,76.38355,472235.0,22892.0,98282.0
+2019-06-09,Gamar-Gmelina arborea,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,20,30.85661,77.16921,313966.0,20346.0,46831.0
+2018-12-01,Grey Oak-Quercus leucotrichophora,0.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2018,43,31.06601,77.1771,235893.0,18811.0,14368.0
+2021-02-04,Guava tree-Psidium guajava,-1.0,2.0,1.0,1.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2021,4,31.46851,76.2705,476129.0,22940.0,98501.0
+2017-01-08,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,1,31.03107,76.70555,153282.0,15307.0,8425.0
+2017-01-19,Gulmohur-Delonix regia,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2,31.03107,76.70555,155021.0,15307.0,8425.0
+2016-11-14,Gulmohur-Delonix regia,-1.0,2.0,,-1.0,1.0,,,-1.0,1.0,,2016,41,31.03107,76.70555,142893.0,15307.0,8425.0
+2017-04-16,Gulmohur-Delonix regia,2.0,-1.0,,1.0,0.0,,,0.0,1.0,,2017,13,31.03107,76.70555,165700.0,15307.0,8425.0
+2016-09-01,Gulmohur-Delonix regia,1.0,0.0,,0.0,0.0,,,1.0,1.0,,2016,31,31.03107,76.70555,136461.0,15307.0,8425.0
+2016-10-27,Gulmohur-Delonix regia,0.0,2.0,,0.0,1.0,,,1.0,-1.0,,2016,38,31.03107,76.70555,141339.0,15307.0,8425.0
+2017-05-21,Gulmohur-Delonix regia,2.0,0.0,,2.0,2.0,,,0.0,0.0,,2017,18,31.03107,76.70555,167508.0,15307.0,8425.0
+2016-10-16,Gulmohur-Delonix regia,-1.0,2.0,,0.0,1.0,,,-1.0,1.0,,2016,37,31.03107,76.70555,139952.0,15307.0,8425.0
+2017-05-14,Gulmohur-Delonix regia,2.0,-1.0,,2.0,2.0,,,0.0,0.0,,2017,17,31.03107,76.70555,167268.0,15307.0,8425.0
+2017-05-08,Gulmohur-Delonix regia,2.0,-1.0,,2.0,2.0,,,0.0,0.0,,2017,16,31.03107,76.70555,167060.0,15307.0,8425.0
+2017-03-04,Gulmohur-Delonix regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,8,31.03107,76.70555,161290.0,15307.0,8425.0
+2017-03-20,Gulmohur-Delonix regia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,10,31.03107,76.70555,163442.0,15307.0,8425.0
+2017-02-27,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2017,7,31.03107,76.70555,160756.0,15307.0,8425.0
+2017-02-01,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,4,31.03107,76.70555,156849.0,15307.0,8425.0
+2016-08-23,Gulmohur-Delonix regia,1.0,2.0,,1.0,2.0,,,2.0,-1.0,,2016,30,31.03107,76.70555,135956.0,15307.0,8425.0
+2017-06-10,Gulmohur-Delonix regia,2.0,1.0,,2.0,2.0,,,2.0,-1.0,,2017,20,31.03107,76.70555,168593.0,15307.0,8425.0
+2017-02-14,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2017,5,31.03107,76.70555,159272.0,15307.0,8425.0
+2016-11-03,Gulmohur-Delonix regia,0.0,2.0,,0.0,1.0,,,0.0,0.0,,2016,39,31.03107,76.70555,142024.0,15307.0,8425.0
+2016-07-01,Gulmohur-Delonix regia,2.0,1.0,,1.0,2.0,,,0.0,0.0,,2016,23,31.03107,76.70555,131881.0,15307.0,8425.0
+2016-10-01,Gulmohur-Delonix regia,0.0,2.0,,1.0,1.0,,,1.0,0.0,,2016,35,31.03107,76.70555,138532.0,15307.0,8425.0
+2016-06-16,Gulmohur-Delonix regia,2.0,1.0,,1.0,2.0,,,1.0,2.0,,2016,21,31.03107,76.70555,131532.0,15307.0,8425.0
+2016-12-25,Gulmohur-Delonix regia,0.0,0.0,,0.0,0.0,,,0.0,1.0,,2016,46,31.03107,76.70555,148409.0,15307.0,8425.0
+2016-08-12,Gulmohur-Delonix regia,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,28,31.03107,76.70555,135425.0,15307.0,8425.0
+2016-12-01,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,1.0,1.0,,2016,43,31.03107,76.70555,145005.0,15307.0,8425.0
+2016-09-24,Gulmohur-Delonix regia,2.0,1.0,,2.0,1.0,,,0.0,0.0,,2016,34,31.03107,76.70555,138206.0,15307.0,8425.0
+2016-11-26,Gulmohur-Delonix regia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,42,31.03107,76.70555,144130.0,15307.0,8425.0
+2016-10-03,Gulmohur-Delonix regia,1.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,35,31.03107,76.70555,139642.0,15307.0,8425.0
+2016-10-10,Gulmohur-Delonix regia,1.0,2.0,,-1.0,1.0,,,1.0,1.0,,2016,36,31.03107,76.70555,139643.0,15307.0,8425.0
+2016-12-08,Gulmohur-Delonix regia,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44,31.03107,76.70555,145756.0,15307.0,8425.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,2.0,0.0,0.0,2.0,-2.0,-2.0,1.0,0.0,-2.0,2018,43,31.06486,77.17783,241493.0,18811.0,19856.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,1.0,0.0,0.0,1.0,-2.0,-2.0,1.0,0.0,-2.0,2018,43,31.06601,77.1771,241466.0,18811.0,19830.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,2.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2018,43,31.06601,77.1771,241451.0,18811.0,19814.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2018,43,31.06601,77.1771,241436.0,18811.0,19799.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2018,43,31.06601,77.1771,241427.0,18811.0,19791.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,2.0,0.0,0.0,1.0,-2.0,-2.0,2.0,0.0,-2.0,2018,43,31.06601,77.1771,241348.0,18811.0,19712.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,2.0,2.0,0.0,0.0,1.0,-2.0,-2.0,2.0,0.0,-2.0,2018,43,31.06601,77.1771,241359.0,18811.0,19723.0
+2021-02-02,Himalayan Cherry-Prunus cerasoides,0.0,0.0,1.0,2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4,31.43458,78.26061,475959.0,22892.0,98466.0
+2021-01-21,Himalayan Cherry-Prunus cerasoides,0.0,0.0,1.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,2,31.43458,78.26061,475947.0,22892.0,98454.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,43,31.06601,77.1771,240691.0,18811.0,19071.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,1.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,43,31.06601,77.1771,240713.0,18811.0,19092.0
+2018-12-02,Himalayan Cherry-Prunus cerasoides,1.0,1.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,43,31.06601,77.1771,240727.0,18811.0,19104.0
+2021-01-21,Himalayan Maple-Acer sterculiaceum,0.0,0.0,2.0,0.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2021,2,31.43458,78.26061,475948.0,22892.0,98455.0
+2021-02-02,Himalayan Maple-Acer sterculiaceum,0.0,0.0,2.0,0.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4,31.43458,78.26061,475956.0,22892.0,98463.0
+2016-05-27,Himalayan Rhododendron-Rhododendron arboreum,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,19,30.89196,77.08229,130211.0,15315.0,8400.0
+2014-08-07,Himalayan Rhododendron-Rhododendron arboreum,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2014,28,32.24196,76.3163,79597.0,11151.0,6050.0
+2019-06-08,Indian Horsechestnut-Aesculus indica,2.0,2.0,0.0,1.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2019,20,30.85355,77.1798,313965.0,20346.0,46830.0
+2023-10-21,Indian Horsechestnut-Aesculus indica,0.0,2.0,1.0,0.0,0.0,-2.0,-2.0,2.0,1.0,1.0,2023,37,31.10294,77.17845,697414.0,15208.0,147087.0
+2023-10-21,Indian Horsechestnut-Aesculus indica,0.0,2.0,2.0,0.0,0.0,-2.0,-2.0,1.0,2.0,2.0,2023,37,31.10211,77.17926,697411.0,15208.0,147084.0
+2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,2.0,1.0,1.0,2022,30,31.09505,77.17705,609493.0,24061.0,121365.0
+2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,2.0,2.0,2.0,2022,30,31.09343,77.17807,609425.0,24061.0,121341.0
+2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,1.0,2.0,2.0,2022,30,31.09302,77.17738,609424.0,24061.0,121340.0
+2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,2.0,2.0,2.0,2022,30,31.09343,77.17807,609423.0,24061.0,121339.0
+2022-04-25,Indian Horsechestnut-Aesculus indica,2.0,-2.0,-2.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2022,14,31.10819,77.13898,587331.0,25031.0,114431.0
+2022-08-28,Indian Horsechestnut-Aesculus indica,2.0,2.0,2.0,0.0,0.0,-2.0,-2.0,0.0,1.0,2.0,2022,30,31.09541,77.17576,609428.0,24061.0,121344.0
+2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,1.0,2.0,1.0,2022,30,31.09343,77.17807,609426.0,24061.0,121342.0
+2022-08-28,Indian Horsechestnut-Aesculus indica,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,2.0,2.0,2022,30,31.09505,77.17705,609427.0,24061.0,121343.0
+2022-08-28,Indian Horsechestnut-Aesculus indica,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,1.0,1.0,1.0,2022,30,31.09236,77.17745,609516.0,24061.0,121380.0
+2021-08-01,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,27,30.95455,77.20875,516886.0,22645.0,95671.0
+2021-03-21,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,10,30.95455,77.20875,492889.0,22645.0,95671.0
+2021-06-06,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,20,30.95455,77.20875,504665.0,22645.0,95671.0
+2021-03-14,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,9,30.95455,77.20875,491140.0,22645.0,95671.0
+2021-01-03,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,0,30.95455,77.20875,463641.0,22645.0,95671.0
+2021-07-18,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,25,30.95455,77.20875,513358.0,22645.0,95671.0
+2020-11-22,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,42,30.95455,77.20875,456637.0,22645.0,95671.0
+2021-05-23,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2021,18,30.95455,77.20875,503437.0,22645.0,95671.0
+2021-05-30,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,19,30.95455,77.20875,504266.0,22645.0,95671.0
+2020-12-20,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,45,30.95455,77.20875,461696.0,22645.0,95671.0
+2021-11-20,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,,,0.0,0.0,0.0,2021,41,30.95455,77.20875,542862.0,22645.0,95671.0
+2021-04-18,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,13,30.95455,77.20875,496484.0,22645.0,95671.0
+2020-11-01,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,39,30.95455,77.20875,451419.0,22645.0,95671.0
+2021-04-25,Indian Mahogany-Toona ciliata,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,14,30.95455,77.20875,497686.0,22645.0,95671.0
+2021-09-05,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,31,30.95455,77.20875,524653.0,22645.0,95671.0
+2021-05-02,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,15,30.95455,77.20875,499226.0,22645.0,95671.0
+2021-03-28,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,11,30.95455,77.20875,494183.0,22645.0,95671.0
+2020-11-15,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2020,41,30.95455,77.20875,454726.0,22645.0,95671.0
+2021-05-16,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,17,30.95455,77.20875,502151.0,22645.0,95671.0
+2020-12-27,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,46,30.95455,77.20875,462522.0,22645.0,95671.0
+2021-05-09,Indian Mahogany-Toona ciliata,1.0,2.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2021,16,30.95455,77.20875,500623.0,22645.0,95671.0
+2020-11-08,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,40,30.95455,77.20875,453514.0,22645.0,95671.0
+2021-08-29,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,31,30.95455,77.20875,522994.0,22645.0,95671.0
+2021-04-04,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,12,30.95455,77.20875,494983.0,22645.0,95671.0
+2021-04-11,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,13,30.95455,77.20875,495706.0,22645.0,95671.0
+2020-11-29,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,43,30.95455,77.20875,458274.0,22645.0,95671.0
+2021-01-31,Indian Mahogany-Toona ciliata,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,3,30.95455,77.20875,472530.0,22645.0,95671.0
+2021-06-27,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,22,30.95455,77.20875,507471.0,22645.0,95671.0
+2021-02-21,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,6,30.95455,77.20875,483907.0,22645.0,95671.0
+2021-02-28,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,7,30.95455,77.20875,485289.0,22645.0,95671.0
+2021-01-17,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,2,30.95455,77.20875,468016.0,22645.0,95671.0
+2021-07-11,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,24,30.95455,77.20875,511630.0,22645.0,95671.0
+2020-12-13,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,44,30.95455,77.20875,460549.0,22645.0,95671.0
+2021-01-24,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,3,30.95455,77.20875,469322.0,22645.0,95671.0
+2021-02-07,Indian Mahogany-Toona ciliata,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,4,30.95455,77.20875,476699.0,22645.0,95671.0
+2020-12-06,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2020,43,30.95455,77.20875,459613.0,22645.0,95671.0
+2020-10-18,Indian Mahogany-Toona ciliata,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,37,30.95455,77.20875,447297.0,22645.0,95671.0
+2020-10-11,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,36,30.95455,77.20875,446908.0,22645.0,95671.0
+2021-07-04,Indian Mahogany-Toona ciliata,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,23,30.95455,77.20875,509249.0,22645.0,95671.0
+2021-02-14,Indian Mahogany-Toona ciliata,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2021,5,30.95455,77.20875,481259.0,22645.0,95671.0
+2021-06-13,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,21,30.95455,77.20875,505596.0,22645.0,95671.0
+2021-01-10,Indian Mahogany-Toona ciliata,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,1,30.95455,77.20875,465546.0,22645.0,95671.0
+2021-06-20,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,22,30.95455,77.20875,506380.0,22645.0,95671.0
+2020-10-25,Indian Mahogany-Toona ciliata,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,38,30.95455,77.20875,448910.0,22645.0,95671.0
+2018-06-08,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2018,20,30.91278,77.09749,207814.0,15310.0,8396.0
+2023-05-13,Jacaranda-Jacaranda mimosifolia,0.0,2.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17,31.64282,76.94647,661977.0,20419.0,136478.0
+2019-06-17,Jacaranda-Jacaranda mimosifolia,2.0,-1.0,0.0,-1.0,2.0,-2.0,-2.0,-1.0,2.0,2.0,2019,21,31.07845,77.16719,331581.0,17869.0,63689.0
+2016-12-09,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,44,30.91278,77.09749,146336.0,15310.0,8396.0
+2016-06-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,0.0,2.0,,2016,19,30.89269,77.10535,130375.0,15312.0,8398.0
+2018-11-02,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2018,39,30.91278,77.09749,231248.0,15310.0,8396.0
+2018-10-26,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,0.0,1.0,,2018,38,30.91278,77.09749,231247.0,15310.0,8396.0
+2018-09-14,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,33,30.91278,77.09749,231237.0,15310.0,8396.0
+2018-10-19,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2018,37,30.91278,77.09749,231246.0,15310.0,8396.0
+2018-10-12,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2018,36,30.91278,77.09749,231245.0,15310.0,8396.0
+2016-08-05,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,1.0,,2016,28,30.91278,77.09749,135057.0,15310.0,8396.0
+2017-07-28,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,26,30.91278,77.09749,171453.0,15310.0,8396.0
+2018-03-02,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2018,7,30.91278,77.09749,199294.0,15310.0,8396.0
+2018-10-05,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2018,35,30.91278,77.09749,231244.0,15310.0,8396.0
+2018-09-28,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,34,30.91278,77.09749,231242.0,15310.0,8396.0
+2018-02-23,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2018,6,30.91278,77.09749,199293.0,15310.0,8396.0
+2015-12-03,Jacaranda-Jacaranda mimosifolia,0.0,2.0,,0.0,0.0,,,0.0,2.0,,2015,43,30.90759,77.09964,113609.0,14791.0,7962.0
+2018-09-21,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,33,30.91278,77.09749,231240.0,15310.0,8396.0
+2018-03-09,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,0.0,,,0.0,1.0,,2018,8,30.91278,77.09749,199295.0,15310.0,8396.0
+2018-11-23,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,42,30.91278,77.09749,231251.0,15310.0,8396.0
+2018-11-16,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,41,30.91278,77.09749,231250.0,15310.0,8396.0
+2018-11-09,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,40,30.91278,77.09749,231249.0,15310.0,8396.0
+2016-06-15,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,1.0,,,0.0,1.0,,2016,21,30.89269,77.10535,131064.0,15312.0,8398.0
+2018-09-07,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,0.0,1.0,,2018,32,30.91278,77.09749,231236.0,15310.0,8396.0
+2018-08-24,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2018,30,30.91278,77.09749,231234.0,15310.0,8396.0
+2018-08-17,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,29,30.91278,77.09749,231233.0,15310.0,8396.0
+2018-08-31,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2018,31,30.91278,77.09749,231235.0,15310.0,8396.0
+2017-06-16,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,21,30.91278,77.09749,170120.0,15310.0,8396.0
+2016-07-22,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,2.0,,2016,26,30.91278,77.09749,133729.0,15310.0,8396.0
+2018-05-11,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,1.0,,2018,16,30.91278,77.09749,202924.0,15310.0,8396.0
+2016-06-13,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,2.0,,2016,21,30.91077,77.10438,130986.0,15314.0,8399.0
+2017-06-23,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,22,30.91278,77.09749,170121.0,15310.0,8396.0
+2017-06-30,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,2.0,,2017,23,30.91278,77.09749,170122.0,15310.0,8396.0
+2016-12-30,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,2.0,,2016,47,30.91278,77.09749,151182.0,15310.0,8396.0
+2017-06-09,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,20,30.91278,77.09749,170119.0,15310.0,8396.0
+2022-05-13,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,0.0,2022,17,30.91278,77.09749,593424.0,15310.0,8396.0
+2022-05-20,Jacaranda-Jacaranda mimosifolia,2.0,1.0,1.0,2.0,1.0,-2.0,-2.0,1.0,0.0,1.0,2022,18,30.91278,77.09749,593425.0,15310.0,8396.0
+2019-01-04,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,0.0,,2019,0,30.91278,77.09749,310748.0,15310.0,8396.0
+2019-01-18,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2019,2,30.91278,77.09749,310750.0,15310.0,8396.0
+2016-09-21,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,34,30.91077,77.10438,137919.0,15314.0,8399.0
+2016-06-16,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,21,30.4585,78.07375,131188.0,15316.0,8402.0
+2019-01-25,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2019,3,30.91278,77.09749,310751.0,15310.0,8396.0
+2019-02-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,0.0,,2019,4,30.91278,77.09749,310752.0,15310.0,8396.0
+2019-02-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2019,5,30.91278,77.09749,310753.0,15310.0,8396.0
+2019-02-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2019,5,30.91278,77.09749,310754.0,15310.0,8396.0
+2019-02-22,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,1.0,1.0,,2019,6,30.91278,77.09749,310755.0,15310.0,8396.0
+2019-03-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2019,7,30.91278,77.09749,310756.0,15310.0,8396.0
+2019-03-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,1.0,1.0,,2019,8,30.91278,77.09749,310757.0,15310.0,8396.0
+2019-03-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,9,30.91278,77.09749,310758.0,15310.0,8396.0
+2019-03-22,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,10,30.91278,77.09749,310759.0,15310.0,8396.0
+2019-03-29,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,11,30.91278,77.09749,310760.0,15310.0,8396.0
+2019-04-05,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2019,12,30.91278,77.09749,310761.0,15310.0,8396.0
+2019-04-12,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2019,13,30.91278,77.09749,310762.0,15310.0,8396.0
+2019-04-19,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,14,30.91278,77.09749,310763.0,15310.0,8396.0
+2019-04-26,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,2.0,,2019,14,30.91278,77.09749,310764.0,15310.0,8396.0
+2019-05-03,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2019,15,30.91278,77.09749,310765.0,15310.0,8396.0
+2017-07-07,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2017,24,30.91278,77.09749,170123.0,15310.0,8396.0
+2016-06-10,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,0.0,,,1.0,2.0,,2016,20,30.91278,77.09749,130987.0,15310.0,8396.0
+2019-01-11,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,0.0,,2019,1,30.91278,77.09749,310749.0,15310.0,8396.0
+2022-09-12,Jacaranda-Jacaranda mimosifolia,1.0,2.0,1.0,2.0,0.0,-2.0,-2.0,1.0,0.0,0.0,2022,32,30.91278,77.09749,612439.0,15310.0,8396.0
+2016-07-29,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,2.0,,2016,27,30.91278,77.09749,134502.0,15310.0,8396.0
+2016-08-12,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,2.0,1.0,,2016,28,30.91278,77.09749,135889.0,15310.0,8396.0
+2016-08-19,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,2.0,2.0,,2016,29,30.91278,77.09749,135890.0,15310.0,8396.0
+2018-06-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2018,21,30.91278,77.09749,207815.0,15310.0,8396.0
+2018-06-22,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,1.0,,,1.0,0.0,,2018,22,30.91278,77.09749,207816.0,15310.0,8396.0
+2018-06-29,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2018,23,30.91278,77.09749,207817.0,15310.0,8396.0
+2016-08-07,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,28,30.4585,78.07375,135124.0,15316.0,8402.0
+2016-05-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,1.0,2.0,,2016,19,30.91278,77.09749,130199.0,15310.0,8396.0
+2017-01-15,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,1.0,,,1.0,1.0,,2017,1,30.91077,77.10438,167619.0,15314.0,8399.0
+2017-11-10,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,40,30.91278,77.09749,181940.0,15310.0,8396.0
+2017-01-25,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,3,30.91077,77.10438,167620.0,15314.0,8399.0
+2017-11-17,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,41,30.91278,77.09749,181941.0,15310.0,8396.0
+2016-09-09,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,32,30.91278,77.09749,137176.0,15310.0,8396.0
+2017-11-03,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,39,30.91278,77.09749,181939.0,15310.0,8396.0
+2018-05-18,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,1.0,,,1.0,1.0,,2018,17,30.91278,77.09749,203539.0,15310.0,8396.0
+2016-12-02,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2016,43,30.91278,77.09749,145174.0,15310.0,8396.0
+2018-05-25,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,1.0,,,2.0,1.0,,2018,18,30.91278,77.09749,203540.0,15310.0,8396.0
+2018-06-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,2.0,,,2.0,1.0,,2018,19,30.91278,77.09749,203541.0,15310.0,8396.0
+2017-01-05,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,1.0,,,1.0,1.0,,2017,0,30.91077,77.10438,167618.0,15314.0,8399.0
+2017-03-31,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,2.0,,,1.0,2.0,,2017,11,30.91077,77.10438,167625.0,15314.0,8399.0
+2017-04-15,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,1.0,,,1.0,1.0,,2017,13,30.91077,77.10438,167626.0,15314.0,8399.0
+2017-04-30,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,15,30.91077,77.10438,167627.0,15314.0,8399.0
+2017-02-15,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,5,30.91077,77.10438,167621.0,15314.0,8399.0
+2017-03-15,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,2.0,,,1.0,2.0,,2017,9,30.91077,77.10438,167623.0,15314.0,8399.0
+2023-03-27,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,2.0,0.0,-2.0,-2.0,2.0,1.0,0.0,2023,11,30.91278,77.09749,650269.0,15310.0,8396.0
+2017-02-28,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,7,30.91077,77.10438,167622.0,15314.0,8399.0
+2017-02-10,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,5,30.91278,77.09749,160152.0,15310.0,8396.0
+2016-06-17,Jacaranda-Jacaranda mimosifolia,0.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,21,30.91278,77.09749,131237.0,15310.0,8396.0
+2017-03-31,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,11,30.91278,77.09749,164601.0,15310.0,8396.0
+2017-02-17,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,6,30.91278,77.09749,160153.0,15310.0,8396.0
+2017-05-19,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,2.0,,,2.0,1.0,,2017,17,30.91278,77.09749,167549.0,15310.0,8396.0
+2017-05-12,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,2.0,,,1.0,2.0,,2017,16,30.91278,77.09749,167548.0,15310.0,8396.0
+2020-05-29,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,2020,19,30.91278,77.09749,504611.0,15310.0,8396.0
+2016-11-18,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2016,41,30.91278,77.09749,143272.0,15310.0,8396.0
+2017-09-22,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,34,30.91278,77.09749,175324.0,15310.0,8396.0
+2017-09-15,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,33,30.91278,77.09749,175323.0,15310.0,8396.0
+2017-03-24,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,10,30.91278,77.09749,164165.0,15310.0,8396.0
+2020-07-03,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,1.0,1.0,-2.0,-2.0,1.0,1.0,0.0,2020,23,30.91278,77.09749,504612.0,15310.0,8396.0
+2020-06-12,Jacaranda-Jacaranda mimosifolia,2.0,2.0,0.0,1.0,1.0,-2.0,-2.0,1.0,1.0,0.0,2020,21,30.91278,77.09749,504613.0,15310.0,8396.0
+2020-06-19,Jacaranda-Jacaranda mimosifolia,2.0,2.0,0.0,2.0,2.0,-2.0,-2.0,1.0,1.0,0.0,2020,22,30.91278,77.09749,504614.0,15310.0,8396.0
+2020-06-26,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,1.0,1.0,-2.0,-2.0,2.0,1.0,0.0,2020,22,30.91278,77.09749,504615.0,15310.0,8396.0
+2020-12-04,Jacaranda-Jacaranda mimosifolia,1.0,1.0,1.0,2.0,1.0,-2.0,-2.0,1.0,1.0,1.0,2020,43,30.91278,77.09749,504616.0,15310.0,8396.0
+2020-12-11,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,2.0,1.0,-2.0,-2.0,2.0,2.0,1.0,2020,44,30.91278,77.09749,504617.0,15310.0,8396.0
+2020-12-18,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,2.0,2.0,-2.0,-2.0,2.0,2.0,1.0,2020,45,30.91278,77.09749,504618.0,15310.0,8396.0
+2020-12-25,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,2.0,2.0,-2.0,-2.0,1.0,2.0,2.0,2020,46,30.91278,77.09749,504619.0,15310.0,8396.0
+2016-09-16,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,0.0,1.0,,2016,33,30.91278,77.09749,138093.0,15310.0,8396.0
+2016-09-23,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,34,30.91278,77.09749,138092.0,15310.0,8396.0
+2017-12-22,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,45,30.91278,77.09749,191734.0,15310.0,8396.0
+2017-12-29,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,2.0,0.0,,2017,46,30.91278,77.09749,191735.0,15310.0,8396.0
+2018-01-05,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,0.0,,,2.0,1.0,,2018,0,30.91278,77.09749,191736.0,15310.0,8396.0
+2018-01-12,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,0.0,1.0,,2018,1,30.91278,77.09749,191737.0,15310.0,8396.0
+2018-01-19,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,2,30.91278,77.09749,191738.0,15310.0,8396.0
+2016-10-15,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,37,30.91278,77.09749,139914.0,15310.0,8396.0
+2018-02-02,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2018,4,30.91278,77.09749,191740.0,15310.0,8396.0
+2018-02-09,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2018,5,30.91278,77.09749,191741.0,15310.0,8396.0
+2016-10-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,35,30.91278,77.09749,139915.0,15310.0,8396.0
+2016-10-08,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,36,30.91278,77.09749,139916.0,15310.0,8396.0
+2016-06-28,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,23,30.91077,77.10438,131790.0,15314.0,8399.0
+2018-01-26,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2018,3,30.91278,77.09749,191739.0,15310.0,8396.0
+2016-07-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,25,30.91278,77.09749,133444.0,15310.0,8396.0
+2017-01-20,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,2,30.91278,77.09749,157833.0,15310.0,8396.0
+2017-01-13,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,1,30.91278,77.09749,157832.0,15310.0,8396.0
+2017-03-17,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,9,30.91278,77.09749,163392.0,15310.0,8396.0
+2017-01-06,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,0,30.91278,77.09749,157831.0,15310.0,8396.0
+2017-01-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2017,3,30.91278,77.09749,157834.0,15310.0,8396.0
+2016-05-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,0.0,2.0,,2016,19,30.91278,77.09749,130205.0,15311.0,8397.0
+2016-07-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2016,23,30.89269,77.10535,131892.0,15312.0,8398.0
+2017-03-10,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,8,30.91278,77.09749,163389.0,15310.0,8396.0
+2017-02-03,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,4,30.91278,77.09749,157835.0,15310.0,8396.0
+2016-05-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,0.0,2.0,,2016,19,30.89269,77.10535,130206.0,15312.0,8398.0
+2023-04-03,Jacaranda-Jacaranda mimosifolia,2.0,1.0,0.0,1.0,0.0,-2.0,-2.0,1.0,0.0,0.0,2023,11,30.91278,77.09749,653707.0,15310.0,8396.0
+2016-05-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,1.0,,,0.0,2.0,,2016,19,30.91077,77.10438,130207.0,15314.0,8399.0
+2016-07-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,23,30.91278,77.09749,131901.0,15310.0,8396.0
+2016-06-24,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,22,30.91278,77.09749,131900.0,15310.0,8396.0
+2018-11-30,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,43,30.91278,77.09749,310743.0,15310.0,8396.0
+2016-08-26,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,0.0,,,1.0,2.0,,2016,30,30.91278,77.09749,136403.0,15310.0,8396.0
+2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,1.0,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,2023,17,31.68113,77.04652,662020.0,20419.0,136488.0
+2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17,31.70244,76.976,662008.0,20419.0,136485.0
+2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,2.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17,31.70046,76.96122,662005.0,20419.0,136484.0
+2017-04-07,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,1.0,0.0,,2017,12,30.91278,77.09749,165576.0,15310.0,8396.0
+2018-12-07,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2018,43,30.91278,77.09749,310744.0,15310.0,8396.0
+2018-12-14,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2018,44,30.91278,77.09749,310745.0,15310.0,8396.0
+2017-05-10,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,2.0,1.0,,,1.0,1.0,,2017,16,30.91077,77.10438,167628.0,15314.0,8399.0
+2017-05-22,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,1.0,1.0,,,1.0,1.0,,2017,18,30.91077,77.10438,167629.0,15314.0,8399.0
+2016-07-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2016,24,30.91278,77.09749,132649.0,15310.0,8396.0
+2019-06-02,Jacaranda-Jacaranda mimosifolia,2.0,2.0,0.0,1.0,2.0,-2.0,-2.0,0.0,0.0,0.0,2019,19,30.85828,77.16797,313964.0,20346.0,46828.0
+2018-12-28,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2018,46,30.91278,77.09749,310747.0,15310.0,8396.0
+2018-12-21,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2018,45,30.91278,77.09749,310746.0,15310.0,8396.0
+2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,1.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17,31.67422,77.04778,662021.0,20419.0,136489.0
+2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,2.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17,31.70217,76.95542,662003.0,20419.0,136483.0
+2017-04-14,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,1.0,0.0,,2017,13,30.91278,77.09749,165577.0,15310.0,8396.0
+2017-08-04,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,27,30.91278,77.09749,172745.0,15310.0,8396.0
+2017-07-21,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,26,30.91278,77.09749,171179.0,15310.0,8396.0
+2015-12-10,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2015,44,30.90759,77.09964,114226.0,14791.0,7962.0
+2023-05-13,Jacaranda-Jacaranda mimosifolia,1.0,2.0,0.0,2.0,2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17,31.70178,76.9361,661997.0,20419.0,136481.0
+2017-08-18,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,29,30.91278,77.09749,172747.0,15310.0,8396.0
+2017-07-14,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,2.0,,2017,25,30.91278,77.09749,171178.0,15310.0,8396.0
+2017-08-11,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,0.0,,2017,28,30.91278,77.09749,172746.0,15310.0,8396.0
+2018-04-27,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2018,15,30.91278,77.09749,202591.0,15310.0,8396.0
+2018-04-20,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,0.0,,,1.0,0.0,,2018,14,30.91278,77.09749,202590.0,15310.0,8396.0
+2018-04-13,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2018,13,30.91278,77.09749,202589.0,15310.0,8396.0
+2016-09-02,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,31,30.91278,77.09749,136773.0,15310.0,8396.0
+2016-06-21,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,1.0,,,0.0,0.0,,2016,22,30.91077,77.10438,131534.0,15314.0,8399.0
+2018-05-04,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2018,15,30.91278,77.09749,202592.0,15310.0,8396.0
+2016-06-02,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,0.0,1.0,,2016,19,30.89269,77.10535,130409.0,15312.0,8398.0
+2017-08-25,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,1.0,,2017,30,30.91278,77.09749,174134.0,15310.0,8396.0
+2016-10-28,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,2.0,1.0,,2016,38,30.91278,77.09749,141973.0,15310.0,8396.0
+2017-09-01,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,31,30.91278,77.09749,174135.0,15310.0,8396.0
+2017-09-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,2.0,,2017,32,30.91278,77.09749,174136.0,15310.0,8396.0
+2016-08-17,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,0.0,0.0,,2016,29,30.91077,77.10438,136776.0,15314.0,8399.0
+2016-08-25,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,30,30.91077,77.10438,136777.0,15314.0,8399.0
+2016-09-05,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,32,30.91077,77.10438,136778.0,15314.0,8399.0
+2016-08-10,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,-1.0,,,0.0,0.0,,2016,28,30.91077,77.10438,136775.0,15314.0,8399.0
+2016-11-04,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,1.0,,,2.0,2.0,,2016,39,30.91278,77.09749,142128.0,15310.0,8396.0
+2017-12-15,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,1.0,0.0,,2017,44,30.91278,77.09749,184523.0,15310.0,8396.0
+2017-12-08,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,44,30.91278,77.09749,184522.0,15310.0,8396.0
+2016-11-11,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,40,30.91278,77.09749,142738.0,15310.0,8396.0
+2017-12-01,Jacaranda-Jacaranda mimosifolia,1.0,0.0,,0.0,0.0,,,1.0,0.0,,2017,43,30.91278,77.09749,184521.0,15310.0,8396.0
+2016-08-03,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2016,27,30.91077,77.10438,134596.0,15314.0,8399.0
+2017-05-05,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,1.0,2.0,,,1.0,0.0,,2017,16,30.91278,77.09749,166961.0,15310.0,8396.0
+2016-09-28,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2016,35,30.91077,77.10438,167608.0,15314.0,8399.0
+2016-12-25,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,1.0,,,1.0,0.0,,2016,46,30.91077,77.10438,167617.0,15314.0,8399.0
+2018-07-06,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,1.0,,2018,24,30.91278,77.09749,207818.0,15310.0,8396.0
+2016-12-15,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,0.0,,,1.0,0.0,,2016,45,30.91077,77.10438,167616.0,15314.0,8399.0
+2016-01-20,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,0.0,2.0,,2016,2,30.90759,77.09964,119179.0,14791.0,7962.0
+2016-12-05,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,43,30.91077,77.10438,167615.0,15314.0,8399.0
+2016-11-25,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,0.0,,2016,42,30.91077,77.10438,167614.0,15314.0,8399.0
+2016-07-05,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,1.0,1.0,,2016,24,30.89269,77.10535,132175.0,15312.0,8398.0
+2016-11-15,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41,30.91077,77.10438,167613.0,15314.0,8399.0
+2017-05-26,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,1.0,,,1.0,2.0,,2017,18,30.91278,77.09749,168328.0,15310.0,8396.0
+2017-06-02,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,2.0,,2017,19,30.91278,77.09749,168329.0,15310.0,8396.0
+2018-07-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,26,30.91278,77.09749,207821.0,15310.0,8396.0
+2018-08-10,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2018,28,30.91278,77.09749,207823.0,15310.0,8396.0
+2018-08-03,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,1.0,0.0,,2018,27,30.91278,77.09749,207822.0,15310.0,8396.0
+2018-07-13,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,1.0,,,1.0,1.0,,2018,24,30.91278,77.09749,207819.0,15310.0,8396.0
+2018-07-20,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,1.0,,,1.0,0.0,,2018,25,30.91278,77.09749,207820.0,15310.0,8396.0
+2016-01-11,Jacaranda-Jacaranda mimosifolia,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,1,30.90759,77.09964,119180.0,14791.0,7962.0
+2015-12-23,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,1.0,,2015,45,30.90759,77.09964,116508.0,14791.0,7962.0
+2016-01-04,Jacaranda-Jacaranda mimosifolia,0.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,0,30.90759,77.09964,117594.0,14791.0,7962.0
+2016-10-15,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,1.0,,,0.0,0.0,,2016,37,30.91077,77.10438,167610.0,15314.0,8399.0
+2016-10-25,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,1.0,,,0.0,0.0,,2016,38,30.91077,77.10438,167611.0,15314.0,8399.0
+2016-11-05,Jacaranda-Jacaranda mimosifolia,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,39,30.91077,77.10438,167612.0,15314.0,8399.0
+2016-01-18,Jacaranda-Jacaranda mimosifolia,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,2,30.90759,77.09964,119181.0,14791.0,7962.0
+2016-10-05,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,35,30.91077,77.10438,167609.0,15314.0,8399.0
+2021-01-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,2.0,2.0,1.0,-2.0,-2.0,2.0,2.0,1.0,2020,0,30.91278,77.09749,504620.0,15310.0,8396.0
+2022-09-05,Jacaranda-Jacaranda mimosifolia,1.0,2.0,1.0,2.0,1.0,-2.0,-2.0,1.0,2.0,0.0,2022,31,30.91278,77.09749,611095.0,15310.0,8396.0
+2018-02-16,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2018,6,30.91278,77.09749,192697.0,15310.0,8396.0
+2017-09-29,Jacaranda-Jacaranda mimosifolia,1.0,1.0,,0.0,0.0,,,1.0,2.0,,2017,35,30.91278,77.09749,178673.0,15310.0,8396.0
+2017-04-21,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,2.0,1.0,,,1.0,1.0,,2017,14,30.91278,77.09749,166905.0,15310.0,8396.0
+2021-01-15,Jacaranda-Jacaranda mimosifolia,2.0,2.0,1.0,2.0,2.0,-2.0,-2.0,2.0,2.0,1.0,2021,1,30.91278,77.09749,504623.0,15310.0,8396.0
+2021-01-08,Jacaranda-Jacaranda mimosifolia,2.0,2.0,2.0,2.0,2.0,-2.0,-2.0,2.0,2.0,2.0,2021,1,30.91278,77.09749,504622.0,15310.0,8396.0
+2017-04-28,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,1.0,2.0,,,2.0,1.0,,2017,15,30.91278,77.09749,166906.0,15310.0,8396.0
+2016-06-03,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,1.0,1.0,,,0.0,2.0,,2016,19,30.91278,77.09749,130450.0,15310.0,8396.0
+2016-12-23,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,0.0,,2016,46,30.91278,77.09749,148280.0,15310.0,8396.0
+2016-06-01,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,2.0,,,1.0,2.0,,2016,19,30.4585,78.07375,130451.0,15316.0,8402.0
+2017-02-24,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,7,30.91278,77.09749,161306.0,15310.0,8396.0
+2017-03-03,Jacaranda-Jacaranda mimosifolia,2.0,0.0,,0.0,0.0,,,2.0,0.0,,2017,7,30.91278,77.09749,161307.0,15310.0,8396.0
+2016-12-16,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,1.0,2.0,,2016,45,30.91278,77.09749,147845.0,15310.0,8396.0
+2016-10-21,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,0.0,,,2.0,1.0,,2016,37,30.91278,77.09749,140434.0,15310.0,8396.0
+2017-11-24,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2017,42,30.91278,77.09749,183197.0,15310.0,8396.0
+2017-10-27,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,38,30.91278,77.09749,178677.0,15310.0,8396.0
+2017-10-20,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,1.0,1.0,,2017,37,30.91278,77.09749,178676.0,15310.0,8396.0
+2017-10-13,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,36,30.91278,77.09749,178675.0,15310.0,8396.0
+2016-06-02,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,2.0,0.0,,2016,19,30.91077,77.10438,130447.0,15314.0,8399.0
+2016-06-03,Jacaranda-Jacaranda mimosifolia,2.0,2.0,,1.0,2.0,,,1.0,0.0,,2016,19,30.91077,77.10438,130448.0,15314.0,8399.0
+2016-11-25,Jacaranda-Jacaranda mimosifolia,2.0,1.0,,0.0,0.0,,,2.0,1.0,,2016,42,30.91278,77.09749,144076.0,15310.0,8396.0
+2017-10-06,Jacaranda-Jacaranda mimosifolia,1.0,2.0,,0.0,0.0,,,2.0,1.0,,2017,35,30.91278,77.09749,178674.0,15310.0,8396.0
+2023-04-01,Jackfruit-Artocarpus heterophyllus,2.0,2.0,2.0,1.0,-2.0,0.0,0.0,2.0,1.0,-2.0,2023,11,31.98137,77.13265,652292.0,18376.0,133529.0
+2015-12-01,Jamun-Syzygium cumini,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,43,32.21904,76.3234,113333.0,14813.0,7956.0
+2022-11-26,Lantana-Lantana camara,2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,2022,42,32.04882,76.07521,621962.0,26429.0,124115.0
+2016-10-03,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35,31.02226,76.71472,139379.0,15304.0,8391.0
+2016-11-24,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,42,31.02226,76.71472,143945.0,15304.0,8391.0
+2016-12-08,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44,31.02226,76.71472,145773.0,15304.0,8391.0
+2016-11-17,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41,31.02226,76.71472,143282.0,15304.0,8391.0
+2016-11-03,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39,31.02226,76.71472,142127.0,15304.0,8391.0
+2016-10-27,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,38,31.02226,76.71472,142285.0,15304.0,8391.0
+2017-01-09,Mango (all varieties)-Mangifera indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,1,31.02226,76.71472,154064.0,15304.0,8391.0
+2016-06-02,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,2.0,,,2.0,2.0,,2016,19,31.14425,76.6935,130435.0,15309.0,8395.0
+2016-06-02,Mango (all varieties)-Mangifera indica,2.0,1.0,,1.0,2.0,,,2.0,0.0,,2016,19,31.02226,76.71472,130449.0,15304.0,8391.0
+2016-07-14,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,1.0,,2016,25,31.02226,76.71472,133791.0,15304.0,8391.0
+2016-07-21,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,26,31.02226,76.71472,133792.0,15304.0,8391.0
+2016-06-09,Mango (all varieties)-Mangifera indica,2.0,1.0,,1.0,2.0,,,2.0,0.0,,2016,20,31.02226,76.71472,130741.0,15304.0,8391.0
+2016-12-26,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,46,31.02226,76.71472,154062.0,15304.0,8391.0
+2016-08-04,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,27,31.02226,76.71472,134944.0,15304.0,8391.0
+2021-01-27,Mango (all varieties)-Mangifera indica,-1.0,2.0,1.0,2.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2021,3,31.46846,76.27126,475937.0,22940.0,98450.0
+2016-05-26,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,2.0,0.0,,2016,18,31.14425,76.6935,130198.0,15309.0,8395.0
+2016-07-28,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,27,31.02226,76.71472,134549.0,15304.0,8391.0
+2016-05-26,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,18,31.03671,76.70495,130157.0,15308.0,8394.0
+2016-05-26,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,1.0,0.0,,2016,18,31.02226,76.71472,130150.0,15304.0,8391.0
+2021-01-30,Mango (all varieties)-Mangifera indica,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,3,32.11877,76.38374,472228.0,22892.0,98281.0
+2016-06-24,Mango (all varieties)-Mangifera indica,2.0,1.0,,2.0,1.0,,,2.0,1.0,,2016,22,31.02226,76.71472,131707.0,15304.0,8391.0
+2016-07-07,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,1.0,1.0,,2016,24,31.02226,76.71472,132862.0,15304.0,8391.0
+2016-07-05,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,2.0,,,2.0,2.0,,2016,24,31.14425,76.6935,132000.0,15309.0,8395.0
+2016-07-01,Mango (all varieties)-Mangifera indica,2.0,1.0,,1.0,0.0,,,1.0,0.0,,2016,23,31.02226,76.71472,131893.0,15304.0,8391.0
+2016-06-17,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,1.0,,,2.0,2.0,,2016,21,31.14425,76.6935,131272.0,15309.0,8395.0
+2016-05-17,Mango (all varieties)-Mangifera indica,2.0,1.0,,1.0,2.0,,,2.0,1.0,,2016,17,31.02226,76.71472,131238.0,15304.0,8391.0
+2016-09-01,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,31,31.02226,76.71472,136476.0,15304.0,8391.0
+2016-09-08,Mango (all varieties)-Mangifera indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,32,31.02226,76.71472,137199.0,15304.0,8391.0
+2016-09-15,Mango (all varieties)-Mangifera indica,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,33,31.02226,76.71472,137308.0,15304.0,8391.0
+2016-12-19,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,45,31.02226,76.71472,148042.0,15304.0,8391.0
+2016-08-25,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2016,30,31.02226,76.71472,136119.0,15304.0,8391.0
+2016-08-11,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,28,31.02226,76.71472,135405.0,15304.0,8391.0
+2016-08-18,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,1.0,,,0.0,0.0,,2016,29,31.02226,76.71472,135842.0,15304.0,8391.0
+2018-07-02,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,2.0,1.0,,2018,23,31.02226,76.71472,205459.0,15304.0,8391.0
+2018-01-01,Mango (all varieties)-Mangifera indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2018,0,31.02226,76.71472,186291.0,15304.0,8391.0
+2018-02-01,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2018,4,31.02226,76.71472,192842.0,15304.0,8391.0
+2018-02-08,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,0.0,,,0.0,0.0,,2018,5,31.02226,76.71472,192844.0,15304.0,8391.0
+2018-01-12,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2018,1,31.02226,76.71472,188718.0,15304.0,8391.0
+2018-01-26,Mango (all varieties)-Mangifera indica,2.0,2.0,,1.0,0.0,,,0.0,0.0,,2018,3,31.02226,76.71472,188720.0,15304.0,8391.0
+2018-04-04,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,12,31.02226,76.71472,201619.0,15304.0,8391.0
+2018-02-20,Mango (all varieties)-Mangifera indica,1.0,2.0,,1.0,0.0,,,0.0,0.0,,2018,6,31.02226,76.71472,201626.0,15304.0,8391.0
+2018-03-12,Mango (all varieties)-Mangifera indica,2.0,2.0,,2.0,2.0,,,0.0,0.0,,2018,9,31.02226,76.71472,201621.0,15304.0,8391.0
+2017-01-23,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2,31.02226,76.71472,160892.0,15304.0,8391.0
+2017-01-30,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,3,31.02226,76.71472,160896.0,15304.0,8391.0
+2017-02-06,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,4,31.02226,76.71472,160901.0,15304.0,8391.0
+2017-02-20,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,6,31.02226,76.71472,160905.0,15304.0,8391.0
+2017-02-13,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,5,31.02226,76.71472,160906.0,15304.0,8391.0
+2017-02-27,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,7,31.02226,76.71472,160907.0,15304.0,8391.0
+2017-01-16,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2,31.02226,76.71472,160889.0,15304.0,8391.0
+2017-09-29,Mango (all varieties)-Mangifera indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,35,31.02226,76.71472,175705.0,15304.0,8391.0
+2016-05-26,Mast Tree-Monoon longifolium,2.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,18,30.99143,76.74811,130155.0,15305.0,8392.0
+2016-05-26,Neem-Azadirachta indica,2.0,2.0,,2.0,0.0,,,0.0,2.0,,2016,18,31.01915,76.70799,130156.0,15307.0,8393.0
+2016-07-01,Neem-Azadirachta indica,2.0,1.0,,1.0,2.0,,,2.0,1.0,,2016,23,31.01915,76.70799,131880.0,15307.0,8393.0
+2016-10-10,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,36,31.01915,76.70799,139641.0,15307.0,8393.0
+2016-08-23,Neem-Azadirachta indica,1.0,2.0,,0.0,-1.0,,,2.0,1.0,,2016,30,31.01915,76.70799,135955.0,15307.0,8393.0
+2016-08-12,Neem-Azadirachta indica,1.0,2.0,,0.0,1.0,,,0.0,0.0,,2016,28,31.01915,76.70799,135424.0,15307.0,8393.0
+2016-06-16,Neem-Azadirachta indica,2.0,1.0,,2.0,1.0,,,2.0,1.0,,2016,21,31.01915,76.70799,131531.0,15307.0,8393.0
+2018-10-30,Neem-Azadirachta indica,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2018,39,9.46534,77.52755,223685.0,17553.0,10537.0
+2016-10-01,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,35,31.01915,76.70799,138531.0,15307.0,8393.0
+2019-01-08,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2019,1,9.46534,77.52755,260339.0,17553.0,10537.0
+2016-09-01,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,1.0,0.0,,2016,31,31.01915,76.70799,136460.0,15307.0,8393.0
+2016-09-23,Neem-Azadirachta indica,2.0,1.0,,-1.0,1.0,,,0.0,0.0,,2016,34,31.01915,76.70799,138205.0,15307.0,8393.0
+2017-11-23,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,42,9.46534,77.52755,182552.0,17553.0,10537.0
+2019-06-24,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2019,22,9.46534,77.52755,336529.0,17553.0,10537.0
+2016-12-25,Neem-Azadirachta indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2016,46,31.01915,76.70799,148408.0,15307.0,8393.0
+2017-12-04,Neem-Azadirachta indica,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,43,9.46534,77.52755,184256.0,17553.0,10537.0
+2021-01-27,Neem-Azadirachta indica,-1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,3,31.57314,76.2537,475879.0,22940.0,98445.0
+2016-11-26,Neem-Azadirachta indica,-1.0,2.0,,0.0,0.0,,,-1.0,-1.0,,2016,42,31.01915,76.70799,144129.0,15307.0,8393.0
+2016-12-01,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,43,31.01915,76.70799,145004.0,15307.0,8393.0
+2016-11-14,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,41,31.01915,76.70799,142892.0,15307.0,8393.0
+2019-06-17,Neem-Azadirachta indica,1.0,2.0,,0.0,0.0,,,0.0,0.0,,2019,21,9.46534,77.52755,330700.0,17553.0,10537.0
+2016-12-08,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,44,31.01915,76.70799,145755.0,15307.0,8393.0
+2017-04-16,Neem-Azadirachta indica,2.0,-1.0,,1.0,0.0,,,0.0,0.0,,2017,13,31.01915,76.70799,165699.0,15307.0,8393.0
+2017-03-20,Neem-Azadirachta indica,0.0,-1.0,,0.0,0.0,,,0.0,0.0,,2017,10,31.01915,76.70799,163440.0,15307.0,8393.0
+2017-01-08,Neem-Azadirachta indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,1,31.01915,76.70799,153281.0,15307.0,8393.0
+2017-05-14,Neem-Azadirachta indica,2.0,-1.0,,0.0,0.0,,,0.0,0.0,,2017,17,31.01915,76.70799,167267.0,15307.0,8393.0
+2017-05-08,Neem-Azadirachta indica,2.0,-1.0,,0.0,0.0,,,0.0,0.0,,2017,16,31.01915,76.70799,167059.0,15307.0,8393.0
+2017-05-21,Neem-Azadirachta indica,2.0,0.0,,0.0,0.0,,,0.0,0.0,,2017,18,31.01915,76.70799,167507.0,15307.0,8393.0
+2017-02-01,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,-1.0,,2017,4,31.01915,76.70799,156845.0,15307.0,8393.0
+2017-02-14,Neem-Azadirachta indica,0.0,-1.0,,0.0,0.0,,,0.0,0.0,,2017,5,31.01915,76.70799,159271.0,15307.0,8393.0
+2017-02-27,Neem-Azadirachta indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,7,31.01915,76.70799,160755.0,15307.0,8393.0
+2017-01-19,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2017,2,31.01915,76.70799,155019.0,15307.0,8393.0
+2017-03-04,Neem-Azadirachta indica,0.0,1.0,,0.0,0.0,,,0.0,0.0,,2017,8,31.01915,76.70799,161289.0,15307.0,8393.0
+2017-07-01,Neem-Azadirachta indica,2.0,2.0,,-1.0,-1.0,,,2.0,-1.0,,2017,23,31.01915,76.70799,169717.0,15307.0,8393.0
+2017-06-19,Neem-Azadirachta indica,2.0,1.0,,0.0,0.0,,,2.0,-1.0,,2017,21,31.01915,76.70799,169051.0,15307.0,8393.0
+2017-06-26,Neem-Azadirachta indica,2.0,-1.0,,0.0,0.0,,,2.0,-1.0,,2017,22,31.01915,76.70799,169427.0,15307.0,8393.0
+2017-06-10,Neem-Azadirachta indica,2.0,2.0,,-1.0,-1.0,,,2.0,1.0,,2017,20,31.01915,76.70799,168592.0,15307.0,8393.0
+2016-11-03,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,39,31.01915,76.70799,142023.0,15307.0,8393.0
+2019-04-09,Neem-Azadirachta indica,1.0,2.0,,2.0,1.0,,,0.0,0.0,,2019,12,9.46534,77.52755,308360.0,17553.0,10537.0
+2016-10-21,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37,31.01915,76.70799,140428.0,15307.0,8393.0
+2019-04-02,Neem-Azadirachta indica,2.0,1.0,,0.0,0.0,,,0.0,0.0,,2019,11,9.46534,77.52755,307616.0,17553.0,10537.0
+2016-10-16,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,37,31.01915,76.70799,139951.0,15307.0,8393.0
+2019-04-24,Neem-Azadirachta indica,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2019,14,9.46534,77.52755,309872.0,17553.0,10537.0
+2018-01-10,Neem-Azadirachta indica,1.0,0.0,,0.0,0.0,,,0.0,0.0,,2018,1,9.46534,77.52755,186610.0,17553.0,10537.0
+2016-10-27,Neem-Azadirachta indica,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2016,38,31.01915,76.70799,141338.0,15307.0,8393.0
+2021-02-02,Pear tree-Pyrus pyrifolia,0.0,0.0,0.0,1.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,4,31.43458,78.26061,475957.0,22892.0,98464.0
+2021-01-21,Pear tree-Pyrus pyrifolia,0.0,0.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2021,2,31.43458,78.26061,475951.0,22892.0,98458.0
+2022-08-27,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,30,32.34654,77.9852,608974.0,20813.0,98077.0
+2023-11-18,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,41,32.34654,77.9852,703492.0,20813.0,98077.0
+2023-09-09,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,32,32.34654,77.9852,688964.0,20813.0,98077.0
+2022-03-26,Peepal-Ficus religiosa,0.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,10,32.34654,77.9852,581187.0,20813.0,98077.0
+2023-04-22,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2023,14,32.34654,77.9852,657662.0,20813.0,98077.0
+2023-02-11,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,5,32.34654,77.9852,641657.0,20813.0,98077.0
+2023-09-16,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,33,32.34654,77.9852,690097.0,20813.0,98077.0
+2022-08-27,Peepal-Ficus religiosa,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,30,31.08513,77.14197,609162.0,24061.0,121130.0
+2023-06-03,Peepal-Ficus religiosa,2.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,19,32.34654,77.9852,667652.0,20813.0,98077.0
+2023-07-15,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,25,32.34654,77.9852,675733.0,20813.0,98077.0
+2022-11-26,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,42,32.34654,77.9852,621921.0,20813.0,98077.0
+2022-03-12,Peepal-Ficus religiosa,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,9,32.34654,77.9852,579392.0,20813.0,98077.0
+2022-11-12,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,40,32.34654,77.9852,619498.0,20813.0,98077.0
+2021-09-04,Peepal-Ficus religiosa,0.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2021,31,32.34654,77.9852,524437.0,20813.0,98077.0
+2022-06-18,Peepal-Ficus religiosa,1.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,21,32.34654,77.9852,596592.0,20813.0,98077.0
+2022-10-08,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,36,32.34654,77.9852,614998.0,20813.0,98077.0
+2021-02-17,Peepal-Ficus religiosa,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,6,32.34654,77.9852,483017.0,20813.0,98077.0
+2023-01-14,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,1,32.34654,77.9852,633015.0,20813.0,98077.0
+2022-08-13,Peepal-Ficus religiosa,1.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,28,32.34654,77.9852,605052.0,20813.0,98077.0
+2023-04-29,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,15,32.34654,77.9852,660083.0,20813.0,98077.0
+2023-07-01,Peepal-Ficus religiosa,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,23,32.34654,77.9852,670399.0,20813.0,98077.0
+2021-01-20,Peepal-Ficus religiosa,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2021,2,32.34654,77.9852,468719.0,20813.0,98077.0
+2019-06-02,Peepal-Ficus religiosa,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19,31.49568,77.70948,313395.0,177.0,46770.0
+2019-06-02,Peepal-Ficus religiosa,2.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19,31.44848,77.62974,313390.0,177.0,46769.0
+2019-06-02,Peepal-Ficus religiosa,0.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19,31.44998,77.63058,313389.0,177.0,46768.0
+2019-06-02,Peepal-Ficus religiosa,0.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19,31.36956,77.54238,313396.0,177.0,46771.0
+2019-06-02,Peepal-Ficus religiosa,0.0,0.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19,31.37469,77.54634,313397.0,177.0,46772.0
+2019-06-02,Peepal-Ficus religiosa,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19,31.31088,77.45367,313402.0,177.0,46777.0
+2019-06-02,Peepal-Ficus religiosa,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,2.0,2.0,-2.0,2019,19,31.31852,77.45249,313401.0,177.0,46776.0
+2019-06-02,Peepal-Ficus religiosa,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19,31.32869,77.43796,313400.0,177.0,46775.0
+2019-06-02,Peepal-Ficus religiosa,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19,31.32869,77.43796,313399.0,177.0,46774.0
+2019-06-02,Peepal-Ficus religiosa,1.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2019,19,31.35297,77.48622,313398.0,177.0,46773.0
+2021-01-18,Peepal-Ficus religiosa,2.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,2021,2,32.19485,76.23098,468382.0,20813.0,98019.0
+2023-12-23,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,45,32.34654,77.9852,717276.0,20813.0,98077.0
+2023-05-20,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,18,32.34654,77.9852,663513.0,20813.0,98077.0
+2023-06-17,Peepal-Ficus religiosa,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,21,32.34654,77.9852,669175.0,20813.0,98077.0
+2022-09-20,Peepal-Ficus religiosa,0.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,33,32.19485,76.23098,613208.0,20813.0,98019.0
+2021-07-05,Peepal-Ficus religiosa,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,23,32.34654,77.9852,509582.0,20813.0,98077.0
+2023-07-08,Peepal-Ficus religiosa,2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,24,32.34654,77.9852,671667.0,20813.0,98077.0
+2022-04-09,Peepal-Ficus religiosa,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,12,32.34654,77.9852,583299.0,20813.0,98077.0
+2022-10-01,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,35,32.34654,77.9852,614272.0,20813.0,98077.0
+2022-06-11,Peepal-Ficus religiosa,1.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,20,32.34654,77.9852,595459.0,20813.0,98077.0
+2022-04-16,Peepal-Ficus religiosa,2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,13,32.34654,77.9852,584269.0,20813.0,98077.0
+2022-01-22,Peepal-Ficus religiosa,0.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,2,32.19485,76.23098,561357.0,20813.0,98019.0
+2022-09-24,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,34,32.34654,77.9852,613653.0,20813.0,98077.0
+2022-09-17,Peepal-Ficus religiosa,1.0,2.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,33,32.34654,77.9852,612671.0,20813.0,98077.0
+2016-06-10,Peepal-Ficus religiosa,1.0,-1.0,,-1.0,-1.0,,,2.0,1.0,,2016,20,31.0459,76.70443,130756.0,15334.0,8416.0
+2023-03-25,Peepal-Ficus religiosa,0.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,10,32.34654,77.9852,649332.0,20813.0,98077.0
+2022-07-09,Peepal-Ficus religiosa,1.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2022,24,32.34654,77.9852,599955.0,20813.0,98077.0
+2023-12-16,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,45,32.34654,77.9852,715460.0,20813.0,98077.0
+2023-05-13,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,17,32.34654,77.9852,661926.0,20813.0,98077.0
+2021-04-11,Peepal-Ficus religiosa,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,13,32.34654,77.9852,495725.0,20813.0,98077.0
+2022-05-14,Peepal-Ficus religiosa,2.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,17,32.34654,77.9852,592103.0,20813.0,98077.0
+2023-08-26,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,30,32.34654,77.9852,686372.0,20813.0,98077.0
+2023-04-08,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,12,32.34654,77.9852,654484.0,20813.0,98077.0
+2023-12-09,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,44,32.34654,77.9852,713646.0,20813.0,98077.0
+2022-11-05,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,39,32.34654,77.9852,618700.0,20813.0,98077.0
+2022-02-26,Peepal-Ficus religiosa,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,7,32.34654,77.9852,575036.0,20813.0,98077.0
+2023-03-04,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,8,32.34654,77.9852,646375.0,20813.0,98077.0
+2022-12-03,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,43,32.34654,77.9852,623790.0,20813.0,98077.0
+2023-08-19,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,29,32.34654,77.9852,685093.0,20813.0,98077.0
+2022-07-16,Peepal-Ficus religiosa,2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,25,32.34654,77.9852,600956.0,20813.0,98077.0
+2022-12-31,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,47,32.34654,77.9852,631004.0,20813.0,98077.0
+2022-02-12,Peepal-Ficus religiosa,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,5,32.34654,77.9852,570705.0,20813.0,98077.0
+2023-10-08,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,36,32.34654,77.9852,694911.0,20813.0,98077.0
+2022-09-03,Peepal-Ficus religiosa,2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,31,32.34654,77.9852,610878.0,20813.0,98077.0
+2023-08-12,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,28,32.34654,77.9852,683655.0,20813.0,98077.0
+2023-04-01,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,11,32.34654,77.9852,652088.0,20813.0,98077.0
+2022-01-15,Peepal-Ficus religiosa,0.0,1.0,2.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,1,32.34654,77.9852,560119.0,20813.0,98077.0
+2022-07-23,Peepal-Ficus religiosa,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,26,32.34654,77.9852,601907.0,20813.0,98077.0
+2023-05-27,Peepal-Ficus religiosa,2.0,0.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,18,32.34654,77.9852,665031.0,20813.0,98077.0
+2021-11-20,Peepal-Ficus religiosa,0.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2021,41,32.34654,77.9852,542334.0,20813.0,98077.0
+2022-05-13,Peepal-Ficus religiosa,1.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,17,32.19485,76.23098,591905.0,20813.0,98019.0
+2023-08-05,Peepal-Ficus religiosa,2.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,27,32.34654,77.9852,682506.0,20813.0,98077.0
+2022-07-30,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,27,32.34654,77.9852,603045.0,20813.0,98077.0
+2022-10-15,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2022,37,32.34654,77.9852,615717.0,20813.0,98077.0
+2021-07-30,Peepal-Ficus religiosa,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,2021,27,32.34654,77.9852,516597.0,20813.0,98077.0
+2021-03-16,Peepal-Ficus religiosa,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2021,9,32.34654,77.9852,491890.0,20813.0,98077.0
+2023-09-02,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,0.0,0.0,1.0,1.0,0.0,2023,31,32.34654,77.9852,687459.0,20813.0,98077.0
+2022-06-26,Peepal-Ficus religiosa,0.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,22,32.34654,77.9852,598039.0,20813.0,98077.0
+2023-04-15,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,13,32.34654,77.9852,656240.0,20813.0,98077.0
+2023-10-14,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2023,36,32.34654,77.9852,695763.0,20813.0,98077.0
+2022-02-05,Peepal-Ficus religiosa,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,2022,4,32.34654,77.9852,567914.0,20813.0,98077.0
+2022-10-22,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2022,37,32.34654,77.9852,616428.0,20813.0,98077.0
+2022-09-10,Peepal-Ficus religiosa,2.0,0.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,1.0,-2.0,2022,32,32.34654,77.9852,611557.0,20813.0,98077.0
+2023-03-11,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,9,32.34654,77.9852,647076.0,20813.0,98077.0
+2023-01-28,Peepal-Ficus religiosa,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2.0,2023,3,32.34654,77.9852,637685.0,20813.0,98077.0
+2019-06-21,Pride of India-Lagerstroemia speciosa,1.0,1.0,0.0,1.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2019,22,30.85355,77.1798,336211.0,20346.0,67703.0
+2021-01-30,Red Silk Cotton-Bombax ceiba,1.0,2.0,2.0,0.0,2.0,0.0,0.0,1.0,2.0,1.0,2021,3,32.11607,76.38385,472224.0,22892.0,98279.0
+2015-12-14,Red Silk Cotton-Bombax ceiba,0.0,2.0,,0.0,0.0,,,0.0,0.0,,2015,44,31.44702,77.62961,114516.0,14908.0,7997.0
+2019-06-09,Siris-Albizia lebbeck,2.0,2.0,0.0,1.0,2.0,-2.0,-2.0,-2.0,0.0,-2.0,2019,20,30.86326,77.16836,313963.0,20346.0,46829.0
+2023-11-10,Walnut-Juglans regia,1.0,2.0,0.0,1.0,-2.0,2.0,2.0,1.0,2.0,-2.0,2023,40,31.76346,77.08042,701892.0,28367.0,148079.0
+2021-01-21,Walnut-Juglans regia,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,1.0,-2.0,2021,2,31.43458,78.26061,475946.0,22892.0,98453.0
+2021-02-02,Walnut-Juglans regia,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,1.0,-2.0,2021,4,31.43458,78.26061,475955.0,22892.0,98462.0
+2023-05-13,White Babool-Acacia leucophloea,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17,31.70117,76.94786,662002.0,20419.0,136482.0
+2023-05-13,White Babool-Acacia leucophloea,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17,31.69494,77.0409,662019.0,20419.0,136487.0
+2023-05-13,White Babool-Acacia leucophloea,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,0.0,0.0,-2.0,2023,17,31.70573,77.03088,662018.0,20419.0,136486.0

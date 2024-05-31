@@ -1,6 +1,6 @@
-,Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
-0,2020-02-18,Indian Laburnum-Cassia fistula,0.0,0.0,0.0,2.0,2.0,-2.0,-2.0,0.0,2.0,-2.0,2020,6
-1,2018-11-21,Kadamb-Neolamarckia cadamba,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,-2.0,0.0,0.0,2018,41
-2,2019-03-15,Mango (all varieties)-Mangifera indica,1.0,2.0,1.0,2.0,2.0,-2.0,-2.0,2.0,0.0,-2.0,2019,9
-3,2019-03-15,Purple Bauhinia-Bauhinia purpurea,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2019,9
-4,2018-12-08,Purple Bauhinia-Bauhinia purpurea,1.0,2.0,1.0,2.0,2.0,-2.0,-2.0,-2.0,-1.0,-1.0,2018,44
+Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week,Lat,Long,Observation_ID,User_id,User_Tree_id
+2020-02-18,Indian Laburnum-Cassia fistula,0.0,0.0,0.0,2.0,2.0,-2.0,-2.0,0.0,2.0,-2.0,2020,6,11.84967,75.41732,401140.0,18858.0,86035.0
+2018-11-21,Kadamb-Neolamarckia cadamba,2.0,2.0,1.0,0.0,0.0,-2.0,-2.0,-2.0,0.0,0.0,2018,41,20.27188,72.94028,229698.0,18612.0,12656.0
+2019-03-15,Mango (all varieties)-Mangifera indica,1.0,2.0,1.0,2.0,2.0,-2.0,-2.0,2.0,0.0,-2.0,2019,9,8.34187,77.04894,291485.0,15977.0,32117.0
+2019-03-15,Purple Bauhinia-Bauhinia purpurea,1.0,2.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2019,9,8.34187,77.04894,291521.0,15977.0,32150.0
+2018-12-08,Purple Bauhinia-Bauhinia purpurea,1.0,2.0,1.0,2.0,2.0,-2.0,-2.0,-2.0,-1.0,-1.0,2018,44,20.25543,72.97313,251148.0,18612.0,28640.0
