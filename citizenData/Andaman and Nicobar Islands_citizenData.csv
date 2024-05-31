@@ -1,4 +1,13 @@
 Date_of_observation,Species_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+2022-12-10,Chiku- Sapodilla-Manilkara zapota ,0.0,2.0,0.0,1.0,1.0,-2.0,-2.0,1.0,0.0,-2.0,2022,44
+2022-12-10,Chiku- Sapodilla-Manilkara zapota ,2.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,44
+2022-12-10,Coconut palm-Cocos nucifera,1.0,2.0,0.0,1.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,44
+2022-12-10,Coconut palm-Cocos nucifera,1.0,2.0,0.0,1.0,0.0,-2.0,-2.0,2.0,0.0,-2.0,2022,44
+2022-12-10,Coconut palm-Cocos nucifera,1.0,2.0,0.0,1.0,1.0,-2.0,-2.0,2.0,0.0,-2.0,2022,44
+2022-12-10,Gulmohur- Delonix regia,0.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,2.0,1.0,2022,44
+2022-12-10,Noni-Morinda citrifolia,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,2.0,2.0,-2.0,2022,44
+2022-12-10,Pongam Tree- Pongamia pinnata,0.0,2.0,2.0,0.0,0.0,-2.0,-2.0,1.0,0.0,-2.0,2022,44
+2022-12-10,White silk-cotton- Ceiba pentandra,2.0,2.0,1.0,2.0,0.0,-2.0,-2.0,0.0,0.0,0.0,2022,44
 2022-12-03,Albizia odoratissima-Black Siris,0.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,43
 2023-07-15,Albizia odoratissima-Black Siris,0.0,2.0,0.0,0.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,2023,25
 2023-07-15,Albizia odoratissima-Black Siris,1.0,2.0,0.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,25
