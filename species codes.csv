@@ -1,0 +1,239 @@
+species_id,species_primary_common_name,species_scientific_name
+1000,White Babool,Acacia leucophloea
+1001,Babool,Acacia nilotica
+1002,Wood Apple,Aegle marmelos
+1003,Indian Horsechestnut,Aesculus indica
+1004,Tree of Heaven,Ailanthus excelsa
+1005,Krishna Siris,Albizia amara
+1006,Siris,Albizia lebbeck
+1007,White Siris,Albizia procera
+1008,Devil's Tree,Alstonia scholaris
+1009,Axlewood,Anogeissus latifolia
+1010,Grey Mangrove,Avicennia marina
+1011,Neem,Azadirachta indica
+1012,Purple Bauhinia,Bauhinia purpurea
+1013,Jhinjheri,Bauhinia racemosa
+1014,Semla,Bauhinia retusa
+1015,Red Silk Cotton,Bombax ceiba
+1016,Toddy Palm,Borassus flabellifer
+1017,Flame of the Forest,Butea monosperma
+1018,Black Dammer,Canarium strictum
+1019,Fish-tail Palm,Caryota urens
+1020,Indian Laburnum,Cassia fistula
+1021,White Silk Cotton,Ceiba pentandra
+1022,Floss Silk Tree,Ceiba speciosa
+1023,Yellow Silk Cotton,Cochlospermum religiosum
+1024,Mountain Coffee,Coffea arabica
+1025,Robusta Coffee,Coffea robusta
+1026,Large Sebesten,Cordia wallichii
+1027,Tanner's Tree,Coriaria nepalensis
+1028,Takoli,Dalbergia lanceolaria
+1029,Indian Rosewood,Dalbergia sissoo
+1030,Gulmohur,Delonix regia
+1031,Elephant Apple,Dillenia indica
+1032,Karkat,Dillenia pentagyna
+1033,Duabanga,Duabanga grandiflora
+1034,Indian Coral,Erythrina indica
+1035,Banyan,Ficus benghalensis
+1036,Country Fig,Ficus racemosa
+1037,Peepal,Ficus religiosa
+1038,Garuga,Garuga pinnata
+1039,Quickstick,Gliricidia sepium
+1040,Gamar,Gmelina arborea
+1041,Indian Elm,Holoptelea integrifolia
+1042,Jacaranda,Jacaranda mimosifolia
+1043,Sausage Tree,Kigelia africana
+1044,"Roxburghs Kydia, Pulia",Kydia calycina
+1045,Pride of India,Lagerstroemia speciosa
+1046,Lantana,Lantana camara
+1047,Chandada,Macaranga peltata
+1048,Mahua,Madhuca longifolia (var. latifolia)
+1050,Chinaberry,Melia azedarach
+1051,Nag Champa,Mesua ferrea
+1052,Champa,Michelia champaca
+1053,Indian Cork Tree,Millingtonia hortensis
+1054,Maulsari,Mimusops elengi
+1055,Kaim,Mitragyna parviflora
+1056,Silkworm Mulberry,Morus alba
+1057,Singapore Cherry,Muntingia calabura
+1058,Kadamb,Neolamarckia cadamba
+1059,Night Flowering Jasmine,Nyctanthes arbor-tristis
+1060,Badminton-ball Tree,Parkia biglandulosa
+1061,Copper-pod,Peltophorum pterocarpum
+1062,Khajur,Phoenix sylvestris
+1063,Amla,Phyllanthus emblica
+1064,Jungle Jalebi,Pithecellobium dulce
+1065,Mast Tree,Monoon longifolium
+1066,Pongam Tree,Pongamia pinnata
+1067,Vilaiti Keekar,Prosopis juliflora
+1068,Kanak Champa,Pterospermum acerifolium
+1069,Pomegranate,Punica granatum
+1070,Grey Oak,Quercus leucotrichophora
+1071,Himalayan Rhododendron,Rhododendron arboreum
+1072,Nilgiri Rhododendron,Rhododendron nilagiricum
+1073,Sandalwood,Santalum album
+1074,True Ashoka,Saraca asoca
+1075,Sal,Shorea robusta
+1076,African Tulip,Spathodea campanulata
+1077,Wild Almond,Sterculia foetida
+1078,Ghost Tree,Sterculia urens
+1079,Jamun,Syzygium cumini
+1080,Caribbean Trumpet Tree,Tabebuia aurea
+1081,Tamarind,Tamarindus indica
+1082,Teak,Tectona grandis
+1083,Arjun,Terminalia arjuna
+1084,Beheda,Terminalia bellirica
+1085,Indian Almond,Terminalia catappa
+1086,Indian Laurel,Terminalia tomentosa
+1087,Indian Mahogany,Toona ciliata
+1088,False white teak,Trewia nudiflora
+1089,Ber,Ziziphus mauritiana
+1090,Mango (all varieties),Mangifera indica
+1091,Mango: Aabehayat,Mangifera indica
+1092,Mango: Airi,Mangifera indica
+1093,Mango: Allampur Beneshan,Mangifera indica
+1094,Mango: Alphonso,Mangifera indica
+1095,Mango: Amrapali,Mangifera indica
+1096,Mango: Arkapuneet,Mangifera indica
+1097,Mango: Badami,Mangifera indica
+1098,Mango: Bangalora,Mangifera indica
+1099,Mango: Banganpalli,Mangifera indica
+1100,Mango: Bathua,Mangifera indica
+1101,Mango: Beneshan,Mangifera indica
+1102,Mango: Bombai,Mangifera indica
+1103,Mango: Bombay Green (Sarauli),Mangifera indica
+1104,Mango: Cheruku Rasam,Mangifera indica
+1105,Mango: Cherukurasam,#N/A
+1106,Mango: Cherukurasam,#N/A
+1107,Mango: Chinna Rasam,Mangifera indica
+1108,Mango: Chosa,Mangifera indica
+1109,Mango: Dussheri,Mangifera indica
+1110,Mango: Fazli,Mangifera indica
+1111,Mango: Fernandin,Mangifera indica
+1112,Mango: Gilas,Mangifera indica
+1113,Mango: Gulabkhas,Mangifera indica
+1114,Mango: Hardil-aziz,Mangifera indica
+1115,Mango: Himayat,Mangifera indica
+1116,Mango: Himayuddin,Mangifera indica
+1117,Mango: Himsagar,Mangifera indica
+1118,Mango: Husnaara,Mangifera indica
+1119,Mango: Jamadar,Mangifera indica
+1120,Mango: Jehangir,Mangifera indica
+1121,Mango: Kaju,Mangifera indica
+1122,Mango: Kesar,Mangifera indica
+1123,Mango: Khatta Meetha,Mangifera indica
+1124,Mango: Kishenbhog,Mangifera indica
+1125,Mango: Kothapalli Kobbari,Mangifera indica
+1126,Mango: Langra,Mangifera indica
+1127,Mango: Lucknowi,Mangifera indica
+1128,Mango: Malkurad,Mangifera indica
+1129,Mango: Mallika,Mangifera indica
+1130,Mango: Manjeera,Mangifera indica
+1131,Mango: Mankurad,Mangifera indica
+1132,Mango: Mithwa Ghazipur,Mangifera indica
+1133,Mango: Mithwa Sundar Shah,Mangifera indica
+1134,Mango: Mulgoa,Mangifera indica
+1135,Mango: Mundappa,Mangifera indica
+1136,Mango: Nauras,Mangifera indica
+1137,Mango: Neelum,Mangifera indica
+1138,Mango: Olour,Mangifera indica
+1139,Mango: Pairi,Mangifera indica
+1140,Mango: Panchadara Kalasa,Mangifera indica
+1141,Mango: Pedda Rasam,Mangifera indica
+1142,Mango: Peddarasam,Mangifera indica
+1143,Mango: Rajapuri,Mangifera indica
+1144,Mango: Rasgola,Mangifera indica
+1145,Mango: Raspoonia,Mangifera indica
+1146,Mango: Raspuri,Mangifera indica
+1147,Mango: Ratole,Mangifera indica
+1148,Mango: Rumani,Mangifera indica
+1149,Mango: Safeda,Mangifera indica
+1150,Mango: Samar Behest Chausa,Mangifera indica
+1151,Mango: Sharbati Begrain,Mangifera indica
+1152,Mango: Sindhu,Mangifera indica
+1153,Mango: Sukul,Mangifera indica
+1154,Mango: Suvarnarekha,Mangifera indica
+1155,Mango: Taimoorlang,Mangifera indica
+1156,Mango: Taimuriya,Mangifera indica
+1157,Mango: Totapuri,Mangifera indica
+1158,Mango: Vanraj,Mangifera indica
+1159,Mango: Zardalu,Mangifera indica
+1160,Mango: Zawahiri,Mangifera indica
+1161,Jackfruit,Artocarpus heterophyllus
+1162,Rain tree,Albizia saman
+1163,Lal champa,Magnolia campbellii
+1164,Box Myrtle,Myrica esculenta
+1165,Himalayan Maple,Acer sterculiaceum
+1166,Himalayan Cherry,Prunus cerasoides
+1167,Walnut,Juglans regia
+1168,Apricot tree,Prunus armeniaca
+1169,Pear tree,Pyrus pyrifolia
+1170,Plum tree,Prunus domestica
+1171,Guava tree,Psidium guajava
+1172,Indian tulip tree,Thespesia populnea
+1173,Peach tree,Prunus persica
+1174,Drumstick tree,Moringa oleifera
+1175,Crepe Jasmine,Tabernaemontana divaricata
+1178,Oleander,Nerium oleander
+1176,Frangipani,Plumeria rubra
+1177,Mexican oleander,Thevetia peruviana
+1179,Bottle brush,Melaleuca viminalis
+1180,Pomelo tree,Citrus maxima
+1181,Dyers oleander,Wrightia tinctoria
+1182,Custard apple,Annona squamosa
+1183,Curry leaf plant,Murraya koenigii
+1184,Coconut palm,Cocos nucifera
+1185,Five-leaved vitex,Vitex negundo
+1186,Pink pearl tree,Cordia dichotoma
+1187,Henna,Lawsonia inermis
+1188,Chiku Sapodilla,Manilkara zapota†
+1189,Black myrobalan,Terminalia chebula
+1190,Oriental cashew,Semecarpus anacardium
+1191,Chirauli nut,Buchanania cochinchinensis
+1192,Sohiong,Prunus nepalensis
+1193,Pink Poui,Tabebuia rosea
+1194,Indian ash tree,Lannea coromandelica
+1195,Indian frankinscence,Boswellia serrata
+1196,Garlic-pear tree,Crataeva religiosa
+1197,Soft fig,Ficus mollis
+1198,Kardhai,Anogeissus pendula
+1199,Black Siris,Albizia odoratissima
+1200,Roheda,Tecomella undulata
+1201,Khejri,Prosopis cineraria
+1202,Chinese lantern tree,Dichrostachys cinerea
+1203,Cannonball tree,Couroupita guianensis
+1204,White willow,Salix alba
+1205,Himalayan poplar,Populus ciliata
+1206,Wild rose or Webbs rose,Rosa webbiana
+1207,East Indian satinwood,Chloroxylon swietenia
+1208,Indian kino,Pterocarpus marsupium
+1209,Hollong,Dipterocarpus retusus
+1210,Powderpuff mangrove,Barringtonia racemosa
+1211,Croaya,Tabernaemontana crispa
+1212,Meethabhaji,Champereia manillana
+1213,Lepisanthes rubiginosa,Lepisanthes rubiginosa
+1214,Bhasa Balli,Goniothalamus macranthus
+1215,Noni,Morinda citrifolia
+1216,Pyinma tree,Lagerstroemia hypoleuca
+1217,Guh-de,Crateva adansonii
+1218,Khadi aam,Cerbera odollum
+1219,Flowering murdah,Terminalia paniculata
+1220,Indian Mulberry,Morinda pubescens
+1221,Mohru Oak,Quercus floribunda
+1225,Deodar,Cedrus deodara
+1224,Chir pine,Pinus roxburghii
+1222,English Yew,Taxus baccata
+1223,Blue pine,Pinus wallichiana
+1226,Himalayan Pear,Pyrus pashia
+1227,Himalayan Spruce,Picea smithiana
+1228,Himalayan Fir,Abies pindrow
+1229,Himalayan silver fir,Abies spectabilis
+1230,Cypress,Cupressus torulosa
+1231,Kharsu Oak,Quercus semecarpifolia
+1232,Apple,Malus domestica
+1233,Evergreen Maple,Acer oblongum
+1234,Bhimal,Grewia optiva
+1235,Bedu,Ficus palmata
+1236,Lychee,Litchi chinensis
+1237,Indian Charcoal Tree,Trema orientale
+1238,Indian prickly ash,Zanthoxylum rhetsa
