@@ -1,0 +1,7 @@
+envs_dirs:
+    - /rprojectnb/sparkpit/pit-seasonwatch/
+    - ~/.conda/envs
+pkgs_dirs:
+    - /rprojectnb/sparkpit/pit-seasonwatch/seasonwatch-ml-pkgs
+    - ~/.conda/pkgs
+env_prompt: ({name})
