@@ -46,7 +46,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1000,2023-01-16 10:42:02,44,,,,1.0,1.0,,,1.0,1.0,,White Babool-Acacia leucophloea
 1000,2023-01-16 10:42:02,45,,,,1.0,1.0,,,1.0,1.0,,White Babool-Acacia leucophloea
 1000,2023-01-16 10:42:02,46,,,,1.0,1.0,,,1.0,1.0,,White Babool-Acacia leucophloea
-1000,2023-01-16 10:42:02,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,White Babool-Acacia leucophloea
+1000,2023-01-16 10:42:02,47,,,,,,,,,,,White Babool-Acacia leucophloea
 1001,2023-03-14 08:02:02,0,,,,1.0,1.0,,,1.0,1.0,,Babool-Acacia nilotica
 1001,2023-03-14 08:02:02,1,,,,1.0,1.0,,,1.0,1.0,,Babool-Acacia nilotica
 1001,2023-03-14 08:02:02,2,,,,1.0,1.0,,,1.0,1.0,,Babool-Acacia nilotica
@@ -142,7 +142,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1007,,44,,,,,,,,,,,White Siris-Albizia procera
 1007,,45,,,,,,,,,,,White Siris-Albizia procera
 1007,,46,,,,,,,,,,,White Siris-Albizia procera
-1007,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,White Siris-Albizia procera
+1007,,47,,,,,,,,,,,White Siris-Albizia procera
 1008,,0,,,,,,,,,,,Devil's Tree-Alstonia scholaris
 1008,,1,,,,,,,,,,,Devil's Tree-Alstonia scholaris
 1008,,2,,,,,,,,,,,Devil's Tree-Alstonia scholaris
@@ -190,7 +190,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1008,,44,,,,,,,,,,,Devil's Tree-Alstonia scholaris
 1008,,45,,,,,,,,,,,Devil's Tree-Alstonia scholaris
 1008,,46,,,,,,,,,,,Devil's Tree-Alstonia scholaris
-1008,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Devil's Tree-Alstonia scholaris
+1008,,47,,,,,,,,,,,Devil's Tree-Alstonia scholaris
 1012,,0,,,,1.0,1.0,,,1.0,1.0,1.0,Purple Bauhinia-Bauhinia purpurea
 1012,,1,,,,1.0,1.0,,,1.0,1.0,1.0,Purple Bauhinia-Bauhinia purpurea
 1012,,2,,,,1.0,1.0,,,1.0,1.0,1.0,Purple Bauhinia-Bauhinia purpurea
@@ -238,7 +238,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1012,,44,,,,1.0,1.0,,,1.0,1.0,1.0,Purple Bauhinia-Bauhinia purpurea
 1012,,45,,,,1.0,1.0,,,1.0,1.0,1.0,Purple Bauhinia-Bauhinia purpurea
 1012,,46,,,,1.0,1.0,,,1.0,1.0,1.0,Purple Bauhinia-Bauhinia purpurea
-1012,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Purple Bauhinia-Bauhinia purpurea
+1012,,47,,,,,,,,,,,Purple Bauhinia-Bauhinia purpurea
 1013,,0,,,,1.0,1.0,,,1.0,1.0,1.0,Jhinjheri-Bauhinia racemosa
 1013,,1,,,,1.0,1.0,,,1.0,1.0,1.0,Jhinjheri-Bauhinia racemosa
 1013,,2,,,,1.0,1.0,,,1.0,1.0,1.0,Jhinjheri-Bauhinia racemosa
@@ -286,7 +286,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1013,,44,,,,1.0,1.0,,,1.0,1.0,1.0,Jhinjheri-Bauhinia racemosa
 1013,,45,,,,1.0,1.0,,,1.0,1.0,1.0,Jhinjheri-Bauhinia racemosa
 1013,,46,,,,1.0,1.0,,,1.0,1.0,1.0,Jhinjheri-Bauhinia racemosa
-1013,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Jhinjheri-Bauhinia racemosa
+1013,,47,,,,,,,,,,,Jhinjheri-Bauhinia racemosa
 1009,,0,,,,0.0,0.0,,,1.0,1.0,,Axlewood-Anogeissus latifolia
 1009,,1,,,,0.0,0.0,,,1.0,1.0,,Axlewood-Anogeissus latifolia
 1009,,2,,,,0.0,0.0,,,1.0,1.0,,Axlewood-Anogeissus latifolia
@@ -334,7 +334,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1009,,44,,,,0.0,0.0,,,1.0,1.0,,Axlewood-Anogeissus latifolia
 1009,,45,,,,0.0,0.0,,,1.0,1.0,,Axlewood-Anogeissus latifolia
 1009,,46,,,,0.0,0.0,,,1.0,1.0,,Axlewood-Anogeissus latifolia
-1009,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Axlewood-Anogeissus latifolia
+1009,,47,,,,,,,,,,,Axlewood-Anogeissus latifolia
 1010,,0,,,,,,,,,,,Grey Mangrove-Avicennia marina
 1010,,1,,,,,,,,,,,Grey Mangrove-Avicennia marina
 1010,,2,,,,,,,,,,,Grey Mangrove-Avicennia marina
@@ -382,7 +382,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1010,,44,,,,,,,,,,,Grey Mangrove-Avicennia marina
 1010,,45,,,,,,,,,,,Grey Mangrove-Avicennia marina
 1010,,46,,,,,,,,,,,Grey Mangrove-Avicennia marina
-1010,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Grey Mangrove-Avicennia marina
+1010,,47,,,,,,,,,,,Grey Mangrove-Avicennia marina
 1017,,0,,,,0.0,0.0,,,0.0,0.0,,Flame of the Forest-Butea monosperma
 1017,,1,,,,0.0,0.0,,,0.0,0.0,,Flame of the Forest-Butea monosperma
 1017,,2,,,,0.0,0.0,,,0.0,0.0,,Flame of the Forest-Butea monosperma
@@ -430,7 +430,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1017,,44,,,,0.0,0.0,,,0.0,0.0,,Flame of the Forest-Butea monosperma
 1017,,45,,,,0.0,0.0,,,0.0,0.0,,Flame of the Forest-Butea monosperma
 1017,,46,,,,0.0,0.0,,,0.0,0.0,,Flame of the Forest-Butea monosperma
-1017,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Flame of the Forest-Butea monosperma
+1017,,47,,,,,,,,,,,Flame of the Forest-Butea monosperma
 1011,,0,,,,,,,,,,,Neem-Azadirachta indica
 1011,,1,,,,,,,,,,,Neem-Azadirachta indica
 1011,,2,,,,,,,,,,,Neem-Azadirachta indica
@@ -478,7 +478,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1011,,44,,,,,,,,,,,Neem-Azadirachta indica
 1011,,45,,,,,,,,,,,Neem-Azadirachta indica
 1011,,46,,,,,,,,,,,Neem-Azadirachta indica
-1011,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Neem-Azadirachta indica
+1011,,47,,,,,,,,,,,Neem-Azadirachta indica
 1002,,0,,,,0.0,0.0,,,0.0,0.0,,Wood Apple-Aegle marmelos
 1002,,1,,,,0.0,0.0,,,0.0,0.0,,Wood Apple-Aegle marmelos
 1002,,2,,,,0.0,0.0,,,0.0,0.0,,Wood Apple-Aegle marmelos
@@ -526,7 +526,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1002,,44,,,,0.0,0.0,,,1.0,1.0,,Wood Apple-Aegle marmelos
 1002,,45,,,,0.0,0.0,,,1.0,1.0,,Wood Apple-Aegle marmelos
 1002,,46,,,,0.0,0.0,,,1.0,1.0,,Wood Apple-Aegle marmelos
-1002,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Wood Apple-Aegle marmelos
+1002,,47,,,,,,,,,,,Wood Apple-Aegle marmelos
 1014,,0,,,,,,,,,,,Semla-Bauhinia retusa
 1014,,1,,,,,,,,,,,Semla-Bauhinia retusa
 1014,,2,,,,,,,,,,,Semla-Bauhinia retusa
@@ -574,7 +574,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1014,,44,,,,,,,,,,,Semla-Bauhinia retusa
 1014,,45,,,,,,,,,,,Semla-Bauhinia retusa
 1014,,46,,,,,,,,,,,Semla-Bauhinia retusa
-1014,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Semla-Bauhinia retusa
+1014,,47,,,,,,,,,,,Semla-Bauhinia retusa
 1018,,0,,,,,,,,,,,Black Dammer-Canarium strictum
 1018,,1,,,,,,,,,,,Black Dammer-Canarium strictum
 1018,,2,,,,,,,,,,,Black Dammer-Canarium strictum
@@ -622,7 +622,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1018,,44,,,,,,,,,,,Black Dammer-Canarium strictum
 1018,,45,,,,,,,,,,,Black Dammer-Canarium strictum
 1018,,46,,,,,,,,,,,Black Dammer-Canarium strictum
-1018,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Black Dammer-Canarium strictum
+1018,,47,,,,,,,,,,,Black Dammer-Canarium strictum
 1015,,0,,,,,,,,,,,Red Silk Cotton-Bombax ceiba
 1015,,1,,,,,,,,,,,Red Silk Cotton-Bombax ceiba
 1015,,2,,,,,,,,,,,Red Silk Cotton-Bombax ceiba
@@ -670,7 +670,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1015,,44,,,,,,,,,,,Red Silk Cotton-Bombax ceiba
 1015,,45,,,,,,,,,,,Red Silk Cotton-Bombax ceiba
 1015,,46,,,,,,,,,,,Red Silk Cotton-Bombax ceiba
-1015,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Red Silk Cotton-Bombax ceiba
+1015,,47,,,,,,,,,,,Red Silk Cotton-Bombax ceiba
 1019,,0,,,,1.0,1.0,,,1.0,1.0,,Fish-tail Palm-Caryota urens
 1019,,1,,,,1.0,1.0,,,1.0,1.0,,Fish-tail Palm-Caryota urens
 1019,,2,,,,1.0,1.0,,,1.0,1.0,,Fish-tail Palm-Caryota urens
@@ -718,7 +718,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1019,,44,,,,1.0,1.0,,,1.0,1.0,,Fish-tail Palm-Caryota urens
 1019,,45,,,,1.0,1.0,,,1.0,1.0,,Fish-tail Palm-Caryota urens
 1019,,46,,,,1.0,1.0,,,1.0,1.0,,Fish-tail Palm-Caryota urens
-1019,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Fish-tail Palm-Caryota urens
+1019,,47,,,,,,,,,,,Fish-tail Palm-Caryota urens
 1003,,0,,,,,,,,,,,Indian Horsechestnut-Aesculus indica
 1003,,1,,,,,,,,,,,Indian Horsechestnut-Aesculus indica
 1003,,2,,,,,,,,,,,Indian Horsechestnut-Aesculus indica
@@ -766,7 +766,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1003,,44,,,,,,,,,,,Indian Horsechestnut-Aesculus indica
 1003,,45,,,,,,,,,,,Indian Horsechestnut-Aesculus indica
 1003,,46,,,,,,,,,,,Indian Horsechestnut-Aesculus indica
-1003,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Horsechestnut-Aesculus indica
+1003,,47,,,,,,,,,,,Indian Horsechestnut-Aesculus indica
 1016,,0,,,,,,,,,,,Toddy Palm-Borassus flabellifer
 1016,,1,,,,,,,,,,,Toddy Palm-Borassus flabellifer
 1016,,2,,,,,,,,,,,Toddy Palm-Borassus flabellifer
@@ -814,7 +814,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1016,,44,,,,,,,,,,,Toddy Palm-Borassus flabellifer
 1016,,45,,,,,,,,,,,Toddy Palm-Borassus flabellifer
 1016,,46,,,,,,,,,,,Toddy Palm-Borassus flabellifer
-1016,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Toddy Palm-Borassus flabellifer
+1016,,47,,,,,,,,,,,Toddy Palm-Borassus flabellifer
 1022,,0,,,,,,,,,,,Floss Silk Tree-Ceiba speciosa
 1022,,1,,,,,,,,,,,Floss Silk Tree-Ceiba speciosa
 1022,,2,,,,,,,,,,,Floss Silk Tree-Ceiba speciosa
@@ -862,7 +862,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1022,,44,,,,,,,,,,,Floss Silk Tree-Ceiba speciosa
 1022,,45,,,,,,,,,,,Floss Silk Tree-Ceiba speciosa
 1022,,46,,,,,,,,,,,Floss Silk Tree-Ceiba speciosa
-1022,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Floss Silk Tree-Ceiba speciosa
+1022,,47,,,,,,,,,,,Floss Silk Tree-Ceiba speciosa
 1020,,0,,,,,,,,,,,Indian Laburnum-Cassia fistula
 1020,,1,,,,,,,,,,,Indian Laburnum-Cassia fistula
 1020,,2,,,,,,,,,,,Indian Laburnum-Cassia fistula
@@ -910,7 +910,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1020,,44,,,,,,,,,,,Indian Laburnum-Cassia fistula
 1020,,45,,,,,,,,,,,Indian Laburnum-Cassia fistula
 1020,,46,,,,,,,,,,,Indian Laburnum-Cassia fistula
-1020,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Laburnum-Cassia fistula
+1020,,47,,,,,,,,,,,Indian Laburnum-Cassia fistula
 1023,,0,,,,0.0,0.0,,,0.0,0.0,,Yellow Silk Cotton-Cochlospermum religiosum
 1023,,1,,,,0.0,0.0,,,0.0,0.0,,Yellow Silk Cotton-Cochlospermum religiosum
 1023,,2,,,,0.0,0.0,,,0.0,0.0,,Yellow Silk Cotton-Cochlospermum religiosum
@@ -958,7 +958,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1023,,44,,,,0.0,0.0,,,0.0,0.0,,Yellow Silk Cotton-Cochlospermum religiosum
 1023,,45,,,,0.0,0.0,,,0.0,0.0,,Yellow Silk Cotton-Cochlospermum religiosum
 1023,,46,,,,0.0,0.0,,,0.0,0.0,,Yellow Silk Cotton-Cochlospermum religiosum
-1023,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Yellow Silk Cotton-Cochlospermum religiosum
+1023,,47,,,,,,,,,,,Yellow Silk Cotton-Cochlospermum religiosum
 1025,,0,,,,,,,,,,,Robusta Coffee-Coffea robusta
 1025,,1,,,,,,,,,,,Robusta Coffee-Coffea robusta
 1025,,2,,,,,,,,,,,Robusta Coffee-Coffea robusta
@@ -1006,7 +1006,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1025,,44,,,,,,,,,,,Robusta Coffee-Coffea robusta
 1025,,45,,,,,,,,,,,Robusta Coffee-Coffea robusta
 1025,,46,,,,,,,,,,,Robusta Coffee-Coffea robusta
-1025,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Robusta Coffee-Coffea robusta
+1025,,47,,,,,,,,,,,Robusta Coffee-Coffea robusta
 1021,,0,,,,,,,,,,,White Silk Cotton-Ceiba pentandra
 1021,,1,,,,,,,,,,,White Silk Cotton-Ceiba pentandra
 1021,,2,,,,,,,,,,,White Silk Cotton-Ceiba pentandra
@@ -1054,7 +1054,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1021,,44,,,,,,,,,,,White Silk Cotton-Ceiba pentandra
 1021,,45,,,,,,,,,,,White Silk Cotton-Ceiba pentandra
 1021,,46,,,,,,,,,,,White Silk Cotton-Ceiba pentandra
-1021,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,White Silk Cotton-Ceiba pentandra
+1021,,47,,,,,,,,,,,White Silk Cotton-Ceiba pentandra
 1026,,0,,,,,,,,,,,Large Sebesten-Cordia wallichii
 1026,,1,,,,,,,,,,,Large Sebesten-Cordia wallichii
 1026,,2,,,,,,,,,,,Large Sebesten-Cordia wallichii
@@ -1102,7 +1102,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1026,,44,,,,,,,,,,,Large Sebesten-Cordia wallichii
 1026,,45,,,,,,,,,,,Large Sebesten-Cordia wallichii
 1026,,46,,,,,,,,,,,Large Sebesten-Cordia wallichii
-1026,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Large Sebesten-Cordia wallichii
+1026,,47,,,,,,,,,,,Large Sebesten-Cordia wallichii
 1028,,0,,,,0.0,0.0,,,0.0,0.0,,Takoli-Dalbergia lanceolaria
 1028,,1,,,,0.0,0.0,,,0.0,0.0,,Takoli-Dalbergia lanceolaria
 1028,,2,,,,0.0,0.0,,,0.0,0.0,,Takoli-Dalbergia lanceolaria
@@ -1150,7 +1150,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1028,,44,,,,0.0,0.0,,,0.0,0.0,,Takoli-Dalbergia lanceolaria
 1028,,45,,,,0.0,0.0,,,0.0,0.0,,Takoli-Dalbergia lanceolaria
 1028,,46,,,,0.0,0.0,,,0.0,0.0,,Takoli-Dalbergia lanceolaria
-1028,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Takoli-Dalbergia lanceolaria
+1028,,47,,,,,,,,,,,Takoli-Dalbergia lanceolaria
 1027,,0,,,,,,,,,,,Tanner's Tree-Coriaria nepalensis
 1027,,1,,,,,,,,,,,Tanner's Tree-Coriaria nepalensis
 1027,,2,,,,,,,,,,,Tanner's Tree-Coriaria nepalensis
@@ -1198,7 +1198,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1027,,44,,,,,,,,,,,Tanner's Tree-Coriaria nepalensis
 1027,,45,,,,,,,,,,,Tanner's Tree-Coriaria nepalensis
 1027,,46,,,,,,,,,,,Tanner's Tree-Coriaria nepalensis
-1027,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Tanner's Tree-Coriaria nepalensis
+1027,,47,,,,,,,,,,,Tanner's Tree-Coriaria nepalensis
 1029,,0,,,,1.0,1.0,,,1.0,1.0,1.0,Indian Rosewood-Dalbergia sissoo
 1029,,1,,,,1.0,1.0,,,1.0,1.0,1.0,Indian Rosewood-Dalbergia sissoo
 1029,,2,,,,1.0,1.0,,,1.0,1.0,1.0,Indian Rosewood-Dalbergia sissoo
@@ -1246,7 +1246,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1029,,44,,,,0.0,0.0,,,0.0,0.0,0.0,Indian Rosewood-Dalbergia sissoo
 1029,,45,,,,0.0,0.0,,,0.0,0.0,0.0,Indian Rosewood-Dalbergia sissoo
 1029,,46,,,,0.0,0.0,,,0.0,0.0,0.0,Indian Rosewood-Dalbergia sissoo
-1029,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Rosewood-Dalbergia sissoo
+1029,,47,,,,,,,,,,,Indian Rosewood-Dalbergia sissoo
 1033,,0,,,,,,,,,,,Duabanga-Duabanga grandiflora
 1033,,1,,,,,,,,,,,Duabanga-Duabanga grandiflora
 1033,,2,,,,,,,,,,,Duabanga-Duabanga grandiflora
@@ -1294,7 +1294,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1033,,44,,,,,,,,,,,Duabanga-Duabanga grandiflora
 1033,,45,,,,,,,,,,,Duabanga-Duabanga grandiflora
 1033,,46,,,,,,,,,,,Duabanga-Duabanga grandiflora
-1033,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Duabanga-Duabanga grandiflora
+1033,,47,,,,,,,,,,,Duabanga-Duabanga grandiflora
 1004,,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,,Tree of Heaven-Ailanthus excelsa
 1004,,1,,,,0.0,0.0,0.0,0.0,0.0,0.0,,Tree of Heaven-Ailanthus excelsa
 1004,,2,,,,0.0,0.0,0.0,0.0,0.0,0.0,,Tree of Heaven-Ailanthus excelsa
@@ -1342,7 +1342,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1004,,44,,,,0.0,0.0,0.0,0.0,0.0,0.0,,Tree of Heaven-Ailanthus excelsa
 1004,,45,,,,0.0,0.0,0.0,0.0,0.0,0.0,,Tree of Heaven-Ailanthus excelsa
 1004,,46,,,,0.0,0.0,0.0,0.0,0.0,0.0,,Tree of Heaven-Ailanthus excelsa
-1004,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Tree of Heaven-Ailanthus excelsa
+1004,,47,,,,,,,,,,,Tree of Heaven-Ailanthus excelsa
 1034,,0,,,,,,,,0.0,0.0,0.0,Indian Coral-Erythrina indica
 1034,,1,,,,,,,,0.0,0.0,0.0,Indian Coral-Erythrina indica
 1034,,2,,,,,,,,0.0,0.0,0.0,Indian Coral-Erythrina indica
@@ -1390,7 +1390,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1034,,44,,,,,,,,0.0,0.0,0.0,Indian Coral-Erythrina indica
 1034,,45,,,,,,,,0.0,0.0,0.0,Indian Coral-Erythrina indica
 1034,,46,,,,,,,,0.0,0.0,0.0,Indian Coral-Erythrina indica
-1034,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Coral-Erythrina indica
+1034,,47,,,,,,,,,,,Indian Coral-Erythrina indica
 1030,,0,,,,,,,,,,,Gulmohur-Delonix regia
 1030,,1,,,,,,,,,,,Gulmohur-Delonix regia
 1030,,2,,,,,,,,,,,Gulmohur-Delonix regia
@@ -1438,7 +1438,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1030,,44,,,,,,,,,,,Gulmohur-Delonix regia
 1030,,45,,,,,,,,,,,Gulmohur-Delonix regia
 1030,,46,,,,,,,,,,,Gulmohur-Delonix regia
-1030,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Gulmohur-Delonix regia
+1030,,47,,,,,,,,,,,Gulmohur-Delonix regia
 1005,,0,,,,1.0,1.0,,,1.0,1.0,,Krishna Siris-Albizia amara
 1005,,1,,,,1.0,1.0,,,1.0,1.0,,Krishna Siris-Albizia amara
 1005,,2,,,,1.0,1.0,,,1.0,1.0,,Krishna Siris-Albizia amara
@@ -1486,7 +1486,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1005,,44,,,,1.0,1.0,,,1.0,1.0,,Krishna Siris-Albizia amara
 1005,,45,,,,1.0,1.0,,,1.0,1.0,,Krishna Siris-Albizia amara
 1005,,46,,,,1.0,1.0,,,1.0,1.0,,Krishna Siris-Albizia amara
-1005,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Krishna Siris-Albizia amara
+1005,,47,,,,,,,,,,,Krishna Siris-Albizia amara
 1035,,0,,,,,,,,1.0,1.0,,Banyan-Ficus benghalensis
 1035,,1,,,,,,,,1.0,1.0,,Banyan-Ficus benghalensis
 1035,,2,,,,,,,,1.0,1.0,,Banyan-Ficus benghalensis
@@ -1534,7 +1534,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1035,,44,,,,,,,,1.0,1.0,,Banyan-Ficus benghalensis
 1035,,45,,,,,,,,1.0,1.0,,Banyan-Ficus benghalensis
 1035,,46,,,,,,,,1.0,1.0,,Banyan-Ficus benghalensis
-1035,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Banyan-Ficus benghalensis
+1035,,47,,,,,,,,,,,Banyan-Ficus benghalensis
 1031,,0,,,,1.0,1.0,,,1.0,1.0,,Elephant Apple-Dillenia indica
 1031,,1,,,,1.0,1.0,,,1.0,1.0,,Elephant Apple-Dillenia indica
 1031,,2,,,,1.0,1.0,,,1.0,1.0,,Elephant Apple-Dillenia indica
@@ -1582,7 +1582,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1031,,44,,,,1.0,1.0,,,1.0,1.0,,Elephant Apple-Dillenia indica
 1031,,45,,,,1.0,1.0,,,1.0,1.0,,Elephant Apple-Dillenia indica
 1031,,46,,,,1.0,1.0,,,1.0,1.0,,Elephant Apple-Dillenia indica
-1031,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Elephant Apple-Dillenia indica
+1031,,47,,,,,,,,,,,Elephant Apple-Dillenia indica
 1038,,0,,,,,,,,,,,Garuga-Garuga pinnata
 1038,,1,,,,,,,,,,,Garuga-Garuga pinnata
 1038,,2,,,,,,,,,,,Garuga-Garuga pinnata
@@ -1630,7 +1630,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1038,,44,,,,,,,,,,,Garuga-Garuga pinnata
 1038,,45,,,,,,,,,,,Garuga-Garuga pinnata
 1038,,46,,,,,,,,,,,Garuga-Garuga pinnata
-1038,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Garuga-Garuga pinnata
+1038,,47,,,,,,,,,,,Garuga-Garuga pinnata
 1006,,0,,,,1.0,1.0,,,1.0,1.0,,Siris-Albizia lebbeck
 1006,,1,,,,1.0,1.0,,,1.0,1.0,,Siris-Albizia lebbeck
 1006,,2,,,,1.0,1.0,,,1.0,1.0,,Siris-Albizia lebbeck
@@ -1678,7 +1678,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1006,,44,,,,1.0,1.0,,,1.0,1.0,,Siris-Albizia lebbeck
 1006,,45,,,,1.0,1.0,,,1.0,1.0,,Siris-Albizia lebbeck
 1006,,46,,,,1.0,1.0,,,1.0,1.0,,Siris-Albizia lebbeck
-1006,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Siris-Albizia lebbeck
+1006,,47,,,,,,,,,,,Siris-Albizia lebbeck
 1032,,0,,,,1.0,1.0,,,1.0,1.0,,Karkat-Dillenia pentagyna
 1032,,1,,,,1.0,1.0,,,1.0,1.0,,Karkat-Dillenia pentagyna
 1032,,2,,,,1.0,1.0,,,1.0,1.0,,Karkat-Dillenia pentagyna
@@ -1726,7 +1726,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1032,,44,,,,1.0,1.0,,,1.0,1.0,,Karkat-Dillenia pentagyna
 1032,,45,,,,1.0,1.0,,,1.0,1.0,,Karkat-Dillenia pentagyna
 1032,,46,,,,1.0,1.0,,,1.0,1.0,,Karkat-Dillenia pentagyna
-1032,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Karkat-Dillenia pentagyna
+1032,,47,,,,,,,,,,,Karkat-Dillenia pentagyna
 1039,,0,,,,1.0,1.0,,,1.0,1.0,1.0,Quickstick-Gliricidia sepium
 1039,,1,,,,1.0,1.0,,,1.0,1.0,1.0,Quickstick-Gliricidia sepium
 1039,,2,,,,1.0,1.0,,,1.0,1.0,1.0,Quickstick-Gliricidia sepium
@@ -1774,7 +1774,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1039,,44,,,,0.0,0.0,,,0.0,0.0,0.0,Quickstick-Gliricidia sepium
 1039,,45,,,,0.0,0.0,,,0.0,0.0,0.0,Quickstick-Gliricidia sepium
 1039,,46,,,,0.0,0.0,,,0.0,0.0,0.0,Quickstick-Gliricidia sepium
-1039,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Quickstick-Gliricidia sepium
+1039,,47,,,,,,,,,,,Quickstick-Gliricidia sepium
 1036,,0,,,,,,,,1.0,1.0,,Country Fig-Ficus racemosa
 1036,,1,,,,,,,,1.0,1.0,,Country Fig-Ficus racemosa
 1036,,2,,,,,,,,1.0,1.0,,Country Fig-Ficus racemosa
@@ -1822,7 +1822,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1036,,44,,,,,,,,1.0,1.0,,Country Fig-Ficus racemosa
 1036,,45,,,,,,,,1.0,1.0,,Country Fig-Ficus racemosa
 1036,,46,,,,,,,,1.0,1.0,,Country Fig-Ficus racemosa
-1036,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Country Fig-Ficus racemosa
+1036,,47,,,,,,,,,,,Country Fig-Ficus racemosa
 1040,,0,,,,0.0,0.0,,,0.0,0.0,,Gamar-Gmelina arborea
 1040,,1,,,,0.0,0.0,,,0.0,0.0,,Gamar-Gmelina arborea
 1040,,2,,,,0.0,0.0,,,0.0,0.0,,Gamar-Gmelina arborea
@@ -1870,7 +1870,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1040,,44,,,,0.0,0.0,,,0.0,0.0,,Gamar-Gmelina arborea
 1040,,45,,,,0.0,0.0,,,0.0,0.0,,Gamar-Gmelina arborea
 1040,,46,,,,0.0,0.0,,,0.0,0.0,,Gamar-Gmelina arborea
-1040,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Gamar-Gmelina arborea
+1040,,47,,,,,,,,,,,Gamar-Gmelina arborea
 1037,,0,,,,,,,,,,,Peepal-Ficus religiosa
 1037,,1,,,,,,,,,,,Peepal-Ficus religiosa
 1037,,2,,,,,,,,,,,Peepal-Ficus religiosa
@@ -1918,7 +1918,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1037,,44,,,,,,,,,,,Peepal-Ficus religiosa
 1037,,45,,,,,,,,,,,Peepal-Ficus religiosa
 1037,,46,,,,,,,,,,,Peepal-Ficus religiosa
-1037,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Peepal-Ficus religiosa
+1037,,47,,,,,,,,,,,Peepal-Ficus religiosa
 1041,,0,,,,,,,,,,,Indian Elm-Holoptelea integrifolia
 1041,,1,,,,,,,,,,,Indian Elm-Holoptelea integrifolia
 1041,,2,,,,,,,,,,,Indian Elm-Holoptelea integrifolia
@@ -1966,7 +1966,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1041,,44,,,,,,,,,,,Indian Elm-Holoptelea integrifolia
 1041,,45,,,,,,,,,,,Indian Elm-Holoptelea integrifolia
 1041,,46,,,,,,,,,,,Indian Elm-Holoptelea integrifolia
-1041,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Elm-Holoptelea integrifolia
+1041,,47,,,,,,,,,,,Indian Elm-Holoptelea integrifolia
 1042,,0,,,,,,,,,,,Jacaranda-Jacaranda mimosifolia
 1042,,1,,,,,,,,,,,Jacaranda-Jacaranda mimosifolia
 1042,,2,,,,,,,,,,,Jacaranda-Jacaranda mimosifolia
@@ -2014,7 +2014,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1042,,44,,,,,,,,,,,Jacaranda-Jacaranda mimosifolia
 1042,,45,,,,,,,,,,,Jacaranda-Jacaranda mimosifolia
 1042,,46,,,,,,,,,,,Jacaranda-Jacaranda mimosifolia
-1042,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Jacaranda-Jacaranda mimosifolia
+1042,,47,,,,,,,,,,,Jacaranda-Jacaranda mimosifolia
 1043,,0,,,,,,,,,,,Sausage Tree-Kigelia africana
 1043,,1,,,,,,,,,,,Sausage Tree-Kigelia africana
 1043,,2,,,,,,,,,,,Sausage Tree-Kigelia africana
@@ -2062,7 +2062,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1043,,44,,,,,,,,,,,Sausage Tree-Kigelia africana
 1043,,45,,,,,,,,,,,Sausage Tree-Kigelia africana
 1043,,46,,,,,,,,,,,Sausage Tree-Kigelia africana
-1043,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Sausage Tree-Kigelia africana
+1043,,47,,,,,,,,,,,Sausage Tree-Kigelia africana
 1044,,0,,,,,,,,,,,"Roxburghs Kydia, Pulia-Kydia calycina"
 1044,,1,,,,,,,,,,,"Roxburghs Kydia, Pulia-Kydia calycina"
 1044,,2,,,,,,,,,,,"Roxburghs Kydia, Pulia-Kydia calycina"
@@ -2110,7 +2110,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1044,,44,,,,,,,,,,,"Roxburghs Kydia, Pulia-Kydia calycina"
 1044,,45,,,,,,,,,,,"Roxburghs Kydia, Pulia-Kydia calycina"
 1044,,46,,,,,,,,,,,"Roxburghs Kydia, Pulia-Kydia calycina"
-1044,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,"Roxburghs Kydia, Pulia-Kydia calycina"
+1044,,47,,,,,,,,,,,"Roxburghs Kydia, Pulia-Kydia calycina"
 1048,,0,,,,0.0,0.0,,,0.0,0.0,,Mahua-Madhuca longifolia (var. latifolia)
 1048,,1,,,,0.0,0.0,,,0.0,0.0,,Mahua-Madhuca longifolia (var. latifolia)
 1048,,2,,,,0.0,0.0,,,0.0,0.0,,Mahua-Madhuca longifolia (var. latifolia)
@@ -2158,7 +2158,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1048,,44,,,,0.0,0.0,,,0.0,0.0,,Mahua-Madhuca longifolia (var. latifolia)
 1048,,45,,,,0.0,0.0,,,0.0,0.0,,Mahua-Madhuca longifolia (var. latifolia)
 1048,,46,,,,0.0,0.0,,,0.0,0.0,,Mahua-Madhuca longifolia (var. latifolia)
-1048,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mahua-Madhuca longifolia (var. latifolia)
+1048,,47,,,,,,,,,,,Mahua-Madhuca longifolia (var. latifolia)
 1045,,0,,,,,,,,,,,Pride of India-Lagerstroemia speciosa
 1045,,1,,,,,,,,,,,Pride of India-Lagerstroemia speciosa
 1045,,2,,,,,,,,,,,Pride of India-Lagerstroemia speciosa
@@ -2206,7 +2206,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1045,,44,,,,,,,,,,,Pride of India-Lagerstroemia speciosa
 1045,,45,,,,,,,,,,,Pride of India-Lagerstroemia speciosa
 1045,,46,,,,,,,,,,,Pride of India-Lagerstroemia speciosa
-1045,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Pride of India-Lagerstroemia speciosa
+1045,,47,,,,,,,,,,,Pride of India-Lagerstroemia speciosa
 1053,,0,,,,,,,,,,,Indian Cork Tree-Millingtonia hortensis
 1053,,1,,,,,,,,,,,Indian Cork Tree-Millingtonia hortensis
 1053,,2,,,,,,,,,,,Indian Cork Tree-Millingtonia hortensis
@@ -2254,7 +2254,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1053,,44,,,,,,,,,,,Indian Cork Tree-Millingtonia hortensis
 1053,,45,,,,,,,,,,,Indian Cork Tree-Millingtonia hortensis
 1053,,46,,,,,,,,,,,Indian Cork Tree-Millingtonia hortensis
-1053,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Cork Tree-Millingtonia hortensis
+1053,,47,,,,,,,,,,,Indian Cork Tree-Millingtonia hortensis
 1049,,0,,,,,,,,,,,
 1049,,1,,,,,,,,,,,
 1049,,2,,,,,,,,,,,
@@ -2302,7 +2302,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1049,,44,,,,,,,,,,,
 1049,,45,,,,,,,,,,,
 1049,,46,,,,,,,,,,,
-1049,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,
+1049,,47,,,,,,,,,,,
 1058,,0,,,,,,,,,,,Kadamb-Neolamarckia cadamba
 1058,,1,,,,,,,,,,,Kadamb-Neolamarckia cadamba
 1058,,2,,,,,,,,,,,Kadamb-Neolamarckia cadamba
@@ -2350,7 +2350,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1058,,44,,,,,,,,,,,Kadamb-Neolamarckia cadamba
 1058,,45,,,,,,,,,,,Kadamb-Neolamarckia cadamba
 1058,,46,,,,,,,,,,,Kadamb-Neolamarckia cadamba
-1058,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Kadamb-Neolamarckia cadamba
+1058,,47,,,,,,,,,,,Kadamb-Neolamarckia cadamba
 1054,,0,,,,1.0,1.0,,,1.0,1.0,,Maulsari-Mimusops elengi
 1054,,1,,,,1.0,1.0,,,1.0,1.0,,Maulsari-Mimusops elengi
 1054,,2,,,,1.0,1.0,,,1.0,1.0,,Maulsari-Mimusops elengi
@@ -2398,7 +2398,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1054,,44,,,,1.0,1.0,,,1.0,1.0,,Maulsari-Mimusops elengi
 1054,,45,,,,1.0,1.0,,,1.0,1.0,,Maulsari-Mimusops elengi
 1054,,46,,,,1.0,1.0,,,1.0,1.0,,Maulsari-Mimusops elengi
-1054,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Maulsari-Mimusops elengi
+1054,,47,,,,,,,,,,,Maulsari-Mimusops elengi
 1046,,0,,,,1.0,1.0,,,1.0,1.0,,Lantana-Lantana camara
 1046,,1,,,,1.0,1.0,,,1.0,1.0,,Lantana-Lantana camara
 1046,,2,,,,1.0,1.0,,,1.0,1.0,,Lantana-Lantana camara
@@ -2446,7 +2446,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1046,,44,,,,1.0,1.0,,,1.0,1.0,,Lantana-Lantana camara
 1046,,45,,,,1.0,1.0,,,1.0,1.0,,Lantana-Lantana camara
 1046,,46,,,,1.0,1.0,,,1.0,1.0,,Lantana-Lantana camara
-1046,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Lantana-Lantana camara
+1046,,47,,,,,,,,,,,Lantana-Lantana camara
 1050,,0,,,,,,,,,,,Chinaberry-Melia azedarach
 1050,,1,,,,,,,,,,,Chinaberry-Melia azedarach
 1050,,2,,,,,,,,,,,Chinaberry-Melia azedarach
@@ -2494,7 +2494,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1050,,44,,,,,,,,,,,Chinaberry-Melia azedarach
 1050,,45,,,,,,,,,,,Chinaberry-Melia azedarach
 1050,,46,,,,,,,,,,,Chinaberry-Melia azedarach
-1050,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Chinaberry-Melia azedarach
+1050,,47,,,,,,,,,,,Chinaberry-Melia azedarach
 1059,,0,,,,,,,,,,,Night Flowering Jasmine-Nyctanthes arbor-tristis
 1059,,1,,,,,,,,,,,Night Flowering Jasmine-Nyctanthes arbor-tristis
 1059,,2,,,,,,,,,,,Night Flowering Jasmine-Nyctanthes arbor-tristis
@@ -2542,7 +2542,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1059,,44,,,,,,,,,,,Night Flowering Jasmine-Nyctanthes arbor-tristis
 1059,,45,,,,,,,,,,,Night Flowering Jasmine-Nyctanthes arbor-tristis
 1059,,46,,,,,,,,,,,Night Flowering Jasmine-Nyctanthes arbor-tristis
-1059,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Night Flowering Jasmine-Nyctanthes arbor-tristis
+1059,,47,,,,,,,,,,,Night Flowering Jasmine-Nyctanthes arbor-tristis
 1047,,0,,,,0.0,0.0,,,0.0,0.0,0.0,Chandada-Macaranga peltata
 1047,,1,,,,0.0,0.0,,,0.0,0.0,0.0,Chandada-Macaranga peltata
 1047,,2,,,,0.0,0.0,,,0.0,0.0,0.0,Chandada-Macaranga peltata
@@ -2590,7 +2590,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1047,,44,,,,1.0,1.0,,,1.0,1.0,1.0,Chandada-Macaranga peltata
 1047,,45,,,,1.0,1.0,,,1.0,1.0,1.0,Chandada-Macaranga peltata
 1047,,46,,,,1.0,1.0,,,1.0,1.0,1.0,Chandada-Macaranga peltata
-1047,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Chandada-Macaranga peltata
+1047,,47,,,,,,,,,,,Chandada-Macaranga peltata
 1060,,0,,,,,,,,,,,Badminton-ball Tree-Parkia biglandulosa
 1060,,1,,,,,,,,,,,Badminton-ball Tree-Parkia biglandulosa
 1060,,2,,,,,,,,,,,Badminton-ball Tree-Parkia biglandulosa
@@ -2638,7 +2638,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1060,,44,,,,,,,,,,,Badminton-ball Tree-Parkia biglandulosa
 1060,,45,,,,,,,,,,,Badminton-ball Tree-Parkia biglandulosa
 1060,,46,,,,,,,,,,,Badminton-ball Tree-Parkia biglandulosa
-1060,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Badminton-ball Tree-Parkia biglandulosa
+1060,,47,,,,,,,,,,,Badminton-ball Tree-Parkia biglandulosa
 1055,,0,,,,0.0,0.0,,,0.0,0.0,0.0,Kaim-Mitragyna parviflora
 1055,,1,,,,0.0,0.0,,,0.0,0.0,0.0,Kaim-Mitragyna parviflora
 1055,,2,,,,0.0,0.0,,,0.0,0.0,0.0,Kaim-Mitragyna parviflora
@@ -2686,7 +2686,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1055,,44,,,,1.0,1.0,,,1.0,1.0,1.0,Kaim-Mitragyna parviflora
 1055,,45,,,,1.0,1.0,,,1.0,1.0,1.0,Kaim-Mitragyna parviflora
 1055,,46,,,,1.0,1.0,,,1.0,1.0,1.0,Kaim-Mitragyna parviflora
-1055,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Kaim-Mitragyna parviflora
+1055,,47,,,,,,,,,,,Kaim-Mitragyna parviflora
 1051,,0,,,,,,,,,,,Nag Champa-Mesua ferrea
 1051,,1,,,,,,,,,,,Nag Champa-Mesua ferrea
 1051,,2,,,,,,,,,,,Nag Champa-Mesua ferrea
@@ -2734,7 +2734,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1051,,44,,,,,,,,,,,Nag Champa-Mesua ferrea
 1051,,45,,,,,,,,,,,Nag Champa-Mesua ferrea
 1051,,46,,,,,,,,,,,Nag Champa-Mesua ferrea
-1051,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Nag Champa-Mesua ferrea
+1051,,47,,,,,,,,,,,Nag Champa-Mesua ferrea
 1061,,0,,,,,,,,,,,Copper-pod-Peltophorum pterocarpum
 1061,,1,,,,,,,,,,,Copper-pod-Peltophorum pterocarpum
 1061,,2,,,,,,,,,,,Copper-pod-Peltophorum pterocarpum
@@ -2782,7 +2782,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1061,,44,,,,,,,,,,,Copper-pod-Peltophorum pterocarpum
 1061,,45,,,,,,,,,,,Copper-pod-Peltophorum pterocarpum
 1061,,46,,,,,,,,,,,Copper-pod-Peltophorum pterocarpum
-1061,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Copper-pod-Peltophorum pterocarpum
+1061,,47,,,,,,,,,,,Copper-pod-Peltophorum pterocarpum
 1056,,0,,,,,,,,,,,Silkworm Mulberry-Morus alba
 1056,,1,,,,,,,,,,,Silkworm Mulberry-Morus alba
 1056,,2,,,,,,,,,,,Silkworm Mulberry-Morus alba
@@ -2830,7 +2830,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1056,,44,,,,,,,,,,,Silkworm Mulberry-Morus alba
 1056,,45,,,,,,,,,,,Silkworm Mulberry-Morus alba
 1056,,46,,,,,,,,,,,Silkworm Mulberry-Morus alba
-1056,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Silkworm Mulberry-Morus alba
+1056,,47,,,,,,,,,,,Silkworm Mulberry-Morus alba
 1052,,0,,,,0.0,0.0,,,0.0,0.0,0.0,Champa-Michelia champaca
 1052,,1,,,,0.0,0.0,,,0.0,0.0,0.0,Champa-Michelia champaca
 1052,,2,,,,0.0,0.0,,,0.0,0.0,0.0,Champa-Michelia champaca
@@ -2878,7 +2878,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1052,,44,,,,0.0,0.0,,,0.0,0.0,0.0,Champa-Michelia champaca
 1052,,45,,,,0.0,0.0,,,0.0,0.0,0.0,Champa-Michelia champaca
 1052,,46,,,,0.0,0.0,,,0.0,0.0,0.0,Champa-Michelia champaca
-1052,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Champa-Michelia champaca
+1052,,47,,,,,,,,,,,Champa-Michelia champaca
 1063,,0,,,,0.0,0.0,,,0.0,0.0,,Amla-Phyllanthus emblica
 1063,,1,,,,0.0,0.0,,,0.0,0.0,,Amla-Phyllanthus emblica
 1063,,2,,,,0.0,0.0,,,0.0,0.0,,Amla-Phyllanthus emblica
@@ -2926,7 +2926,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1063,,44,,,,1.0,1.0,,,1.0,1.0,,Amla-Phyllanthus emblica
 1063,,45,,,,1.0,1.0,,,1.0,1.0,,Amla-Phyllanthus emblica
 1063,,46,,,,1.0,1.0,,,1.0,1.0,,Amla-Phyllanthus emblica
-1063,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Amla-Phyllanthus emblica
+1063,,47,,,,,,,,,,,Amla-Phyllanthus emblica
 1057,,0,,,,1.0,1.0,,,1.0,1.0,,Singapore Cherry-Muntingia calabura
 1057,,1,,,,1.0,1.0,,,1.0,1.0,,Singapore Cherry-Muntingia calabura
 1057,,2,,,,1.0,1.0,,,1.0,1.0,,Singapore Cherry-Muntingia calabura
@@ -2974,7 +2974,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1057,,44,,,,1.0,1.0,,,1.0,1.0,,Singapore Cherry-Muntingia calabura
 1057,,45,,,,1.0,1.0,,,1.0,1.0,,Singapore Cherry-Muntingia calabura
 1057,,46,,,,1.0,1.0,,,1.0,1.0,,Singapore Cherry-Muntingia calabura
-1057,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Singapore Cherry-Muntingia calabura
+1057,,47,,,,,,,,,,,Singapore Cherry-Muntingia calabura
 1064,,0,,,,0.0,0.0,,,0.0,0.0,0.0,Jungle Jalebi-Pithecellobium dulce
 1064,,1,,,,0.0,0.0,,,0.0,0.0,0.0,Jungle Jalebi-Pithecellobium dulce
 1064,,2,,,,0.0,0.0,,,0.0,0.0,0.0,Jungle Jalebi-Pithecellobium dulce
@@ -3022,7 +3022,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1064,,44,,,,0.0,0.0,,,0.0,0.0,0.0,Jungle Jalebi-Pithecellobium dulce
 1064,,45,,,,0.0,0.0,,,0.0,0.0,0.0,Jungle Jalebi-Pithecellobium dulce
 1064,,46,,,,0.0,0.0,,,0.0,0.0,0.0,Jungle Jalebi-Pithecellobium dulce
-1064,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Jungle Jalebi-Pithecellobium dulce
+1064,,47,,,,,,,,,,,Jungle Jalebi-Pithecellobium dulce
 1065,,0,,,,,,,,,,,Mast Tree-Monoon longifolium
 1065,,1,,,,,,,,,,,Mast Tree-Monoon longifolium
 1065,,2,,,,,,,,,,,Mast Tree-Monoon longifolium
@@ -3070,7 +3070,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1065,,44,,,,,,,,,,,Mast Tree-Monoon longifolium
 1065,,45,,,,,,,,,,,Mast Tree-Monoon longifolium
 1065,,46,,,,,,,,,,,Mast Tree-Monoon longifolium
-1065,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mast Tree-Monoon longifolium
+1065,,47,,,,,,,,,,,Mast Tree-Monoon longifolium
 1062,,0,,,,,,,,,,,Khajur-Phoenix sylvestris
 1062,,1,,,,,,,,,,,Khajur-Phoenix sylvestris
 1062,,2,,,,,,,,,,,Khajur-Phoenix sylvestris
@@ -3118,7 +3118,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1062,,44,,,,,,,,,,,Khajur-Phoenix sylvestris
 1062,,45,,,,,,,,,,,Khajur-Phoenix sylvestris
 1062,,46,,,,,,,,,,,Khajur-Phoenix sylvestris
-1062,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Khajur-Phoenix sylvestris
+1062,,47,,,,,,,,,,,Khajur-Phoenix sylvestris
 1066,,0,,,,,,,,,,,Pongam Tree-Pongamia pinnata
 1066,,1,,,,,,,,,,,Pongam Tree-Pongamia pinnata
 1066,,2,,,,,,,,,,,Pongam Tree-Pongamia pinnata
@@ -3166,7 +3166,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1066,,44,,,,,,,,,,,Pongam Tree-Pongamia pinnata
 1066,,45,,,,,,,,,,,Pongam Tree-Pongamia pinnata
 1066,,46,,,,,,,,,,,Pongam Tree-Pongamia pinnata
-1066,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Pongam Tree-Pongamia pinnata
+1066,,47,,,,,,,,,,,Pongam Tree-Pongamia pinnata
 1068,,0,,,,,,,,,,,Kanak Champa-Pterospermum acerifolium
 1068,,1,,,,,,,,,,,Kanak Champa-Pterospermum acerifolium
 1068,,2,,,,,,,,,,,Kanak Champa-Pterospermum acerifolium
@@ -3214,7 +3214,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1068,,44,,,,,,,,,,,Kanak Champa-Pterospermum acerifolium
 1068,,45,,,,,,,,,,,Kanak Champa-Pterospermum acerifolium
 1068,,46,,,,,,,,,,,Kanak Champa-Pterospermum acerifolium
-1068,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Kanak Champa-Pterospermum acerifolium
+1068,,47,,,,,,,,,,,Kanak Champa-Pterospermum acerifolium
 1069,,0,,,,,,,,,,,Pomegranate-Punica granatum
 1069,,1,,,,,,,,,,,Pomegranate-Punica granatum
 1069,,2,,,,,,,,,,,Pomegranate-Punica granatum
@@ -3262,7 +3262,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1069,,44,,,,,,,,,,,Pomegranate-Punica granatum
 1069,,45,,,,,,,,,,,Pomegranate-Punica granatum
 1069,,46,,,,,,,,,,,Pomegranate-Punica granatum
-1069,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Pomegranate-Punica granatum
+1069,,47,,,,,,,,,,,Pomegranate-Punica granatum
 1073,,0,,,,1.0,1.0,,,1.0,1.0,,Sandalwood-Santalum album
 1073,,1,,,,1.0,1.0,,,1.0,1.0,,Sandalwood-Santalum album
 1073,,2,,,,1.0,1.0,,,1.0,1.0,,Sandalwood-Santalum album
@@ -3310,7 +3310,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1073,,44,,,,1.0,1.0,,,1.0,1.0,,Sandalwood-Santalum album
 1073,,45,,,,1.0,1.0,,,1.0,1.0,,Sandalwood-Santalum album
 1073,,46,,,,1.0,1.0,,,1.0,1.0,,Sandalwood-Santalum album
-1073,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Sandalwood-Santalum album
+1073,,47,,,,,,,,,,,Sandalwood-Santalum album
 1078,,0,,,,1.0,1.0,1.0,,1.0,1.0,1.0,Ghost Tree-Sterculia urens
 1078,,1,,,,1.0,1.0,1.0,,1.0,1.0,1.0,Ghost Tree-Sterculia urens
 1078,,2,,,,1.0,1.0,1.0,,1.0,1.0,1.0,Ghost Tree-Sterculia urens
@@ -3358,7 +3358,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1078,,44,,,,1.0,1.0,1.0,,1.0,1.0,1.0,Ghost Tree-Sterculia urens
 1078,,45,,,,1.0,1.0,1.0,,1.0,1.0,1.0,Ghost Tree-Sterculia urens
 1078,,46,,,,1.0,1.0,1.0,,1.0,1.0,1.0,Ghost Tree-Sterculia urens
-1078,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Ghost Tree-Sterculia urens
+1078,,47,,,,,,,,,,,Ghost Tree-Sterculia urens
 1070,,0,,,,,,,,,,,Grey Oak-Quercus leucotrichophora
 1070,,1,,,,,,,,,,,Grey Oak-Quercus leucotrichophora
 1070,,2,,,,,,,,,,,Grey Oak-Quercus leucotrichophora
@@ -3406,7 +3406,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1070,,44,,,,,,,,,,,Grey Oak-Quercus leucotrichophora
 1070,,45,,,,,,,,,,,Grey Oak-Quercus leucotrichophora
 1070,,46,,,,,,,,,,,Grey Oak-Quercus leucotrichophora
-1070,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Grey Oak-Quercus leucotrichophora
+1070,,47,,,,,,,,,,,Grey Oak-Quercus leucotrichophora
 1074,,0,,,,,,,,,,,True Ashoka-Saraca asoca
 1074,,1,,,,,,,,,,,True Ashoka-Saraca asoca
 1074,,2,,,,,,,,,,,True Ashoka-Saraca asoca
@@ -3454,7 +3454,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1074,,44,,,,,,,,,,,True Ashoka-Saraca asoca
 1074,,45,,,,,,,,,,,True Ashoka-Saraca asoca
 1074,,46,,,,,,,,,,,True Ashoka-Saraca asoca
-1074,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,True Ashoka-Saraca asoca
+1074,,47,,,,,,,,,,,True Ashoka-Saraca asoca
 1079,,0,,,,0.0,0.0,,,0.0,0.0,,Jamun-Syzygium cumini
 1079,,1,,,,0.0,0.0,,,0.0,0.0,,Jamun-Syzygium cumini
 1079,,2,,,,0.0,0.0,,,0.0,0.0,,Jamun-Syzygium cumini
@@ -3502,7 +3502,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1079,,44,,,,0.0,0.0,,,0.0,0.0,,Jamun-Syzygium cumini
 1079,,45,,,,0.0,0.0,,,0.0,0.0,,Jamun-Syzygium cumini
 1079,,46,,,,0.0,0.0,,,0.0,0.0,,Jamun-Syzygium cumini
-1079,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Jamun-Syzygium cumini
+1079,,47,,,,,,,,,,,Jamun-Syzygium cumini
 1075,,0,,,,1.0,1.0,,,1.0,1.0,,Sal-Shorea robusta
 1075,,1,,,,1.0,1.0,,,1.0,1.0,,Sal-Shorea robusta
 1075,,2,,,,1.0,1.0,,,1.0,1.0,,Sal-Shorea robusta
@@ -3550,7 +3550,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1075,,44,,,,0.0,0.0,,,0.0,0.0,,Sal-Shorea robusta
 1075,,45,,,,0.0,0.0,,,0.0,0.0,,Sal-Shorea robusta
 1075,,46,,,,0.0,0.0,,,0.0,0.0,,Sal-Shorea robusta
-1075,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Sal-Shorea robusta
+1075,,47,,,,,,,,,,,Sal-Shorea robusta
 1067,,0,,,,,,,,,,,Vilaiti Keekar-Prosopis juliflora
 1067,,1,,,,,,,,,,,Vilaiti Keekar-Prosopis juliflora
 1067,,2,,,,,,,,,,,Vilaiti Keekar-Prosopis juliflora
@@ -3598,7 +3598,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1067,,44,,,,,,,,,,,Vilaiti Keekar-Prosopis juliflora
 1067,,45,,,,,,,,,,,Vilaiti Keekar-Prosopis juliflora
 1067,,46,,,,,,,,,,,Vilaiti Keekar-Prosopis juliflora
-1067,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Vilaiti Keekar-Prosopis juliflora
+1067,,47,,,,,,,,,,,Vilaiti Keekar-Prosopis juliflora
 1080,,0,,,,,,,,,,,Caribbean Trumpet Tree-Tabebuia aurea
 1080,,1,,,,,,,,,,,Caribbean Trumpet Tree-Tabebuia aurea
 1080,,2,,,,,,,,,,,Caribbean Trumpet Tree-Tabebuia aurea
@@ -3646,7 +3646,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1080,,44,,,,,,,,,,,Caribbean Trumpet Tree-Tabebuia aurea
 1080,,45,,,,,,,,,,,Caribbean Trumpet Tree-Tabebuia aurea
 1080,,46,,,,,,,,,,,Caribbean Trumpet Tree-Tabebuia aurea
-1080,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Caribbean Trumpet Tree-Tabebuia aurea
+1080,,47,,,,,,,,,,,Caribbean Trumpet Tree-Tabebuia aurea
 1071,,0,,,,,,,,,,,Himalayan Rhododendron-Rhododendron arboreum
 1071,,1,,,,,,,,,,,Himalayan Rhododendron-Rhododendron arboreum
 1071,,2,,,,,,,,,,,Himalayan Rhododendron-Rhododendron arboreum
@@ -3694,7 +3694,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1071,,44,,,,,,,,,,,Himalayan Rhododendron-Rhododendron arboreum
 1071,,45,,,,,,,,,,,Himalayan Rhododendron-Rhododendron arboreum
 1071,,46,,,,,,,,,,,Himalayan Rhododendron-Rhododendron arboreum
-1071,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Himalayan Rhododendron-Rhododendron arboreum
+1071,,47,,,,,,,,,,,Himalayan Rhododendron-Rhododendron arboreum
 1072,,0,,,,,,,,,,,Nilgiri Rhododendron-Rhododendron nilagiricum
 1072,,1,,,,,,,,,,,Nilgiri Rhododendron-Rhododendron nilagiricum
 1072,,2,,,,,,,,,,,Nilgiri Rhododendron-Rhododendron nilagiricum
@@ -3742,7 +3742,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1072,,44,,,,,,,,,,,Nilgiri Rhododendron-Rhododendron nilagiricum
 1072,,45,,,,,,,,,,,Nilgiri Rhododendron-Rhododendron nilagiricum
 1072,,46,,,,,,,,,,,Nilgiri Rhododendron-Rhododendron nilagiricum
-1072,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Nilgiri Rhododendron-Rhododendron nilagiricum
+1072,,47,,,,,,,,,,,Nilgiri Rhododendron-Rhododendron nilagiricum
 1081,,0,,,,,,,,,,,Tamarind-Tamarindus indica
 1081,,1,,,,,,,,,,,Tamarind-Tamarindus indica
 1081,,2,,,,,,,,,,,Tamarind-Tamarindus indica
@@ -3790,7 +3790,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1081,,44,,,,,,,,,,,Tamarind-Tamarindus indica
 1081,,45,,,,,,,,,,,Tamarind-Tamarindus indica
 1081,,46,,,,,,,,,,,Tamarind-Tamarindus indica
-1081,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Tamarind-Tamarindus indica
+1081,,47,,,,,,,,,,,Tamarind-Tamarindus indica
 1082,,0,,,,,,,,,,,Teak-Tectona grandis
 1082,,1,,,,,,,,,,,Teak-Tectona grandis
 1082,,2,,,,,,,,,,,Teak-Tectona grandis
@@ -3838,7 +3838,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1082,,44,,,,,,,,,,,Teak-Tectona grandis
 1082,,45,,,,,,,,,,,Teak-Tectona grandis
 1082,,46,,,,,,,,,,,Teak-Tectona grandis
-1082,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Teak-Tectona grandis
+1082,,47,,,,,,,,,,,Teak-Tectona grandis
 1083,,0,,,,0.0,0.0,,,0.0,0.0,,Arjun-Terminalia arjuna
 1083,,1,,,,0.0,0.0,,,0.0,0.0,,Arjun-Terminalia arjuna
 1083,,2,,,,0.0,0.0,,,0.0,0.0,,Arjun-Terminalia arjuna
@@ -3886,7 +3886,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1083,,44,,,,0.0,0.0,,,0.0,0.0,,Arjun-Terminalia arjuna
 1083,,45,,,,0.0,0.0,,,0.0,0.0,,Arjun-Terminalia arjuna
 1083,,46,,,,0.0,0.0,,,0.0,0.0,,Arjun-Terminalia arjuna
-1083,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Arjun-Terminalia arjuna
+1083,,47,,,,,,,,,,,Arjun-Terminalia arjuna
 1084,,0,,,,0.0,0.0,,,0.0,0.0,,Beheda-Terminalia bellirica
 1084,,1,,,,0.0,0.0,,,0.0,0.0,,Beheda-Terminalia bellirica
 1084,,2,,,,0.0,0.0,,,0.0,0.0,,Beheda-Terminalia bellirica
@@ -3934,7 +3934,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1084,,44,,,,0.0,0.0,,,1.0,1.0,,Beheda-Terminalia bellirica
 1084,,45,,,,0.0,0.0,,,1.0,1.0,,Beheda-Terminalia bellirica
 1084,,46,,,,0.0,0.0,,,1.0,1.0,,Beheda-Terminalia bellirica
-1084,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Beheda-Terminalia bellirica
+1084,,47,,,,,,,,,,,Beheda-Terminalia bellirica
 1076,,0,,,,,,,,,,,African Tulip-Spathodea campanulata
 1076,,1,,,,,,,,,,,African Tulip-Spathodea campanulata
 1076,,2,,,,,,,,,,,African Tulip-Spathodea campanulata
@@ -3982,7 +3982,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1076,,44,,,,,,,,,,,African Tulip-Spathodea campanulata
 1076,,45,,,,,,,,,,,African Tulip-Spathodea campanulata
 1076,,46,,,,,,,,,,,African Tulip-Spathodea campanulata
-1076,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,African Tulip-Spathodea campanulata
+1076,,47,,,,,,,,,,,African Tulip-Spathodea campanulata
 1088,,0,,,,,,,,,,,False white teak-Trewia nudiflora
 1088,,1,,,,,,,,,,,False white teak-Trewia nudiflora
 1088,,2,,,,,,,,,,,False white teak-Trewia nudiflora
@@ -4030,7 +4030,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1088,,44,,,,,,,,,,,False white teak-Trewia nudiflora
 1088,,45,,,,,,,,,,,False white teak-Trewia nudiflora
 1088,,46,,,,,,,,,,,False white teak-Trewia nudiflora
-1088,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,False white teak-Trewia nudiflora
+1088,,47,,,,,,,,,,,False white teak-Trewia nudiflora
 1077,,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wild Almond-Sterculia foetida
 1077,,1,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wild Almond-Sterculia foetida
 1077,,2,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wild Almond-Sterculia foetida
@@ -4126,7 +4126,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1093,,44,,,,,,,,,,,Mango: Allampur Beneshan-Mangifera indica
 1093,,45,,,,,,,,,,,Mango: Allampur Beneshan-Mangifera indica
 1093,,46,,,,,,,,,,,Mango: Allampur Beneshan-Mangifera indica
-1093,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Allampur Beneshan-Mangifera indica
+1093,,47,,,,,,,,,,,Mango: Allampur Beneshan-Mangifera indica
 1089,,0,,,,1.0,1.0,,,1.0,1.0,,Ber-Ziziphus mauritiana
 1089,,1,,,,1.0,1.0,,,1.0,1.0,,Ber-Ziziphus mauritiana
 1089,,2,,,,1.0,1.0,,,1.0,1.0,,Ber-Ziziphus mauritiana
@@ -4174,7 +4174,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1089,,44,,,,1.0,1.0,,,1.0,1.0,,Ber-Ziziphus mauritiana
 1089,,45,,,,1.0,1.0,,,1.0,1.0,,Ber-Ziziphus mauritiana
 1089,,46,,,,1.0,1.0,,,1.0,1.0,,Ber-Ziziphus mauritiana
-1089,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Ber-Ziziphus mauritiana
+1089,,47,,,,,,,,,,,Ber-Ziziphus mauritiana
 1094,,0,,,,,,,,,,,Mango: Alphonso-Mangifera indica
 1094,,1,,,,,,,,,,,Mango: Alphonso-Mangifera indica
 1094,,2,,,,,,,,,,,Mango: Alphonso-Mangifera indica
@@ -4222,7 +4222,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1094,,44,,,,,,,,,,,Mango: Alphonso-Mangifera indica
 1094,,45,,,,,,,,,,,Mango: Alphonso-Mangifera indica
 1094,,46,,,,,,,,,,,Mango: Alphonso-Mangifera indica
-1094,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Alphonso-Mangifera indica
+1094,,47,,,,,,,,,,,Mango: Alphonso-Mangifera indica
 1090,,0,,,,,,,,,,,Mango (all varieties)-Mangifera indica
 1090,,1,,,,,,,,,,,Mango (all varieties)-Mangifera indica
 1090,,2,,,,,,,,,,,Mango (all varieties)-Mangifera indica
@@ -4270,7 +4270,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1090,,44,,,,,,,,,,,Mango (all varieties)-Mangifera indica
 1090,,45,,,,,,,,,,,Mango (all varieties)-Mangifera indica
 1090,,46,,,,,,,,,,,Mango (all varieties)-Mangifera indica
-1090,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango (all varieties)-Mangifera indica
+1090,,47,,,,,,,,,,,Mango (all varieties)-Mangifera indica
 1095,,0,,,,,,,,,,,Mango: Amrapali-Mangifera indica
 1095,,1,,,,,,,,,,,Mango: Amrapali-Mangifera indica
 1095,,2,,,,,,,,,,,Mango: Amrapali-Mangifera indica
@@ -4318,7 +4318,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1095,,44,,,,,,,,,,,Mango: Amrapali-Mangifera indica
 1095,,45,,,,,,,,,,,Mango: Amrapali-Mangifera indica
 1095,,46,,,,,,,,,,,Mango: Amrapali-Mangifera indica
-1095,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Amrapali-Mangifera indica
+1095,,47,,,,,,,,,,,Mango: Amrapali-Mangifera indica
 1091,,0,,,,,,,,,,,Mango: Aabehayat-Mangifera indica
 1091,,1,,,,,,,,,,,Mango: Aabehayat-Mangifera indica
 1091,,2,,,,,,,,,,,Mango: Aabehayat-Mangifera indica
@@ -4366,7 +4366,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1091,,44,,,,,,,,,,,Mango: Aabehayat-Mangifera indica
 1091,,45,,,,,,,,,,,Mango: Aabehayat-Mangifera indica
 1091,,46,,,,,,,,,,,Mango: Aabehayat-Mangifera indica
-1091,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Aabehayat-Mangifera indica
+1091,,47,,,,,,,,,,,Mango: Aabehayat-Mangifera indica
 1085,,0,,,,,,,,,,,Indian Almond-Terminalia catappa
 1085,,1,,,,,,,,,,,Indian Almond-Terminalia catappa
 1085,,2,,,,,,,,,,,Indian Almond-Terminalia catappa
@@ -4414,7 +4414,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1085,,44,,,,,,,,,,,Indian Almond-Terminalia catappa
 1085,,45,,,,,,,,,,,Indian Almond-Terminalia catappa
 1085,,46,,,,,,,,,,,Indian Almond-Terminalia catappa
-1085,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Almond-Terminalia catappa
+1085,,47,,,,,,,,,,,Indian Almond-Terminalia catappa
 1096,,0,,,,,,,,,,,Mango: Arkapuneet-Mangifera indica
 1096,,1,,,,,,,,,,,Mango: Arkapuneet-Mangifera indica
 1096,,2,,,,,,,,,,,Mango: Arkapuneet-Mangifera indica
@@ -4462,7 +4462,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1096,,44,,,,,,,,,,,Mango: Arkapuneet-Mangifera indica
 1096,,45,,,,,,,,,,,Mango: Arkapuneet-Mangifera indica
 1096,,46,,,,,,,,,,,Mango: Arkapuneet-Mangifera indica
-1096,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Arkapuneet-Mangifera indica
+1096,,47,,,,,,,,,,,Mango: Arkapuneet-Mangifera indica
 1098,,0,,,,,,,,,,,Mango: Bangalora-Mangifera indica
 1098,,1,,,,,,,,,,,Mango: Bangalora-Mangifera indica
 1098,,2,,,,,,,,,,,Mango: Bangalora-Mangifera indica
@@ -4510,7 +4510,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1098,,44,,,,,,,,,,,Mango: Bangalora-Mangifera indica
 1098,,45,,,,,,,,,,,Mango: Bangalora-Mangifera indica
 1098,,46,,,,,,,,,,,Mango: Bangalora-Mangifera indica
-1098,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Bangalora-Mangifera indica
+1098,,47,,,,,,,,,,,Mango: Bangalora-Mangifera indica
 1097,,0,,,,,,,,,,,Mango: Badami-Mangifera indica
 1097,,1,,,,,,,,,,,Mango: Badami-Mangifera indica
 1097,,2,,,,,,,,,,,Mango: Badami-Mangifera indica
@@ -4558,7 +4558,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1097,,44,,,,,,,,,,,Mango: Badami-Mangifera indica
 1097,,45,,,,,,,,,,,Mango: Badami-Mangifera indica
 1097,,46,,,,,,,,,,,Mango: Badami-Mangifera indica
-1097,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Badami-Mangifera indica
+1097,,47,,,,,,,,,,,Mango: Badami-Mangifera indica
 1086,,0,,,,0.0,0.0,,,0.0,0.0,,Indian Laurel-Terminalia tomentosa
 1086,,1,,,,0.0,0.0,,,0.0,0.0,,Indian Laurel-Terminalia tomentosa
 1086,,2,,,,0.0,0.0,,,0.0,0.0,,Indian Laurel-Terminalia tomentosa
@@ -4606,7 +4606,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1086,,44,,,,0.0,0.0,,,0.0,0.0,,Indian Laurel-Terminalia tomentosa
 1086,,45,,,,0.0,0.0,,,0.0,0.0,,Indian Laurel-Terminalia tomentosa
 1086,,46,,,,0.0,0.0,,,0.0,0.0,,Indian Laurel-Terminalia tomentosa
-1086,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Laurel-Terminalia tomentosa
+1086,,47,,,,,,,,,,,Indian Laurel-Terminalia tomentosa
 1099,,0,,,,,,,,,,,Mango: Banganpalli-Mangifera indica
 1099,,1,,,,,,,,,,,Mango: Banganpalli-Mangifera indica
 1099,,2,,,,,,,,,,,Mango: Banganpalli-Mangifera indica
@@ -4654,7 +4654,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1099,,44,,,,,,,,,,,Mango: Banganpalli-Mangifera indica
 1099,,45,,,,,,,,,,,Mango: Banganpalli-Mangifera indica
 1099,,46,,,,,,,,,,,Mango: Banganpalli-Mangifera indica
-1099,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Banganpalli-Mangifera indica
+1099,,47,,,,,,,,,,,Mango: Banganpalli-Mangifera indica
 1087,,0,,,,,,,,,,,Indian Mahogany-Toona ciliata
 1087,,1,,,,,,,,,,,Indian Mahogany-Toona ciliata
 1087,,2,,,,,,,,,,,Indian Mahogany-Toona ciliata
@@ -4702,7 +4702,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1087,,44,,,,,,,,,,,Indian Mahogany-Toona ciliata
 1087,,45,,,,,,,,,,,Indian Mahogany-Toona ciliata
 1087,,46,,,,,,,,,,,Indian Mahogany-Toona ciliata
-1087,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Mahogany-Toona ciliata
+1087,,47,,,,,,,,,,,Indian Mahogany-Toona ciliata
 1092,,0,,,,,,,,,,,Mango: Airi-Mangifera indica
 1092,,1,,,,,,,,,,,Mango: Airi-Mangifera indica
 1092,,2,,,,,,,,,,,Mango: Airi-Mangifera indica
@@ -4750,7 +4750,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1092,,44,,,,,,,,,,,Mango: Airi-Mangifera indica
 1092,,45,,,,,,,,,,,Mango: Airi-Mangifera indica
 1092,,46,,,,,,,,,,,Mango: Airi-Mangifera indica
-1092,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Airi-Mangifera indica
+1092,,47,,,,,,,,,,,Mango: Airi-Mangifera indica
 1100,,0,,,,,,,,,,,Mango: Bathua-Mangifera indica
 1100,,1,,,,,,,,,,,Mango: Bathua-Mangifera indica
 1100,,2,,,,,,,,,,,Mango: Bathua-Mangifera indica
@@ -4798,7 +4798,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1100,,44,,,,,,,,,,,Mango: Bathua-Mangifera indica
 1100,,45,,,,,,,,,,,Mango: Bathua-Mangifera indica
 1100,,46,,,,,,,,,,,Mango: Bathua-Mangifera indica
-1100,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Bathua-Mangifera indica
+1100,,47,,,,,,,,,,,Mango: Bathua-Mangifera indica
 1103,,0,,,,,,,,,,,Mango: Bombay Green (Sarauli)-Mangifera indica
 1103,,1,,,,,,,,,,,Mango: Bombay Green (Sarauli)-Mangifera indica
 1103,,2,,,,,,,,,,,Mango: Bombay Green (Sarauli)-Mangifera indica
@@ -4846,7 +4846,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1103,,44,,,,,,,,,,,Mango: Bombay Green (Sarauli)-Mangifera indica
 1103,,45,,,,,,,,,,,Mango: Bombay Green (Sarauli)-Mangifera indica
 1103,,46,,,,,,,,,,,Mango: Bombay Green (Sarauli)-Mangifera indica
-1103,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Bombay Green (Sarauli)-Mangifera indica
+1103,,47,,,,,,,,,,,Mango: Bombay Green (Sarauli)-Mangifera indica
 1104,,0,,,,,,,,,,,Mango: Cheruku Rasam-Mangifera indica
 1104,,1,,,,,,,,,,,Mango: Cheruku Rasam-Mangifera indica
 1104,,2,,,,,,,,,,,Mango: Cheruku Rasam-Mangifera indica
@@ -4894,7 +4894,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1104,,44,,,,,,,,,,,Mango: Cheruku Rasam-Mangifera indica
 1104,,45,,,,,,,,,,,Mango: Cheruku Rasam-Mangifera indica
 1104,,46,,,,,,,,,,,Mango: Cheruku Rasam-Mangifera indica
-1104,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Cheruku Rasam-Mangifera indica
+1104,,47,,,,,,,,,,,Mango: Cheruku Rasam-Mangifera indica
 1101,,0,,,,,,,,,,,Mango: Beneshan-Mangifera indica
 1101,,1,,,,,,,,,,,Mango: Beneshan-Mangifera indica
 1101,,2,,,,,,,,,,,Mango: Beneshan-Mangifera indica
@@ -4942,7 +4942,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1101,,44,,,,,,,,,,,Mango: Beneshan-Mangifera indica
 1101,,45,,,,,,,,,,,Mango: Beneshan-Mangifera indica
 1101,,46,,,,,,,,,,,Mango: Beneshan-Mangifera indica
-1101,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Beneshan-Mangifera indica
+1101,,47,,,,,,,,,,,Mango: Beneshan-Mangifera indica
 1108,,0,,,,,,,,,,,Mango: Chosa-Mangifera indica
 1108,,1,,,,,,,,,,,Mango: Chosa-Mangifera indica
 1108,,2,,,,,,,,,,,Mango: Chosa-Mangifera indica
@@ -4990,7 +4990,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1108,,44,,,,,,,,,,,Mango: Chosa-Mangifera indica
 1108,,45,,,,,,,,,,,Mango: Chosa-Mangifera indica
 1108,,46,,,,,,,,,,,Mango: Chosa-Mangifera indica
-1108,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Chosa-Mangifera indica
+1108,,47,,,,,,,,,,,Mango: Chosa-Mangifera indica
 1105,,0,,,,,,,,,,,Mango: Cherukurasam-nan
 1105,,1,,,,,,,,,,,Mango: Cherukurasam-nan
 1105,,2,,,,,,,,,,,Mango: Cherukurasam-nan
@@ -5038,7 +5038,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1105,,44,,,,,,,,,,,Mango: Cherukurasam-nan
 1105,,45,,,,,,,,,,,Mango: Cherukurasam-nan
 1105,,46,,,,,,,,,,,Mango: Cherukurasam-nan
-1105,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Cherukurasam-nan
+1105,,47,,,,,,,,,,,Mango: Cherukurasam-nan
 1113,,0,,,,,,,,,,,Mango: Gulabkhas-Mangifera indica
 1113,,1,,,,,,,,,,,Mango: Gulabkhas-Mangifera indica
 1113,,2,,,,,,,,,,,Mango: Gulabkhas-Mangifera indica
@@ -5086,7 +5086,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1113,,44,,,,,,,,,,,Mango: Gulabkhas-Mangifera indica
 1113,,45,,,,,,,,,,,Mango: Gulabkhas-Mangifera indica
 1113,,46,,,,,,,,,,,Mango: Gulabkhas-Mangifera indica
-1113,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Gulabkhas-Mangifera indica
+1113,,47,,,,,,,,,,,Mango: Gulabkhas-Mangifera indica
 1109,,0,,,,,,,,,,,Mango: Dussheri-Mangifera indica
 1109,,1,,,,,,,,,,,Mango: Dussheri-Mangifera indica
 1109,,2,,,,,,,,,,,Mango: Dussheri-Mangifera indica
@@ -5134,7 +5134,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1109,,44,,,,,,,,,,,Mango: Dussheri-Mangifera indica
 1109,,45,,,,,,,,,,,Mango: Dussheri-Mangifera indica
 1109,,46,,,,,,,,,,,Mango: Dussheri-Mangifera indica
-1109,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Dussheri-Mangifera indica
+1109,,47,,,,,,,,,,,Mango: Dussheri-Mangifera indica
 1102,,0,,,,,,,,,,,Mango: Bombai-Mangifera indica
 1102,,1,,,,,,,,,,,Mango: Bombai-Mangifera indica
 1102,,2,,,,,,,,,,,Mango: Bombai-Mangifera indica
@@ -5182,7 +5182,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1102,,44,,,,,,,,,,,Mango: Bombai-Mangifera indica
 1102,,45,,,,,,,,,,,Mango: Bombai-Mangifera indica
 1102,,46,,,,,,,,,,,Mango: Bombai-Mangifera indica
-1102,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Bombai-Mangifera indica
+1102,,47,,,,,,,,,,,Mango: Bombai-Mangifera indica
 1110,,0,,,,,,,,,,,Mango: Fazli-Mangifera indica
 1110,,1,,,,,,,,,,,Mango: Fazli-Mangifera indica
 1110,,2,,,,,,,,,,,Mango: Fazli-Mangifera indica
@@ -5230,7 +5230,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1110,,44,,,,,,,,,,,Mango: Fazli-Mangifera indica
 1110,,45,,,,,,,,,,,Mango: Fazli-Mangifera indica
 1110,,46,,,,,,,,,,,Mango: Fazli-Mangifera indica
-1110,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Fazli-Mangifera indica
+1110,,47,,,,,,,,,,,Mango: Fazli-Mangifera indica
 1114,,0,,,,,,,,,,,Mango: Hardil-aziz-Mangifera indica
 1114,,1,,,,,,,,,,,Mango: Hardil-aziz-Mangifera indica
 1114,,2,,,,,,,,,,,Mango: Hardil-aziz-Mangifera indica
@@ -5278,7 +5278,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1114,,44,,,,,,,,,,,Mango: Hardil-aziz-Mangifera indica
 1114,,45,,,,,,,,,,,Mango: Hardil-aziz-Mangifera indica
 1114,,46,,,,,,,,,,,Mango: Hardil-aziz-Mangifera indica
-1114,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Hardil-aziz-Mangifera indica
+1114,,47,,,,,,,,,,,Mango: Hardil-aziz-Mangifera indica
 1115,,0,,,,,,,,,,,Mango: Himayat-Mangifera indica
 1115,,1,,,,,,,,,,,Mango: Himayat-Mangifera indica
 1115,,2,,,,,,,,,,,Mango: Himayat-Mangifera indica
@@ -5326,7 +5326,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1115,,44,,,,,,,,,,,Mango: Himayat-Mangifera indica
 1115,,45,,,,,,,,,,,Mango: Himayat-Mangifera indica
 1115,,46,,,,,,,,,,,Mango: Himayat-Mangifera indica
-1115,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Himayat-Mangifera indica
+1115,,47,,,,,,,,,,,Mango: Himayat-Mangifera indica
 1111,,0,,,,,,,,,,,Mango: Fernandin-Mangifera indica
 1111,,1,,,,,,,,,,,Mango: Fernandin-Mangifera indica
 1111,,2,,,,,,,,,,,Mango: Fernandin-Mangifera indica
@@ -5374,7 +5374,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1111,,44,,,,,,,,,,,Mango: Fernandin-Mangifera indica
 1111,,45,,,,,,,,,,,Mango: Fernandin-Mangifera indica
 1111,,46,,,,,,,,,,,Mango: Fernandin-Mangifera indica
-1111,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Fernandin-Mangifera indica
+1111,,47,,,,,,,,,,,Mango: Fernandin-Mangifera indica
 1118,,0,,,,,,,,,,,Mango: Husnaara-Mangifera indica
 1118,,1,,,,,,,,,,,Mango: Husnaara-Mangifera indica
 1118,,2,,,,,,,,,,,Mango: Husnaara-Mangifera indica
@@ -5422,7 +5422,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1118,,44,,,,,,,,,,,Mango: Husnaara-Mangifera indica
 1118,,45,,,,,,,,,,,Mango: Husnaara-Mangifera indica
 1118,,46,,,,,,,,,,,Mango: Husnaara-Mangifera indica
-1118,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Husnaara-Mangifera indica
+1118,,47,,,,,,,,,,,Mango: Husnaara-Mangifera indica
 1116,,0,,,,,,,,,,,Mango: Himayuddin-Mangifera indica
 1116,,1,,,,,,,,,,,Mango: Himayuddin-Mangifera indica
 1116,,2,,,,,,,,,,,Mango: Himayuddin-Mangifera indica
@@ -5470,7 +5470,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1116,,44,,,,,,,,,,,Mango: Himayuddin-Mangifera indica
 1116,,45,,,,,,,,,,,Mango: Himayuddin-Mangifera indica
 1116,,46,,,,,,,,,,,Mango: Himayuddin-Mangifera indica
-1116,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Himayuddin-Mangifera indica
+1116,,47,,,,,,,,,,,Mango: Himayuddin-Mangifera indica
 1112,,0,,,,,,,,,,,Mango: Gilas-Mangifera indica
 1112,,1,,,,,,,,,,,Mango: Gilas-Mangifera indica
 1112,,2,,,,,,,,,,,Mango: Gilas-Mangifera indica
@@ -5518,7 +5518,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1112,,44,,,,,,,,,,,Mango: Gilas-Mangifera indica
 1112,,45,,,,,,,,,,,Mango: Gilas-Mangifera indica
 1112,,46,,,,,,,,,,,Mango: Gilas-Mangifera indica
-1112,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Gilas-Mangifera indica
+1112,,47,,,,,,,,,,,Mango: Gilas-Mangifera indica
 1119,,0,,,,,,,,,,,Mango: Jamadar-Mangifera indica
 1119,,1,,,,,,,,,,,Mango: Jamadar-Mangifera indica
 1119,,2,,,,,,,,,,,Mango: Jamadar-Mangifera indica
@@ -5566,7 +5566,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1119,,44,,,,,,,,,,,Mango: Jamadar-Mangifera indica
 1119,,45,,,,,,,,,,,Mango: Jamadar-Mangifera indica
 1119,,46,,,,,,,,,,,Mango: Jamadar-Mangifera indica
-1119,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Jamadar-Mangifera indica
+1119,,47,,,,,,,,,,,Mango: Jamadar-Mangifera indica
 1106,,0,,,,,,,,,,,Mango: Cherukurasam-nan
 1106,,1,,,,,,,,,,,Mango: Cherukurasam-nan
 1106,,2,,,,,,,,,,,Mango: Cherukurasam-nan
@@ -5614,7 +5614,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1106,,44,,,,,,,,,,,Mango: Cherukurasam-nan
 1106,,45,,,,,,,,,,,Mango: Cherukurasam-nan
 1106,,46,,,,,,,,,,,Mango: Cherukurasam-nan
-1106,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Cherukurasam-nan
+1106,,47,,,,,,,,,,,Mango: Cherukurasam-nan
 1117,,0,,,,,,,,,,,Mango: Himsagar-Mangifera indica
 1117,,1,,,,,,,,,,,Mango: Himsagar-Mangifera indica
 1117,,2,,,,,,,,,,,Mango: Himsagar-Mangifera indica
@@ -5662,7 +5662,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1117,,44,,,,,,,,,,,Mango: Himsagar-Mangifera indica
 1117,,45,,,,,,,,,,,Mango: Himsagar-Mangifera indica
 1117,,46,,,,,,,,,,,Mango: Himsagar-Mangifera indica
-1117,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Himsagar-Mangifera indica
+1117,,47,,,,,,,,,,,Mango: Himsagar-Mangifera indica
 1120,,0,,,,,,,,,,,Mango: Jehangir-Mangifera indica
 1120,,1,,,,,,,,,,,Mango: Jehangir-Mangifera indica
 1120,,2,,,,,,,,,,,Mango: Jehangir-Mangifera indica
@@ -5710,7 +5710,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1120,,44,,,,,,,,,,,Mango: Jehangir-Mangifera indica
 1120,,45,,,,,,,,,,,Mango: Jehangir-Mangifera indica
 1120,,46,,,,,,,,,,,Mango: Jehangir-Mangifera indica
-1120,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Jehangir-Mangifera indica
+1120,,47,,,,,,,,,,,Mango: Jehangir-Mangifera indica
 1107,,0,,,,,,,,,,,Mango: Chinna Rasam-Mangifera indica
 1107,,1,,,,,,,,,,,Mango: Chinna Rasam-Mangifera indica
 1107,,2,,,,,,,,,,,Mango: Chinna Rasam-Mangifera indica
@@ -5758,7 +5758,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1107,,44,,,,,,,,,,,Mango: Chinna Rasam-Mangifera indica
 1107,,45,,,,,,,,,,,Mango: Chinna Rasam-Mangifera indica
 1107,,46,,,,,,,,,,,Mango: Chinna Rasam-Mangifera indica
-1107,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Chinna Rasam-Mangifera indica
+1107,,47,,,,,,,,,,,Mango: Chinna Rasam-Mangifera indica
 1123,,0,,,,,,,,,,,Mango: Khatta Meetha-Mangifera indica
 1123,,1,,,,,,,,,,,Mango: Khatta Meetha-Mangifera indica
 1123,,2,,,,,,,,,,,Mango: Khatta Meetha-Mangifera indica
@@ -5806,7 +5806,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1123,,44,,,,,,,,,,,Mango: Khatta Meetha-Mangifera indica
 1123,,45,,,,,,,,,,,Mango: Khatta Meetha-Mangifera indica
 1123,,46,,,,,,,,,,,Mango: Khatta Meetha-Mangifera indica
-1123,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Khatta Meetha-Mangifera indica
+1123,,47,,,,,,,,,,,Mango: Khatta Meetha-Mangifera indica
 1121,,0,,,,,,,,,,,Mango: Kaju-Mangifera indica
 1121,,1,,,,,,,,,,,Mango: Kaju-Mangifera indica
 1121,,2,,,,,,,,,,,Mango: Kaju-Mangifera indica
@@ -5854,7 +5854,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1121,,44,,,,,,,,,,,Mango: Kaju-Mangifera indica
 1121,,45,,,,,,,,,,,Mango: Kaju-Mangifera indica
 1121,,46,,,,,,,,,,,Mango: Kaju-Mangifera indica
-1121,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Kaju-Mangifera indica
+1121,,47,,,,,,,,,,,Mango: Kaju-Mangifera indica
 1124,,0,,,,,,,,,,,Mango: Kishenbhog-Mangifera indica
 1124,,1,,,,,,,,,,,Mango: Kishenbhog-Mangifera indica
 1124,,2,,,,,,,,,,,Mango: Kishenbhog-Mangifera indica
@@ -5902,7 +5902,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1124,,44,,,,,,,,,,,Mango: Kishenbhog-Mangifera indica
 1124,,45,,,,,,,,,,,Mango: Kishenbhog-Mangifera indica
 1124,,46,,,,,,,,,,,Mango: Kishenbhog-Mangifera indica
-1124,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Kishenbhog-Mangifera indica
+1124,,47,,,,,,,,,,,Mango: Kishenbhog-Mangifera indica
 1128,,0,,,,,,,,,,,Mango: Malkurad-Mangifera indica
 1128,,1,,,,,,,,,,,Mango: Malkurad-Mangifera indica
 1128,,2,,,,,,,,,,,Mango: Malkurad-Mangifera indica
@@ -5950,7 +5950,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1128,,44,,,,,,,,,,,Mango: Malkurad-Mangifera indica
 1128,,45,,,,,,,,,,,Mango: Malkurad-Mangifera indica
 1128,,46,,,,,,,,,,,Mango: Malkurad-Mangifera indica
-1128,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Malkurad-Mangifera indica
+1128,,47,,,,,,,,,,,Mango: Malkurad-Mangifera indica
 1122,,0,,,,,,,,,,,Mango: Kesar-Mangifera indica
 1122,,1,,,,,,,,,,,Mango: Kesar-Mangifera indica
 1122,,2,,,,,,,,,,,Mango: Kesar-Mangifera indica
@@ -5998,7 +5998,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1122,,44,,,,,,,,,,,Mango: Kesar-Mangifera indica
 1122,,45,,,,,,,,,,,Mango: Kesar-Mangifera indica
 1122,,46,,,,,,,,,,,Mango: Kesar-Mangifera indica
-1122,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Kesar-Mangifera indica
+1122,,47,,,,,,,,,,,Mango: Kesar-Mangifera indica
 1133,,0,,,,,,,,,,,Mango: Mithwa Sundar Shah-Mangifera indica
 1133,,1,,,,,,,,,,,Mango: Mithwa Sundar Shah-Mangifera indica
 1133,,2,,,,,,,,,,,Mango: Mithwa Sundar Shah-Mangifera indica
@@ -6046,7 +6046,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1133,,44,,,,,,,,,,,Mango: Mithwa Sundar Shah-Mangifera indica
 1133,,45,,,,,,,,,,,Mango: Mithwa Sundar Shah-Mangifera indica
 1133,,46,,,,,,,,,,,Mango: Mithwa Sundar Shah-Mangifera indica
-1133,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Mithwa Sundar Shah-Mangifera indica
+1133,,47,,,,,,,,,,,Mango: Mithwa Sundar Shah-Mangifera indica
 1129,,0,,,,,,,,,,,Mango: Mallika-Mangifera indica
 1129,,1,,,,,,,,,,,Mango: Mallika-Mangifera indica
 1129,,2,,,,,,,,,,,Mango: Mallika-Mangifera indica
@@ -6094,7 +6094,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1129,,44,,,,,,,,,,,Mango: Mallika-Mangifera indica
 1129,,45,,,,,,,,,,,Mango: Mallika-Mangifera indica
 1129,,46,,,,,,,,,,,Mango: Mallika-Mangifera indica
-1129,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Mallika-Mangifera indica
+1129,,47,,,,,,,,,,,Mango: Mallika-Mangifera indica
 1125,,0,,,,,,,,,,,Mango: Kothapalli Kobbari-Mangifera indica
 1125,,1,,,,,,,,,,,Mango: Kothapalli Kobbari-Mangifera indica
 1125,,2,,,,,,,,,,,Mango: Kothapalli Kobbari-Mangifera indica
@@ -6142,7 +6142,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1125,,44,,,,,,,,,,,Mango: Kothapalli Kobbari-Mangifera indica
 1125,,45,,,,,,,,,,,Mango: Kothapalli Kobbari-Mangifera indica
 1125,,46,,,,,,,,,,,Mango: Kothapalli Kobbari-Mangifera indica
-1125,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Kothapalli Kobbari-Mangifera indica
+1125,,47,,,,,,,,,,,Mango: Kothapalli Kobbari-Mangifera indica
 1134,,0,,,,,,,,,,,Mango: Mulgoa-Mangifera indica
 1134,,1,,,,,,,,,,,Mango: Mulgoa-Mangifera indica
 1134,,2,,,,,,,,,,,Mango: Mulgoa-Mangifera indica
@@ -6190,7 +6190,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1134,,44,,,,,,,,,,,Mango: Mulgoa-Mangifera indica
 1134,,45,,,,,,,,,,,Mango: Mulgoa-Mangifera indica
 1134,,46,,,,,,,,,,,Mango: Mulgoa-Mangifera indica
-1134,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Mulgoa-Mangifera indica
+1134,,47,,,,,,,,,,,Mango: Mulgoa-Mangifera indica
 1130,,0,,,,,,,,,,,Mango: Manjeera-Mangifera indica
 1130,,1,,,,,,,,,,,Mango: Manjeera-Mangifera indica
 1130,,2,,,,,,,,,,,Mango: Manjeera-Mangifera indica
@@ -6238,7 +6238,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1130,,44,,,,,,,,,,,Mango: Manjeera-Mangifera indica
 1130,,45,,,,,,,,,,,Mango: Manjeera-Mangifera indica
 1130,,46,,,,,,,,,,,Mango: Manjeera-Mangifera indica
-1130,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Manjeera-Mangifera indica
+1130,,47,,,,,,,,,,,Mango: Manjeera-Mangifera indica
 1135,,0,,,,,,,,,,,Mango: Mundappa-Mangifera indica
 1135,,1,,,,,,,,,,,Mango: Mundappa-Mangifera indica
 1135,,2,,,,,,,,,,,Mango: Mundappa-Mangifera indica
@@ -6286,7 +6286,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1135,,44,,,,,,,,,,,Mango: Mundappa-Mangifera indica
 1135,,45,,,,,,,,,,,Mango: Mundappa-Mangifera indica
 1135,,46,,,,,,,,,,,Mango: Mundappa-Mangifera indica
-1135,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Mundappa-Mangifera indica
+1135,,47,,,,,,,,,,,Mango: Mundappa-Mangifera indica
 1126,,0,,,,,,,,,,,Mango: Langra-Mangifera indica
 1126,,1,,,,,,,,,,,Mango: Langra-Mangifera indica
 1126,,2,,,,,,,,,,,Mango: Langra-Mangifera indica
@@ -6334,7 +6334,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1126,,44,,,,,,,,,,,Mango: Langra-Mangifera indica
 1126,,45,,,,,,,,,,,Mango: Langra-Mangifera indica
 1126,,46,,,,,,,,,,,Mango: Langra-Mangifera indica
-1126,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Langra-Mangifera indica
+1126,,47,,,,,,,,,,,Mango: Langra-Mangifera indica
 1127,,0,,,,,,,,,,,Mango: Lucknowi-Mangifera indica
 1127,,1,,,,,,,,,,,Mango: Lucknowi-Mangifera indica
 1127,,2,,,,,,,,,,,Mango: Lucknowi-Mangifera indica
@@ -6382,7 +6382,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1127,,44,,,,,,,,,,,Mango: Lucknowi-Mangifera indica
 1127,,45,,,,,,,,,,,Mango: Lucknowi-Mangifera indica
 1127,,46,,,,,,,,,,,Mango: Lucknowi-Mangifera indica
-1127,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Lucknowi-Mangifera indica
+1127,,47,,,,,,,,,,,Mango: Lucknowi-Mangifera indica
 1136,,0,,,,,,,,,,,Mango: Nauras-Mangifera indica
 1136,,1,,,,,,,,,,,Mango: Nauras-Mangifera indica
 1136,,2,,,,,,,,,,,Mango: Nauras-Mangifera indica
@@ -6430,7 +6430,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1136,,44,,,,,,,,,,,Mango: Nauras-Mangifera indica
 1136,,45,,,,,,,,,,,Mango: Nauras-Mangifera indica
 1136,,46,,,,,,,,,,,Mango: Nauras-Mangifera indica
-1136,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Nauras-Mangifera indica
+1136,,47,,,,,,,,,,,Mango: Nauras-Mangifera indica
 1138,,0,,,,,,,,,,,Mango: Olour-Mangifera indica
 1138,,1,,,,,,,,,,,Mango: Olour-Mangifera indica
 1138,,2,,,,,,,,,,,Mango: Olour-Mangifera indica
@@ -6478,7 +6478,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1138,,44,,,,,,,,,,,Mango: Olour-Mangifera indica
 1138,,45,,,,,,,,,,,Mango: Olour-Mangifera indica
 1138,,46,,,,,,,,,,,Mango: Olour-Mangifera indica
-1138,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Olour-Mangifera indica
+1138,,47,,,,,,,,,,,Mango: Olour-Mangifera indica
 1137,,0,,,,,,,,,,,Mango: Neelum-Mangifera indica
 1137,,1,,,,,,,,,,,Mango: Neelum-Mangifera indica
 1137,,2,,,,,,,,,,,Mango: Neelum-Mangifera indica
@@ -6526,7 +6526,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1137,,44,,,,,,,,,,,Mango: Neelum-Mangifera indica
 1137,,45,,,,,,,,,,,Mango: Neelum-Mangifera indica
 1137,,46,,,,,,,,,,,Mango: Neelum-Mangifera indica
-1137,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Neelum-Mangifera indica
+1137,,47,,,,,,,,,,,Mango: Neelum-Mangifera indica
 1139,,0,,,,,,,,,,,Mango: Pairi-Mangifera indica
 1139,,1,,,,,,,,,,,Mango: Pairi-Mangifera indica
 1139,,2,,,,,,,,,,,Mango: Pairi-Mangifera indica
@@ -6574,7 +6574,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1139,,44,,,,,,,,,,,Mango: Pairi-Mangifera indica
 1139,,45,,,,,,,,,,,Mango: Pairi-Mangifera indica
 1139,,46,,,,,,,,,,,Mango: Pairi-Mangifera indica
-1139,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Pairi-Mangifera indica
+1139,,47,,,,,,,,,,,Mango: Pairi-Mangifera indica
 1143,,0,,,,,,,,,,,Mango: Rajapuri-Mangifera indica
 1143,,1,,,,,,,,,,,Mango: Rajapuri-Mangifera indica
 1143,,2,,,,,,,,,,,Mango: Rajapuri-Mangifera indica
@@ -6622,7 +6622,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1143,,44,,,,,,,,,,,Mango: Rajapuri-Mangifera indica
 1143,,45,,,,,,,,,,,Mango: Rajapuri-Mangifera indica
 1143,,46,,,,,,,,,,,Mango: Rajapuri-Mangifera indica
-1143,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Rajapuri-Mangifera indica
+1143,,47,,,,,,,,,,,Mango: Rajapuri-Mangifera indica
 1140,,0,,,,,,,,,,,Mango: Panchadara Kalasa-Mangifera indica
 1140,,1,,,,,,,,,,,Mango: Panchadara Kalasa-Mangifera indica
 1140,,2,,,,,,,,,,,Mango: Panchadara Kalasa-Mangifera indica
@@ -6670,7 +6670,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1140,,44,,,,,,,,,,,Mango: Panchadara Kalasa-Mangifera indica
 1140,,45,,,,,,,,,,,Mango: Panchadara Kalasa-Mangifera indica
 1140,,46,,,,,,,,,,,Mango: Panchadara Kalasa-Mangifera indica
-1140,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Panchadara Kalasa-Mangifera indica
+1140,,47,,,,,,,,,,,Mango: Panchadara Kalasa-Mangifera indica
 1131,,0,,,,,,,,,,,Mango: Mankurad-Mangifera indica
 1131,,1,,,,,,,,,,,Mango: Mankurad-Mangifera indica
 1131,,2,,,,,,,,,,,Mango: Mankurad-Mangifera indica
@@ -6718,7 +6718,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1131,,44,,,,,,,,,,,Mango: Mankurad-Mangifera indica
 1131,,45,,,,,,,,,,,Mango: Mankurad-Mangifera indica
 1131,,46,,,,,,,,,,,Mango: Mankurad-Mangifera indica
-1131,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Mankurad-Mangifera indica
+1131,,47,,,,,,,,,,,Mango: Mankurad-Mangifera indica
 1144,,0,,,,,,,,,,,Mango: Rasgola-Mangifera indica
 1144,,1,,,,,,,,,,,Mango: Rasgola-Mangifera indica
 1144,,2,,,,,,,,,,,Mango: Rasgola-Mangifera indica
@@ -6766,7 +6766,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1144,,44,,,,,,,,,,,Mango: Rasgola-Mangifera indica
 1144,,45,,,,,,,,,,,Mango: Rasgola-Mangifera indica
 1144,,46,,,,,,,,,,,Mango: Rasgola-Mangifera indica
-1144,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Rasgola-Mangifera indica
+1144,,47,,,,,,,,,,,Mango: Rasgola-Mangifera indica
 1145,,0,,,,,,,,,,,Mango: Raspoonia-Mangifera indica
 1145,,1,,,,,,,,,,,Mango: Raspoonia-Mangifera indica
 1145,,2,,,,,,,,,,,Mango: Raspoonia-Mangifera indica
@@ -6814,7 +6814,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1145,,44,,,,,,,,,,,Mango: Raspoonia-Mangifera indica
 1145,,45,,,,,,,,,,,Mango: Raspoonia-Mangifera indica
 1145,,46,,,,,,,,,,,Mango: Raspoonia-Mangifera indica
-1145,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Raspoonia-Mangifera indica
+1145,,47,,,,,,,,,,,Mango: Raspoonia-Mangifera indica
 1141,,0,,,,,,,,,,,Mango: Pedda Rasam-Mangifera indica
 1141,,1,,,,,,,,,,,Mango: Pedda Rasam-Mangifera indica
 1141,,2,,,,,,,,,,,Mango: Pedda Rasam-Mangifera indica
@@ -6862,7 +6862,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1141,,44,,,,,,,,,,,Mango: Pedda Rasam-Mangifera indica
 1141,,45,,,,,,,,,,,Mango: Pedda Rasam-Mangifera indica
 1141,,46,,,,,,,,,,,Mango: Pedda Rasam-Mangifera indica
-1141,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Pedda Rasam-Mangifera indica
+1141,,47,,,,,,,,,,,Mango: Pedda Rasam-Mangifera indica
 1132,,0,,,,,,,,,,,Mango: Mithwa Ghazipur-Mangifera indica
 1132,,1,,,,,,,,,,,Mango: Mithwa Ghazipur-Mangifera indica
 1132,,2,,,,,,,,,,,Mango: Mithwa Ghazipur-Mangifera indica
@@ -6910,7 +6910,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1132,,44,,,,,,,,,,,Mango: Mithwa Ghazipur-Mangifera indica
 1132,,45,,,,,,,,,,,Mango: Mithwa Ghazipur-Mangifera indica
 1132,,46,,,,,,,,,,,Mango: Mithwa Ghazipur-Mangifera indica
-1132,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Mithwa Ghazipur-Mangifera indica
+1132,,47,,,,,,,,,,,Mango: Mithwa Ghazipur-Mangifera indica
 1147,,0,,,,,,,,,,,Mango: Ratole-Mangifera indica
 1147,,1,,,,,,,,,,,Mango: Ratole-Mangifera indica
 1147,,2,,,,,,,,,,,Mango: Ratole-Mangifera indica
@@ -6958,7 +6958,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1147,,44,,,,,,,,,,,Mango: Ratole-Mangifera indica
 1147,,45,,,,,,,,,,,Mango: Ratole-Mangifera indica
 1147,,46,,,,,,,,,,,Mango: Ratole-Mangifera indica
-1147,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Ratole-Mangifera indica
+1147,,47,,,,,,,,,,,Mango: Ratole-Mangifera indica
 1142,,0,,,,,,,,,,,Mango: Peddarasam-Mangifera indica
 1142,,1,,,,,,,,,,,Mango: Peddarasam-Mangifera indica
 1142,,2,,,,,,,,,,,Mango: Peddarasam-Mangifera indica
@@ -7006,7 +7006,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1142,,44,,,,,,,,,,,Mango: Peddarasam-Mangifera indica
 1142,,45,,,,,,,,,,,Mango: Peddarasam-Mangifera indica
 1142,,46,,,,,,,,,,,Mango: Peddarasam-Mangifera indica
-1142,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Peddarasam-Mangifera indica
+1142,,47,,,,,,,,,,,Mango: Peddarasam-Mangifera indica
 1148,,0,,,,,,,,,,,Mango: Rumani-Mangifera indica
 1148,,1,,,,,,,,,,,Mango: Rumani-Mangifera indica
 1148,,2,,,,,,,,,,,Mango: Rumani-Mangifera indica
@@ -7054,7 +7054,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1148,,44,,,,,,,,,,,Mango: Rumani-Mangifera indica
 1148,,45,,,,,,,,,,,Mango: Rumani-Mangifera indica
 1148,,46,,,,,,,,,,,Mango: Rumani-Mangifera indica
-1148,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Rumani-Mangifera indica
+1148,,47,,,,,,,,,,,Mango: Rumani-Mangifera indica
 1150,,0,,,,,,,,,,,Mango: Samar Behest Chausa-Mangifera indica
 1150,,1,,,,,,,,,,,Mango: Samar Behest Chausa-Mangifera indica
 1150,,2,,,,,,,,,,,Mango: Samar Behest Chausa-Mangifera indica
@@ -7102,7 +7102,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1150,,44,,,,,,,,,,,Mango: Samar Behest Chausa-Mangifera indica
 1150,,45,,,,,,,,,,,Mango: Samar Behest Chausa-Mangifera indica
 1150,,46,,,,,,,,,,,Mango: Samar Behest Chausa-Mangifera indica
-1150,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Samar Behest Chausa-Mangifera indica
+1150,,47,,,,,,,,,,,Mango: Samar Behest Chausa-Mangifera indica
 1149,,0,,,,,,,,,,,Mango: Safeda-Mangifera indica
 1149,,1,,,,,,,,,,,Mango: Safeda-Mangifera indica
 1149,,2,,,,,,,,,,,Mango: Safeda-Mangifera indica
@@ -7150,7 +7150,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1149,,44,,,,,,,,,,,Mango: Safeda-Mangifera indica
 1149,,45,,,,,,,,,,,Mango: Safeda-Mangifera indica
 1149,,46,,,,,,,,,,,Mango: Safeda-Mangifera indica
-1149,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Safeda-Mangifera indica
+1149,,47,,,,,,,,,,,Mango: Safeda-Mangifera indica
 1151,,0,,,,,,,,,,,Mango: Sharbati Begrain-Mangifera indica
 1151,,1,,,,,,,,,,,Mango: Sharbati Begrain-Mangifera indica
 1151,,2,,,,,,,,,,,Mango: Sharbati Begrain-Mangifera indica
@@ -7198,7 +7198,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1151,,44,,,,,,,,,,,Mango: Sharbati Begrain-Mangifera indica
 1151,,45,,,,,,,,,,,Mango: Sharbati Begrain-Mangifera indica
 1151,,46,,,,,,,,,,,Mango: Sharbati Begrain-Mangifera indica
-1151,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Sharbati Begrain-Mangifera indica
+1151,,47,,,,,,,,,,,Mango: Sharbati Begrain-Mangifera indica
 1146,,0,,,,,,,,,,,Mango: Raspuri-Mangifera indica
 1146,,1,,,,,,,,,,,Mango: Raspuri-Mangifera indica
 1146,,2,,,,,,,,,,,Mango: Raspuri-Mangifera indica
@@ -7246,7 +7246,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1146,,44,,,,,,,,,,,Mango: Raspuri-Mangifera indica
 1146,,45,,,,,,,,,,,Mango: Raspuri-Mangifera indica
 1146,,46,,,,,,,,,,,Mango: Raspuri-Mangifera indica
-1146,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Raspuri-Mangifera indica
+1146,,47,,,,,,,,,,,Mango: Raspuri-Mangifera indica
 1154,,0,,,,,,,,,,,Mango: Suvarnarekha-Mangifera indica
 1154,,1,,,,,,,,,,,Mango: Suvarnarekha-Mangifera indica
 1154,,2,,,,,,,,,,,Mango: Suvarnarekha-Mangifera indica
@@ -7294,7 +7294,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1154,,44,,,,,,,,,,,Mango: Suvarnarekha-Mangifera indica
 1154,,45,,,,,,,,,,,Mango: Suvarnarekha-Mangifera indica
 1154,,46,,,,,,,,,,,Mango: Suvarnarekha-Mangifera indica
-1154,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Suvarnarekha-Mangifera indica
+1154,,47,,,,,,,,,,,Mango: Suvarnarekha-Mangifera indica
 1152,,0,,,,,,,,,,,Mango: Sindhu-Mangifera indica
 1152,,1,,,,,,,,,,,Mango: Sindhu-Mangifera indica
 1152,,2,,,,,,,,,,,Mango: Sindhu-Mangifera indica
@@ -7342,7 +7342,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1152,,44,,,,,,,,,,,Mango: Sindhu-Mangifera indica
 1152,,45,,,,,,,,,,,Mango: Sindhu-Mangifera indica
 1152,,46,,,,,,,,,,,Mango: Sindhu-Mangifera indica
-1152,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Sindhu-Mangifera indica
+1152,,47,,,,,,,,,,,Mango: Sindhu-Mangifera indica
 1155,,0,,,,,,,,,,,Mango: Taimoorlang-Mangifera indica
 1155,,1,,,,,,,,,,,Mango: Taimoorlang-Mangifera indica
 1155,,2,,,,,,,,,,,Mango: Taimoorlang-Mangifera indica
@@ -7390,7 +7390,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1155,,44,,,,,,,,,,,Mango: Taimoorlang-Mangifera indica
 1155,,45,,,,,,,,,,,Mango: Taimoorlang-Mangifera indica
 1155,,46,,,,,,,,,,,Mango: Taimoorlang-Mangifera indica
-1155,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Taimoorlang-Mangifera indica
+1155,,47,,,,,,,,,,,Mango: Taimoorlang-Mangifera indica
 1153,,0,,,,,,,,,,,Mango: Sukul-Mangifera indica
 1153,,1,,,,,,,,,,,Mango: Sukul-Mangifera indica
 1153,,2,,,,,,,,,,,Mango: Sukul-Mangifera indica
@@ -7438,7 +7438,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1153,,44,,,,,,,,,,,Mango: Sukul-Mangifera indica
 1153,,45,,,,,,,,,,,Mango: Sukul-Mangifera indica
 1153,,46,,,,,,,,,,,Mango: Sukul-Mangifera indica
-1153,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Sukul-Mangifera indica
+1153,,47,,,,,,,,,,,Mango: Sukul-Mangifera indica
 1158,,0,,,,,,,,,,,Mango: Vanraj-Mangifera indica
 1158,,1,,,,,,,,,,,Mango: Vanraj-Mangifera indica
 1158,,2,,,,,,,,,,,Mango: Vanraj-Mangifera indica
@@ -7486,7 +7486,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1158,,44,,,,,,,,,,,Mango: Vanraj-Mangifera indica
 1158,,45,,,,,,,,,,,Mango: Vanraj-Mangifera indica
 1158,,46,,,,,,,,,,,Mango: Vanraj-Mangifera indica
-1158,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Vanraj-Mangifera indica
+1158,,47,,,,,,,,,,,Mango: Vanraj-Mangifera indica
 1159,,0,,,,,,,,,,,Mango: Zardalu-Mangifera indica
 1159,,1,,,,,,,,,,,Mango: Zardalu-Mangifera indica
 1159,,2,,,,,,,,,,,Mango: Zardalu-Mangifera indica
@@ -7534,7 +7534,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1159,,44,,,,,,,,,,,Mango: Zardalu-Mangifera indica
 1159,,45,,,,,,,,,,,Mango: Zardalu-Mangifera indica
 1159,,46,,,,,,,,,,,Mango: Zardalu-Mangifera indica
-1159,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Zardalu-Mangifera indica
+1159,,47,,,,,,,,,,,Mango: Zardalu-Mangifera indica
 1162,,0,,,,,,,,,,,Rain tree-Albizia saman
 1162,,1,,,,,,,,,,,Rain tree-Albizia saman
 1162,,2,,,,,,,,,,,Rain tree-Albizia saman
@@ -7582,7 +7582,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1162,,44,,,,,,,,,,,Rain tree-Albizia saman
 1162,,45,,,,,,,,,,,Rain tree-Albizia saman
 1162,,46,,,,,,,,,,,Rain tree-Albizia saman
-1162,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Rain tree-Albizia saman
+1162,,47,,,,,,,,,,,Rain tree-Albizia saman
 1160,,0,,,,,,,,,,,Mango: Zawahiri-Mangifera indica
 1160,,1,,,,,,,,,,,Mango: Zawahiri-Mangifera indica
 1160,,2,,,,,,,,,,,Mango: Zawahiri-Mangifera indica
@@ -7630,7 +7630,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1160,,44,,,,,,,,,,,Mango: Zawahiri-Mangifera indica
 1160,,45,,,,,,,,,,,Mango: Zawahiri-Mangifera indica
 1160,,46,,,,,,,,,,,Mango: Zawahiri-Mangifera indica
-1160,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Zawahiri-Mangifera indica
+1160,,47,,,,,,,,,,,Mango: Zawahiri-Mangifera indica
 1166,,0,,,,,,,,,,,Himalayan Cherry-Prunus cerasoides
 1166,,1,,,,,,,,,,,Himalayan Cherry-Prunus cerasoides
 1166,,2,,,,,,,,,,,Himalayan Cherry-Prunus cerasoides
@@ -7678,7 +7678,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1166,,44,,,,,,,,,,,Himalayan Cherry-Prunus cerasoides
 1166,,45,,,,,,,,,,,Himalayan Cherry-Prunus cerasoides
 1166,,46,,,,,,,,,,,Himalayan Cherry-Prunus cerasoides
-1166,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Himalayan Cherry-Prunus cerasoides
+1166,,47,,,,,,,,,,,Himalayan Cherry-Prunus cerasoides
 1163,,0,,,,,,,,,,,Lal champa-Magnolia campbellii
 1163,,1,,,,,,,,,,,Lal champa-Magnolia campbellii
 1163,,2,,,,,,,,,,,Lal champa-Magnolia campbellii
@@ -7726,7 +7726,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1163,,44,,,,,,,,,,,Lal champa-Magnolia campbellii
 1163,,45,,,,,,,,,,,Lal champa-Magnolia campbellii
 1163,,46,,,,,,,,,,,Lal champa-Magnolia campbellii
-1163,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Lal champa-Magnolia campbellii
+1163,,47,,,,,,,,,,,Lal champa-Magnolia campbellii
 1156,,0,,,,,,,,,,,Mango: Taimuriya-Mangifera indica
 1156,,1,,,,,,,,,,,Mango: Taimuriya-Mangifera indica
 1156,,2,,,,,,,,,,,Mango: Taimuriya-Mangifera indica
@@ -7774,7 +7774,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1156,,44,,,,,,,,,,,Mango: Taimuriya-Mangifera indica
 1156,,45,,,,,,,,,,,Mango: Taimuriya-Mangifera indica
 1156,,46,,,,,,,,,,,Mango: Taimuriya-Mangifera indica
-1156,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Taimuriya-Mangifera indica
+1156,,47,,,,,,,,,,,Mango: Taimuriya-Mangifera indica
 1164,,0,,,,,,,,,,,Box Myrtle-Myrica esculenta
 1164,,1,,,,,,,,,,,Box Myrtle-Myrica esculenta
 1164,,2,,,,,,,,,,,Box Myrtle-Myrica esculenta
@@ -7822,7 +7822,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1164,,44,,,,,,,,,,,Box Myrtle-Myrica esculenta
 1164,,45,,,,,,,,,,,Box Myrtle-Myrica esculenta
 1164,,46,,,,,,,,,,,Box Myrtle-Myrica esculenta
-1164,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Box Myrtle-Myrica esculenta
+1164,,47,,,,,,,,,,,Box Myrtle-Myrica esculenta
 1167,,0,,,,,,,,,,,Walnut-Juglans regia
 1167,,1,,,,,,,,,,,Walnut-Juglans regia
 1167,,2,,,,,,,,,,,Walnut-Juglans regia
@@ -7870,7 +7870,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1167,,44,,,,,,,,,,,Walnut-Juglans regia
 1167,,45,,,,,,,,,,,Walnut-Juglans regia
 1167,,46,,,,,,,,,,,Walnut-Juglans regia
-1167,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Walnut-Juglans regia
+1167,,47,,,,,,,,,,,Walnut-Juglans regia
 1168,,0,,,,,,,,,,,Apricot tree-Prunus armeniaca
 1168,,1,,,,,,,,,,,Apricot tree-Prunus armeniaca
 1168,,2,,,,,,,,,,,Apricot tree-Prunus armeniaca
@@ -7918,7 +7918,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1168,,44,,,,,,,,,,,Apricot tree-Prunus armeniaca
 1168,,45,,,,,,,,,,,Apricot tree-Prunus armeniaca
 1168,,46,,,,,,,,,,,Apricot tree-Prunus armeniaca
-1168,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Apricot tree-Prunus armeniaca
+1168,,47,,,,,,,,,,,Apricot tree-Prunus armeniaca
 1165,,0,,,,,,,,,,,Himalayan Maple-Acer sterculiaceum
 1165,,1,,,,,,,,,,,Himalayan Maple-Acer sterculiaceum
 1165,,2,,,,,,,,,,,Himalayan Maple-Acer sterculiaceum
@@ -7966,7 +7966,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1165,,44,,,,,,,,,,,Himalayan Maple-Acer sterculiaceum
 1165,,45,,,,,,,,,,,Himalayan Maple-Acer sterculiaceum
 1165,,46,,,,,,,,,,,Himalayan Maple-Acer sterculiaceum
-1165,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Himalayan Maple-Acer sterculiaceum
+1165,,47,,,,,,,,,,,Himalayan Maple-Acer sterculiaceum
 1157,,0,,,,,,,,,,,Mango: Totapuri-Mangifera indica
 1157,,1,,,,,,,,,,,Mango: Totapuri-Mangifera indica
 1157,,2,,,,,,,,,,,Mango: Totapuri-Mangifera indica
@@ -8014,7 +8014,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1157,,44,,,,,,,,,,,Mango: Totapuri-Mangifera indica
 1157,,45,,,,,,,,,,,Mango: Totapuri-Mangifera indica
 1157,,46,,,,,,,,,,,Mango: Totapuri-Mangifera indica
-1157,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mango: Totapuri-Mangifera indica
+1157,,47,,,,,,,,,,,Mango: Totapuri-Mangifera indica
 1169,,0,,,,,,,,,,,Pear tree-Pyrus pyrifolia
 1169,,1,,,,,,,,,,,Pear tree-Pyrus pyrifolia
 1169,,2,,,,,,,,,,,Pear tree-Pyrus pyrifolia
@@ -8062,7 +8062,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1169,,44,,,,,,,,,,,Pear tree-Pyrus pyrifolia
 1169,,45,,,,,,,,,,,Pear tree-Pyrus pyrifolia
 1169,,46,,,,,,,,,,,Pear tree-Pyrus pyrifolia
-1169,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Pear tree-Pyrus pyrifolia
+1169,,47,,,,,,,,,,,Pear tree-Pyrus pyrifolia
 1161,,0,,,,,,,,,,,Jackfruit-Artocarpus heterophyllus
 1161,,1,,,,,,,,,,,Jackfruit-Artocarpus heterophyllus
 1161,,2,,,,,,,,,,,Jackfruit-Artocarpus heterophyllus
@@ -8110,7 +8110,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1161,,44,,,,,,,,,,,Jackfruit-Artocarpus heterophyllus
 1161,,45,,,,,,,,,,,Jackfruit-Artocarpus heterophyllus
 1161,,46,,,,,,,,,,,Jackfruit-Artocarpus heterophyllus
-1161,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Jackfruit-Artocarpus heterophyllus
+1161,,47,,,,,,,,,,,Jackfruit-Artocarpus heterophyllus
 1170,,0,,,,,,,,,,,Plum tree-Prunus domestica
 1170,,1,,,,,,,,,,,Plum tree-Prunus domestica
 1170,,2,,,,,,,,,,,Plum tree-Prunus domestica
@@ -8158,7 +8158,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1170,,44,,,,,,,,,,,Plum tree-Prunus domestica
 1170,,45,,,,,,,,,,,Plum tree-Prunus domestica
 1170,,46,,,,,,,,,,,Plum tree-Prunus domestica
-1170,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Plum tree-Prunus domestica
+1170,,47,,,,,,,,,,,Plum tree-Prunus domestica
 1174,,0,,,,,,,,,,,Drumstick tree-Moringa oleifera
 1174,,1,,,,,,,,,,,Drumstick tree-Moringa oleifera
 1174,,2,,,,,,,,,,,Drumstick tree-Moringa oleifera
@@ -8206,7 +8206,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1174,,44,,,,,,,,,,,Drumstick tree-Moringa oleifera
 1174,,45,,,,,,,,,,,Drumstick tree-Moringa oleifera
 1174,,46,,,,,,,,,,,Drumstick tree-Moringa oleifera
-1174,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Drumstick tree-Moringa oleifera
+1174,,47,,,,,,,,,,,Drumstick tree-Moringa oleifera
 1171,,0,,,,,,,,,,,Guava tree-Psidium guajava
 1171,,1,,,,,,,,,,,Guava tree-Psidium guajava
 1171,,2,,,,,,,,,,,Guava tree-Psidium guajava
@@ -8254,7 +8254,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1171,,44,,,,,,,,,,,Guava tree-Psidium guajava
 1171,,45,,,,,,,,,,,Guava tree-Psidium guajava
 1171,,46,,,,,,,,,,,Guava tree-Psidium guajava
-1171,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Guava tree-Psidium guajava
+1171,,47,,,,,,,,,,,Guava tree-Psidium guajava
 1178,,0,,,,,,,,,,,Oleander-Nerium oleander
 1178,,1,,,,,,,,,,,Oleander-Nerium oleander
 1178,,2,,,,,,,,,,,Oleander-Nerium oleander
@@ -8302,7 +8302,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1178,,44,,,,,,,,,,,Oleander-Nerium oleander
 1178,,45,,,,,,,,,,,Oleander-Nerium oleander
 1178,,46,,,,,,,,,,,Oleander-Nerium oleander
-1178,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Oleander-Nerium oleander
+1178,,47,,,,,,,,,,,Oleander-Nerium oleander
 1175,,0,,,,,,,,,,,Crepe Jasmine-Tabernaemontana divaricata
 1175,,1,,,,,,,,,,,Crepe Jasmine-Tabernaemontana divaricata
 1175,,2,,,,,,,,,,,Crepe Jasmine-Tabernaemontana divaricata
@@ -8350,7 +8350,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1175,,44,,,,,,,,,,,Crepe Jasmine-Tabernaemontana divaricata
 1175,,45,,,,,,,,,,,Crepe Jasmine-Tabernaemontana divaricata
 1175,,46,,,,,,,,,,,Crepe Jasmine-Tabernaemontana divaricata
-1175,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Crepe Jasmine-Tabernaemontana divaricata
+1175,,47,,,,,,,,,,,Crepe Jasmine-Tabernaemontana divaricata
 1172,,0,,,,,,,,,,,Indian tulip tree-Thespesia populnea
 1172,,1,,,,,,,,,,,Indian tulip tree-Thespesia populnea
 1172,,2,,,,,,,,,,,Indian tulip tree-Thespesia populnea
@@ -8398,7 +8398,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1172,,44,,,,,,,,,,,Indian tulip tree-Thespesia populnea
 1172,,45,,,,,,,,,,,Indian tulip tree-Thespesia populnea
 1172,,46,,,,,,,,,,,Indian tulip tree-Thespesia populnea
-1172,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian tulip tree-Thespesia populnea
+1172,,47,,,,,,,,,,,Indian tulip tree-Thespesia populnea
 1182,,0,,,,,,,,,,,Custard apple-Annona squamosa
 1182,,1,,,,,,,,,,,Custard apple-Annona squamosa
 1182,,2,,,,,,,,,,,Custard apple-Annona squamosa
@@ -8446,7 +8446,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1182,,44,,,,,,,,,,,Custard apple-Annona squamosa
 1182,,45,,,,,,,,,,,Custard apple-Annona squamosa
 1182,,46,,,,,,,,,,,Custard apple-Annona squamosa
-1182,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Custard apple-Annona squamosa
+1182,,47,,,,,,,,,,,Custard apple-Annona squamosa
 1176,,0,,,,,,,,,,,Frangipani-Plumeria rubra
 1176,,1,,,,,,,,,,,Frangipani-Plumeria rubra
 1176,,2,,,,,,,,,,,Frangipani-Plumeria rubra
@@ -8494,7 +8494,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1176,,44,,,,,,,,,,,Frangipani-Plumeria rubra
 1176,,45,,,,,,,,,,,Frangipani-Plumeria rubra
 1176,,46,,,,,,,,,,,Frangipani-Plumeria rubra
-1176,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Frangipani-Plumeria rubra
+1176,,47,,,,,,,,,,,Frangipani-Plumeria rubra
 1179,,0,,,,,,,,,,,Bottle brush-Melaleuca viminalis
 1179,,1,,,,,,,,,,,Bottle brush-Melaleuca viminalis
 1179,,2,,,,,,,,,,,Bottle brush-Melaleuca viminalis
@@ -8542,7 +8542,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1179,,44,,,,,,,,,,,Bottle brush-Melaleuca viminalis
 1179,,45,,,,,,,,,,,Bottle brush-Melaleuca viminalis
 1179,,46,,,,,,,,,,,Bottle brush-Melaleuca viminalis
-1179,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Bottle brush-Melaleuca viminalis
+1179,,47,,,,,,,,,,,Bottle brush-Melaleuca viminalis
 1173,,0,,,,,,,,,,,Peach tree-Prunus persica
 1173,,1,,,,,,,,,,,Peach tree-Prunus persica
 1173,,2,,,,,,,,,,,Peach tree-Prunus persica
@@ -8590,7 +8590,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1173,,44,,,,,,,,,,,Peach tree-Prunus persica
 1173,,45,,,,,,,,,,,Peach tree-Prunus persica
 1173,,46,,,,,,,,,,,Peach tree-Prunus persica
-1173,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Peach tree-Prunus persica
+1173,,47,,,,,,,,,,,Peach tree-Prunus persica
 1180,,0,,,,,,,,,,,Pomelo tree-Citrus maxima
 1180,,1,,,,,,,,,,,Pomelo tree-Citrus maxima
 1180,,2,,,,,,,,,,,Pomelo tree-Citrus maxima
@@ -8638,7 +8638,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1180,,44,,,,,,,,,,,Pomelo tree-Citrus maxima
 1180,,45,,,,,,,,,,,Pomelo tree-Citrus maxima
 1180,,46,,,,,,,,,,,Pomelo tree-Citrus maxima
-1180,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Pomelo tree-Citrus maxima
+1180,,47,,,,,,,,,,,Pomelo tree-Citrus maxima
 1183,,0,,,,,,,,,,,Curry leaf plant-Murraya koenigii
 1183,,1,,,,,,,,,,,Curry leaf plant-Murraya koenigii
 1183,,2,,,,,,,,,,,Curry leaf plant-Murraya koenigii
@@ -8686,7 +8686,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1183,,44,,,,,,,,,,,Curry leaf plant-Murraya koenigii
 1183,,45,,,,,,,,,,,Curry leaf plant-Murraya koenigii
 1183,,46,,,,,,,,,,,Curry leaf plant-Murraya koenigii
-1183,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Curry leaf plant-Murraya koenigii
+1183,,47,,,,,,,,,,,Curry leaf plant-Murraya koenigii
 1181,,0,,,,,,,,,,,Dyers oleander-Wrightia tinctoria
 1181,,1,,,,,,,,,,,Dyers oleander-Wrightia tinctoria
 1181,,2,,,,,,,,,,,Dyers oleander-Wrightia tinctoria
@@ -8734,7 +8734,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1181,,44,,,,,,,,,,,Dyers oleander-Wrightia tinctoria
 1181,,45,,,,,,,,,,,Dyers oleander-Wrightia tinctoria
 1181,,46,,,,,,,,,,,Dyers oleander-Wrightia tinctoria
-1181,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Dyers oleander-Wrightia tinctoria
+1181,,47,,,,,,,,,,,Dyers oleander-Wrightia tinctoria
 1177,,0,,,,,,,,,,,Mexican oleander-Thevetia peruviana
 1177,,1,,,,,,,,,,,Mexican oleander-Thevetia peruviana
 1177,,2,,,,,,,,,,,Mexican oleander-Thevetia peruviana
@@ -8782,7 +8782,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1177,,44,,,,,,,,,,,Mexican oleander-Thevetia peruviana
 1177,,45,,,,,,,,,,,Mexican oleander-Thevetia peruviana
 1177,,46,,,,,,,,,,,Mexican oleander-Thevetia peruviana
-1177,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mexican oleander-Thevetia peruviana
+1177,,47,,,,,,,,,,,Mexican oleander-Thevetia peruviana
 1184,,0,,,,,,,,,,,Coconut palm-Cocos nucifera
 1184,,1,,,,,,,,,,,Coconut palm-Cocos nucifera
 1184,,2,,,,,,,,,,,Coconut palm-Cocos nucifera
@@ -8830,7 +8830,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1184,,44,,,,,,,,,,,Coconut palm-Cocos nucifera
 1184,,45,,,,,,,,,,,Coconut palm-Cocos nucifera
 1184,,46,,,,,,,,,,,Coconut palm-Cocos nucifera
-1184,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Coconut palm-Cocos nucifera
+1184,,47,,,,,,,,,,,Coconut palm-Cocos nucifera
 1186,,0,,,,,,,,,,,Pink pearl tree-Cordia dichotoma
 1186,,1,,,,,,,,,,,Pink pearl tree-Cordia dichotoma
 1186,,2,,,,,,,,,,,Pink pearl tree-Cordia dichotoma
@@ -8878,7 +8878,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1186,,44,,,,,,,,,,,Pink pearl tree-Cordia dichotoma
 1186,,45,,,,,,,,,,,Pink pearl tree-Cordia dichotoma
 1186,,46,,,,,,,,,,,Pink pearl tree-Cordia dichotoma
-1186,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Pink pearl tree-Cordia dichotoma
+1186,,47,,,,,,,,,,,Pink pearl tree-Cordia dichotoma
 1187,,0,,,,,,,,,,,Henna-Lawsonia inermis
 1187,,1,,,,,,,,,,,Henna-Lawsonia inermis
 1187,,2,,,,,,,,,,,Henna-Lawsonia inermis
@@ -8926,7 +8926,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1187,,44,,,,,,,,,,,Henna-Lawsonia inermis
 1187,,45,,,,,,,,,,,Henna-Lawsonia inermis
 1187,,46,,,,,,,,,,,Henna-Lawsonia inermis
-1187,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Henna-Lawsonia inermis
+1187,,47,,,,,,,,,,,Henna-Lawsonia inermis
 1185,,0,,,,,,,,,,,Five-leaved vitex-Vitex negundo
 1185,,1,,,,,,,,,,,Five-leaved vitex-Vitex negundo
 1185,,2,,,,,,,,,,,Five-leaved vitex-Vitex negundo
@@ -8974,7 +8974,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1185,,44,,,,,,,,,,,Five-leaved vitex-Vitex negundo
 1185,,45,,,,,,,,,,,Five-leaved vitex-Vitex negundo
 1185,,46,,,,,,,,,,,Five-leaved vitex-Vitex negundo
-1185,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Five-leaved vitex-Vitex negundo
+1185,,47,,,,,,,,,,,Five-leaved vitex-Vitex negundo
 1190,,0,,,,,,,,,,,Oriental cashew-Semecarpus anacardium
 1190,,1,,,,,,,,,,,Oriental cashew-Semecarpus anacardium
 1190,,2,,,,,,,,,,,Oriental cashew-Semecarpus anacardium
@@ -9022,7 +9022,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1190,,44,,,,,,,,,,,Oriental cashew-Semecarpus anacardium
 1190,,45,,,,,,,,,,,Oriental cashew-Semecarpus anacardium
 1190,,46,,,,,,,,,,,Oriental cashew-Semecarpus anacardium
-1190,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Oriental cashew-Semecarpus anacardium
+1190,,47,,,,,,,,,,,Oriental cashew-Semecarpus anacardium
 1188,,0,,,,,,,,,,,Chiku Sapodilla-Manilkara zapota
 1188,,1,,,,,,,,,,,Chiku Sapodilla-Manilkara zapota
 1188,,2,,,,,,,,,,,Chiku Sapodilla-Manilkara zapota
@@ -9070,7 +9070,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1188,,44,,,,,,,,,,,Chiku Sapodilla-Manilkara zapota
 1188,,45,,,,,,,,,,,Chiku Sapodilla-Manilkara zapota
 1188,,46,,,,,,,,,,,Chiku Sapodilla-Manilkara zapota
-1188,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Chiku Sapodilla-Manilkara zapota
+1188,,47,,,,,,,,,,,Chiku Sapodilla-Manilkara zapota
 1194,,0,,,,,,,,,,,Indian ash tree-Lannea coromandelica
 1194,,1,,,,,,,,,,,Indian ash tree-Lannea coromandelica
 1194,,2,,,,,,,,,,,Indian ash tree-Lannea coromandelica
@@ -9118,7 +9118,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1194,,44,,,,,,,,,,,Indian ash tree-Lannea coromandelica
 1194,,45,,,,,,,,,,,Indian ash tree-Lannea coromandelica
 1194,,46,,,,,,,,,,,Indian ash tree-Lannea coromandelica
-1194,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian ash tree-Lannea coromandelica
+1194,,47,,,,,,,,,,,Indian ash tree-Lannea coromandelica
 1191,,0,,,,,,,,,,,Chirauli nut-Buchanania cochinchinensis
 1191,,1,,,,,,,,,,,Chirauli nut-Buchanania cochinchinensis
 1191,,2,,,,,,,,,,,Chirauli nut-Buchanania cochinchinensis
@@ -9166,7 +9166,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1191,,44,,,,,,,,,,,Chirauli nut-Buchanania cochinchinensis
 1191,,45,,,,,,,,,,,Chirauli nut-Buchanania cochinchinensis
 1191,,46,,,,,,,,,,,Chirauli nut-Buchanania cochinchinensis
-1191,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Chirauli nut-Buchanania cochinchinensis
+1191,,47,,,,,,,,,,,Chirauli nut-Buchanania cochinchinensis
 1189,,0,,,,,,,,,,,Black myrobalan-Terminalia chebula
 1189,,1,,,,,,,,,,,Black myrobalan-Terminalia chebula
 1189,,2,,,,,,,,,,,Black myrobalan-Terminalia chebula
@@ -9214,7 +9214,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1189,,44,,,,,,,,,,,Black myrobalan-Terminalia chebula
 1189,,45,,,,,,,,,,,Black myrobalan-Terminalia chebula
 1189,,46,,,,,,,,,,,Black myrobalan-Terminalia chebula
-1189,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Black myrobalan-Terminalia chebula
+1189,,47,,,,,,,,,,,Black myrobalan-Terminalia chebula
 1195,,0,,,,,,,,,,,Indian frankinscence-Boswellia serrata
 1195,,1,,,,,,,,,,,Indian frankinscence-Boswellia serrata
 1195,,2,,,,,,,,,,,Indian frankinscence-Boswellia serrata
@@ -9262,7 +9262,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1195,,44,,,,,,,,,,,Indian frankinscence-Boswellia serrata
 1195,,45,,,,,,,,,,,Indian frankinscence-Boswellia serrata
 1195,,46,,,,,,,,,,,Indian frankinscence-Boswellia serrata
-1195,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian frankinscence-Boswellia serrata
+1195,,47,,,,,,,,,,,Indian frankinscence-Boswellia serrata
 1192,,0,,,,,,,,,,,Sohiong-Prunus nepalensis
 1192,,1,,,,,,,,,,,Sohiong-Prunus nepalensis
 1192,,2,,,,,,,,,,,Sohiong-Prunus nepalensis
@@ -9310,7 +9310,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1192,,44,,,,,,,,,,,Sohiong-Prunus nepalensis
 1192,,45,,,,,,,,,,,Sohiong-Prunus nepalensis
 1192,,46,,,,,,,,,,,Sohiong-Prunus nepalensis
-1192,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Sohiong-Prunus nepalensis
+1192,,47,,,,,,,,,,,Sohiong-Prunus nepalensis
 1196,,0,,,,,,,,,,,Garlic-pear tree-Crataeva religiosa
 1196,,1,,,,,,,,,,,Garlic-pear tree-Crataeva religiosa
 1196,,2,,,,,,,,,,,Garlic-pear tree-Crataeva religiosa
@@ -9358,7 +9358,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1196,,44,,,,,,,,,,,Garlic-pear tree-Crataeva religiosa
 1196,,45,,,,,,,,,,,Garlic-pear tree-Crataeva religiosa
 1196,,46,,,,,,,,,,,Garlic-pear tree-Crataeva religiosa
-1196,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Garlic-pear tree-Crataeva religiosa
+1196,,47,,,,,,,,,,,Garlic-pear tree-Crataeva religiosa
 1198,,0,,,,,,,,,,,Kardhai-Anogeissus pendula
 1198,,1,,,,,,,,,,,Kardhai-Anogeissus pendula
 1198,,2,,,,,,,,,,,Kardhai-Anogeissus pendula
@@ -9406,7 +9406,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1198,,44,,,,,,,,,,,Kardhai-Anogeissus pendula
 1198,,45,,,,,,,,,,,Kardhai-Anogeissus pendula
 1198,,46,,,,,,,,,,,Kardhai-Anogeissus pendula
-1198,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Kardhai-Anogeissus pendula
+1198,,47,,,,,,,,,,,Kardhai-Anogeissus pendula
 1193,,0,,,,,,,,,,,Pink Poui-Tabebuia rosea
 1193,,1,,,,,,,,,,,Pink Poui-Tabebuia rosea
 1193,,2,,,,,,,,,,,Pink Poui-Tabebuia rosea
@@ -9454,7 +9454,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1193,,44,,,,,,,,,,,Pink Poui-Tabebuia rosea
 1193,,45,,,,,,,,,,,Pink Poui-Tabebuia rosea
 1193,,46,,,,,,,,,,,Pink Poui-Tabebuia rosea
-1193,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Pink Poui-Tabebuia rosea
+1193,,47,,,,,,,,,,,Pink Poui-Tabebuia rosea
 1199,,0,,,,,,,,,,,Black Siris-Albizia odoratissima
 1199,,1,,,,,,,,,,,Black Siris-Albizia odoratissima
 1199,,2,,,,,,,,,,,Black Siris-Albizia odoratissima
@@ -9502,7 +9502,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1199,,44,,,,,,,,,,,Black Siris-Albizia odoratissima
 1199,,45,,,,,,,,,,,Black Siris-Albizia odoratissima
 1199,,46,,,,,,,,,,,Black Siris-Albizia odoratissima
-1199,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Black Siris-Albizia odoratissima
+1199,,47,,,,,,,,,,,Black Siris-Albizia odoratissima
 1202,,0,,,,,,,,,,,Chinese lantern tree-Dichrostachys cinerea
 1202,,1,,,,,,,,,,,Chinese lantern tree-Dichrostachys cinerea
 1202,,2,,,,,,,,,,,Chinese lantern tree-Dichrostachys cinerea
@@ -9550,7 +9550,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1202,,44,,,,,,,,,,,Chinese lantern tree-Dichrostachys cinerea
 1202,,45,,,,,,,,,,,Chinese lantern tree-Dichrostachys cinerea
 1202,,46,,,,,,,,,,,Chinese lantern tree-Dichrostachys cinerea
-1202,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Chinese lantern tree-Dichrostachys cinerea
+1202,,47,,,,,,,,,,,Chinese lantern tree-Dichrostachys cinerea
 1200,,0,,,,,,,,,,,Roheda-Tecomella undulata
 1200,,1,,,,,,,,,,,Roheda-Tecomella undulata
 1200,,2,,,,,,,,,,,Roheda-Tecomella undulata
@@ -9598,7 +9598,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1200,,44,,,,,,,,,,,Roheda-Tecomella undulata
 1200,,45,,,,,,,,,,,Roheda-Tecomella undulata
 1200,,46,,,,,,,,,,,Roheda-Tecomella undulata
-1200,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Roheda-Tecomella undulata
+1200,,47,,,,,,,,,,,Roheda-Tecomella undulata
 1203,,0,,,,,,,,,,,Cannonball tree-Couroupita guianensis
 1203,,1,,,,,,,,,,,Cannonball tree-Couroupita guianensis
 1203,,2,,,,,,,,,,,Cannonball tree-Couroupita guianensis
@@ -9646,7 +9646,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1203,,44,,,,,,,,,,,Cannonball tree-Couroupita guianensis
 1203,,45,,,,,,,,,,,Cannonball tree-Couroupita guianensis
 1203,,46,,,,,,,,,,,Cannonball tree-Couroupita guianensis
-1203,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Cannonball tree-Couroupita guianensis
+1203,,47,,,,,,,,,,,Cannonball tree-Couroupita guianensis
 1204,,0,,,,,,,,,,,White willow-Salix alba
 1204,,1,,,,,,,,,,,White willow-Salix alba
 1204,,2,,,,,,,,,,,White willow-Salix alba
@@ -9694,7 +9694,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1204,,44,,,,,,,,,,,White willow-Salix alba
 1204,,45,,,,,,,,,,,White willow-Salix alba
 1204,,46,,,,,,,,,,,White willow-Salix alba
-1204,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,White willow-Salix alba
+1204,,47,,,,,,,,,,,White willow-Salix alba
 1201,,0,,,,,,,,,,,Khejri-Prosopis cineraria
 1201,,1,,,,,,,,,,,Khejri-Prosopis cineraria
 1201,,2,,,,,,,,,,,Khejri-Prosopis cineraria
@@ -9742,7 +9742,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1201,,44,,,,,,,,,,,Khejri-Prosopis cineraria
 1201,,45,,,,,,,,,,,Khejri-Prosopis cineraria
 1201,,46,,,,,,,,,,,Khejri-Prosopis cineraria
-1201,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Khejri-Prosopis cineraria
+1201,,47,,,,,,,,,,,Khejri-Prosopis cineraria
 1197,,0,,,,,,,,,,,Soft fig-Ficus mollis
 1197,,1,,,,,,,,,,,Soft fig-Ficus mollis
 1197,,2,,,,,,,,,,,Soft fig-Ficus mollis
@@ -9790,7 +9790,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1197,,44,,,,,,,,,,,Soft fig-Ficus mollis
 1197,,45,,,,,,,,,,,Soft fig-Ficus mollis
 1197,,46,,,,,,,,,,,Soft fig-Ficus mollis
-1197,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Soft fig-Ficus mollis
+1197,,47,,,,,,,,,,,Soft fig-Ficus mollis
 1206,,0,,,,,,,,,,,Wild rose or Webbs rose-Rosa webbiana
 1206,,1,,,,,,,,,,,Wild rose or Webbs rose-Rosa webbiana
 1206,,2,,,,,,,,,,,Wild rose or Webbs rose-Rosa webbiana
@@ -9838,7 +9838,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1206,,44,,,,,,,,,,,Wild rose or Webbs rose-Rosa webbiana
 1206,,45,,,,,,,,,,,Wild rose or Webbs rose-Rosa webbiana
 1206,,46,,,,,,,,,,,Wild rose or Webbs rose-Rosa webbiana
-1206,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Wild rose or Webbs rose-Rosa webbiana
+1206,,47,,,,,,,,,,,Wild rose or Webbs rose-Rosa webbiana
 1207,,0,,,,,,,,,,,East Indian satinwood-Chloroxylon swietenia
 1207,,1,,,,,,,,,,,East Indian satinwood-Chloroxylon swietenia
 1207,,2,,,,,,,,,,,East Indian satinwood-Chloroxylon swietenia
@@ -9886,7 +9886,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1207,,44,,,,,,,,,,,East Indian satinwood-Chloroxylon swietenia
 1207,,45,,,,,,,,,,,East Indian satinwood-Chloroxylon swietenia
 1207,,46,,,,,,,,,,,East Indian satinwood-Chloroxylon swietenia
-1207,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,East Indian satinwood-Chloroxylon swietenia
+1207,,47,,,,,,,,,,,East Indian satinwood-Chloroxylon swietenia
 1205,,0,,,,,,,,,,,Himalayan poplar-Populus ciliata
 1205,,1,,,,,,,,,,,Himalayan poplar-Populus ciliata
 1205,,2,,,,,,,,,,,Himalayan poplar-Populus ciliata
@@ -9934,7 +9934,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1205,,44,,,,,,,,,,,Himalayan poplar-Populus ciliata
 1205,,45,,,,,,,,,,,Himalayan poplar-Populus ciliata
 1205,,46,,,,,,,,,,,Himalayan poplar-Populus ciliata
-1205,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Himalayan poplar-Populus ciliata
+1205,,47,,,,,,,,,,,Himalayan poplar-Populus ciliata
 1208,,0,,,,,,,,,,,Indian kino-Pterocarpus marsupium
 1208,,1,,,,,,,,,,,Indian kino-Pterocarpus marsupium
 1208,,2,,,,,,,,,,,Indian kino-Pterocarpus marsupium
@@ -9982,7 +9982,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1208,,44,,,,,,,,,,,Indian kino-Pterocarpus marsupium
 1208,,45,,,,,,,,,,,Indian kino-Pterocarpus marsupium
 1208,,46,,,,,,,,,,,Indian kino-Pterocarpus marsupium
-1208,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian kino-Pterocarpus marsupium
+1208,,47,,,,,,,,,,,Indian kino-Pterocarpus marsupium
 1210,,0,,,,,,,,,,,Powderpuff mangrove-Barringtonia racemosa
 1210,,1,,,,,,,,,,,Powderpuff mangrove-Barringtonia racemosa
 1210,,2,,,,,,,,,,,Powderpuff mangrove-Barringtonia racemosa
@@ -10030,7 +10030,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1210,,44,,,,,,,,,,,Powderpuff mangrove-Barringtonia racemosa
 1210,,45,,,,,,,,,,,Powderpuff mangrove-Barringtonia racemosa
 1210,,46,,,,,,,,,,,Powderpuff mangrove-Barringtonia racemosa
-1210,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Powderpuff mangrove-Barringtonia racemosa
+1210,,47,,,,,,,,,,,Powderpuff mangrove-Barringtonia racemosa
 1214,,0,,,,,,,,,,,Bhasa Balli-Goniothalamus macranthus
 1214,,1,,,,,,,,,,,Bhasa Balli-Goniothalamus macranthus
 1214,,2,,,,,,,,,,,Bhasa Balli-Goniothalamus macranthus
@@ -10078,7 +10078,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1214,,44,,,,,,,,,,,Bhasa Balli-Goniothalamus macranthus
 1214,,45,,,,,,,,,,,Bhasa Balli-Goniothalamus macranthus
 1214,,46,,,,,,,,,,,Bhasa Balli-Goniothalamus macranthus
-1214,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Bhasa Balli-Goniothalamus macranthus
+1214,,47,,,,,,,,,,,Bhasa Balli-Goniothalamus macranthus
 1218,,0,,,,,,,,,,,Khadi aam-Cerbera odollum
 1218,,1,,,,,,,,,,,Khadi aam-Cerbera odollum
 1218,,2,,,,,,,,,,,Khadi aam-Cerbera odollum
@@ -10126,7 +10126,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1218,,44,,,,,,,,,,,Khadi aam-Cerbera odollum
 1218,,45,,,,,,,,,,,Khadi aam-Cerbera odollum
 1218,,46,,,,,,,,,,,Khadi aam-Cerbera odollum
-1218,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Khadi aam-Cerbera odollum
+1218,,47,,,,,,,,,,,Khadi aam-Cerbera odollum
 1211,,0,,,,,,,,,,,Croaya-Tabernaemontana crispa
 1211,,1,,,,,,,,,,,Croaya-Tabernaemontana crispa
 1211,,2,,,,,,,,,,,Croaya-Tabernaemontana crispa
@@ -10174,7 +10174,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1211,,44,,,,,,,,,,,Croaya-Tabernaemontana crispa
 1211,,45,,,,,,,,,,,Croaya-Tabernaemontana crispa
 1211,,46,,,,,,,,,,,Croaya-Tabernaemontana crispa
-1211,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Croaya-Tabernaemontana crispa
+1211,,47,,,,,,,,,,,Croaya-Tabernaemontana crispa
 1209,,0,,,,,,,,,,,Hollong-Dipterocarpus retusus
 1209,,1,,,,,,,,,,,Hollong-Dipterocarpus retusus
 1209,,2,,,,,,,,,,,Hollong-Dipterocarpus retusus
@@ -10222,7 +10222,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1209,,44,,,,,,,,,,,Hollong-Dipterocarpus retusus
 1209,,45,,,,,,,,,,,Hollong-Dipterocarpus retusus
 1209,,46,,,,,,,,,,,Hollong-Dipterocarpus retusus
-1209,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Hollong-Dipterocarpus retusus
+1209,,47,,,,,,,,,,,Hollong-Dipterocarpus retusus
 1215,,0,,,,,,,,,,,Noni-Morinda citrifolia
 1215,,1,,,,,,,,,,,Noni-Morinda citrifolia
 1215,,2,,,,,,,,,,,Noni-Morinda citrifolia
@@ -10270,7 +10270,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1215,,44,,,,,,,,,,,Noni-Morinda citrifolia
 1215,,45,,,,,,,,,,,Noni-Morinda citrifolia
 1215,,46,,,,,,,,,,,Noni-Morinda citrifolia
-1215,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Noni-Morinda citrifolia
+1215,,47,,,,,,,,,,,Noni-Morinda citrifolia
 1212,,0,,,,,,,,,,,Meethabhaji-Champereia manillana
 1212,,1,,,,,,,,,,,Meethabhaji-Champereia manillana
 1212,,2,,,,,,,,,,,Meethabhaji-Champereia manillana
@@ -10318,7 +10318,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1212,,44,,,,,,,,,,,Meethabhaji-Champereia manillana
 1212,,45,,,,,,,,,,,Meethabhaji-Champereia manillana
 1212,,46,,,,,,,,,,,Meethabhaji-Champereia manillana
-1212,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Meethabhaji-Champereia manillana
+1212,,47,,,,,,,,,,,Meethabhaji-Champereia manillana
 1216,,0,,,,,,,,,,,Pyinma tree-Lagerstroemia hypoleuca
 1216,,1,,,,,,,,,,,Pyinma tree-Lagerstroemia hypoleuca
 1216,,2,,,,,,,,,,,Pyinma tree-Lagerstroemia hypoleuca
@@ -10366,7 +10366,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1216,,44,,,,,,,,,,,Pyinma tree-Lagerstroemia hypoleuca
 1216,,45,,,,,,,,,,,Pyinma tree-Lagerstroemia hypoleuca
 1216,,46,,,,,,,,,,,Pyinma tree-Lagerstroemia hypoleuca
-1216,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Pyinma tree-Lagerstroemia hypoleuca
+1216,,47,,,,,,,,,,,Pyinma tree-Lagerstroemia hypoleuca
 1219,,0,,,,,,,,,,,Flowering murdah-Terminalia paniculata
 1219,,1,,,,,,,,,,,Flowering murdah-Terminalia paniculata
 1219,,2,,,,,,,,,,,Flowering murdah-Terminalia paniculata
@@ -10414,7 +10414,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1219,,44,,,,,,,,,,,Flowering murdah-Terminalia paniculata
 1219,,45,,,,,,,,,,,Flowering murdah-Terminalia paniculata
 1219,,46,,,,,,,,,,,Flowering murdah-Terminalia paniculata
-1219,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Flowering murdah-Terminalia paniculata
+1219,,47,,,,,,,,,,,Flowering murdah-Terminalia paniculata
 1213,,0,,,,,,,,,,,Lepisanthes rubiginosa-Lepisanthes rubiginosa
 1213,,1,,,,,,,,,,,Lepisanthes rubiginosa-Lepisanthes rubiginosa
 1213,,2,,,,,,,,,,,Lepisanthes rubiginosa-Lepisanthes rubiginosa
@@ -10462,7 +10462,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1213,,44,,,,,,,,,,,Lepisanthes rubiginosa-Lepisanthes rubiginosa
 1213,,45,,,,,,,,,,,Lepisanthes rubiginosa-Lepisanthes rubiginosa
 1213,,46,,,,,,,,,,,Lepisanthes rubiginosa-Lepisanthes rubiginosa
-1213,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Lepisanthes rubiginosa-Lepisanthes rubiginosa
+1213,,47,,,,,,,,,,,Lepisanthes rubiginosa-Lepisanthes rubiginosa
 1217,,0,,,,,,,,,,,Guh-de-Crateva adansonii
 1217,,1,,,,,,,,,,,Guh-de-Crateva adansonii
 1217,,2,,,,,,,,,,,Guh-de-Crateva adansonii
@@ -10510,7 +10510,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1217,,44,,,,,,,,,,,Guh-de-Crateva adansonii
 1217,,45,,,,,,,,,,,Guh-de-Crateva adansonii
 1217,,46,,,,,,,,,,,Guh-de-Crateva adansonii
-1217,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Guh-de-Crateva adansonii
+1217,,47,,,,,,,,,,,Guh-de-Crateva adansonii
 1222,,0,,,,,,,,,,,English Yew-Taxus baccata
 1222,,1,,,,,,,,,,,English Yew-Taxus baccata
 1222,,2,,,,,,,,,,,English Yew-Taxus baccata
@@ -10558,7 +10558,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1222,,44,,,,,,,,,,,English Yew-Taxus baccata
 1222,,45,,,,,,,,,,,English Yew-Taxus baccata
 1222,,46,,,,,,,,,,,English Yew-Taxus baccata
-1222,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,English Yew-Taxus baccata
+1222,,47,,,,,,,,,,,English Yew-Taxus baccata
 1223,,0,,,,,,,,,,,Blue pine-Pinus wallichiana
 1223,,1,,,,,,,,,,,Blue pine-Pinus wallichiana
 1223,,2,,,,,,,,,,,Blue pine-Pinus wallichiana
@@ -10606,7 +10606,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1223,,44,,,,,,,,,,,Blue pine-Pinus wallichiana
 1223,,45,,,,,,,,,,,Blue pine-Pinus wallichiana
 1223,,46,,,,,,,,,,,Blue pine-Pinus wallichiana
-1223,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Blue pine-Pinus wallichiana
+1223,,47,,,,,,,,,,,Blue pine-Pinus wallichiana
 1224,,0,,,,,,,,,,,Chir pine-Pinus roxburghii
 1224,,1,,,,,,,,,,,Chir pine-Pinus roxburghii
 1224,,2,,,,,,,,,,,Chir pine-Pinus roxburghii
@@ -10654,7 +10654,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1224,,44,,,,,,,,,,,Chir pine-Pinus roxburghii
 1224,,45,,,,,,,,,,,Chir pine-Pinus roxburghii
 1224,,46,,,,,,,,,,,Chir pine-Pinus roxburghii
-1224,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Chir pine-Pinus roxburghii
+1224,,47,,,,,,,,,,,Chir pine-Pinus roxburghii
 1220,,0,,,,,,,,,,,Indian Mulberry-Morinda pubescens
 1220,,1,,,,,,,,,,,Indian Mulberry-Morinda pubescens
 1220,,2,,,,,,,,,,,Indian Mulberry-Morinda pubescens
@@ -10702,7 +10702,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1220,,44,,,,,,,,,,,Indian Mulberry-Morinda pubescens
 1220,,45,,,,,,,,,,,Indian Mulberry-Morinda pubescens
 1220,,46,,,,,,,,,,,Indian Mulberry-Morinda pubescens
-1220,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Mulberry-Morinda pubescens
+1220,,47,,,,,,,,,,,Indian Mulberry-Morinda pubescens
 1226,,0,,,,,,,,,,,Himalayan Pear-Pyrus pashia
 1226,,1,,,,,,,,,,,Himalayan Pear-Pyrus pashia
 1226,,2,,,,,,,,,,,Himalayan Pear-Pyrus pashia
@@ -10750,7 +10750,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1226,,44,,,,,,,,,,,Himalayan Pear-Pyrus pashia
 1226,,45,,,,,,,,,,,Himalayan Pear-Pyrus pashia
 1226,,46,,,,,,,,,,,Himalayan Pear-Pyrus pashia
-1226,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Himalayan Pear-Pyrus pashia
+1226,,47,,,,,,,,,,,Himalayan Pear-Pyrus pashia
 1221,,0,,,,,,,,,,,Mohru Oak-Quercus floribunda
 1221,,1,,,,,,,,,,,Mohru Oak-Quercus floribunda
 1221,,2,,,,,,,,,,,Mohru Oak-Quercus floribunda
@@ -10798,7 +10798,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1221,,44,,,,,,,,,,,Mohru Oak-Quercus floribunda
 1221,,45,,,,,,,,,,,Mohru Oak-Quercus floribunda
 1221,,46,,,,,,,,,,,Mohru Oak-Quercus floribunda
-1221,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Mohru Oak-Quercus floribunda
+1221,,47,,,,,,,,,,,Mohru Oak-Quercus floribunda
 1230,,0,,,,,,,,,,,Cypress-Cupressus torulosa
 1230,,1,,,,,,,,,,,Cypress-Cupressus torulosa
 1230,,2,,,,,,,,,,,Cypress-Cupressus torulosa
@@ -10846,7 +10846,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1230,,44,,,,,,,,,,,Cypress-Cupressus torulosa
 1230,,45,,,,,,,,,,,Cypress-Cupressus torulosa
 1230,,46,,,,,,,,,,,Cypress-Cupressus torulosa
-1230,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Cypress-Cupressus torulosa
+1230,,47,,,,,,,,,,,Cypress-Cupressus torulosa
 1231,,0,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1231,,1,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1231,,2,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
@@ -10894,7 +10894,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1231,,44,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1231,,45,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1231,,46,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
-1231,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Kharsu Oak-Quercus semecarpifolia
+1231,,47,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1228,,0,,,,,,,,,,,Himalayan Fir-Abies pindrow
 1228,,1,,,,,,,,,,,Himalayan Fir-Abies pindrow
 1228,,2,,,,,,,,,,,Himalayan Fir-Abies pindrow
@@ -10942,7 +10942,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1228,,44,,,,,,,,,,,Himalayan Fir-Abies pindrow
 1228,,45,,,,,,,,,,,Himalayan Fir-Abies pindrow
 1228,,46,,,,,,,,,,,Himalayan Fir-Abies pindrow
-1228,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Himalayan Fir-Abies pindrow
+1228,,47,,,,,,,,,,,Himalayan Fir-Abies pindrow
 1231,,0,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1231,,1,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1231,,2,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
@@ -10990,7 +10990,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1231,,44,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1231,,45,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1231,,46,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
-1231,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Kharsu Oak-Quercus semecarpifolia
+1231,,47,,,,,,,,,,,Kharsu Oak-Quercus semecarpifolia
 1225,,0,,,,,,,,,,,Deodar-Cedrus deodara
 1225,,1,,,,,,,,,,,Deodar-Cedrus deodara
 1225,,2,,,,,,,,,,,Deodar-Cedrus deodara
@@ -11038,7 +11038,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1225,,44,,,,,,,,,,,Deodar-Cedrus deodara
 1225,,45,,,,,,,,,,,Deodar-Cedrus deodara
 1225,,46,,,,,,,,,,,Deodar-Cedrus deodara
-1225,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Deodar-Cedrus deodara
+1225,,47,,,,,,,,,,,Deodar-Cedrus deodara
 1232,,0,,,,,,,,,,,Apple-Malus domestica
 1232,,1,,,,,,,,,,,Apple-Malus domestica
 1232,,2,,,,,,,,,,,Apple-Malus domestica
@@ -11086,7 +11086,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1232,,44,,,,,,,,,,,Apple-Malus domestica
 1232,,45,,,,,,,,,,,Apple-Malus domestica
 1232,,46,,,,,,,,,,,Apple-Malus domestica
-1232,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Apple-Malus domestica
+1232,,47,,,,,,,,,,,Apple-Malus domestica
 1229,,0,,,,,,,,,,,Himalayan silver fir-Abies spectabilis
 1229,,1,,,,,,,,,,,Himalayan silver fir-Abies spectabilis
 1229,,2,,,,,,,,,,,Himalayan silver fir-Abies spectabilis
@@ -11134,7 +11134,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1229,,44,,,,,,,,,,,Himalayan silver fir-Abies spectabilis
 1229,,45,,,,,,,,,,,Himalayan silver fir-Abies spectabilis
 1229,,46,,,,,,,,,,,Himalayan silver fir-Abies spectabilis
-1229,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Himalayan silver fir-Abies spectabilis
+1229,,47,,,,,,,,,,,Himalayan silver fir-Abies spectabilis
 1233,,0,,,,,,,,,,,Evergreen Maple-Acer oblongum
 1233,,1,,,,,,,,,,,Evergreen Maple-Acer oblongum
 1233,,2,,,,,,,,,,,Evergreen Maple-Acer oblongum
@@ -11182,7 +11182,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1233,,44,,,,,,,,,,,Evergreen Maple-Acer oblongum
 1233,,45,,,,,,,,,,,Evergreen Maple-Acer oblongum
 1233,,46,,,,,,,,,,,Evergreen Maple-Acer oblongum
-1233,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Evergreen Maple-Acer oblongum
+1233,,47,,,,,,,,,,,Evergreen Maple-Acer oblongum
 1237,,0,,,,,,,,,,,Indian Charcoal Tree-Trema orientale
 1237,,1,,,,,,,,,,,Indian Charcoal Tree-Trema orientale
 1237,,2,,,,,,,,,,,Indian Charcoal Tree-Trema orientale
@@ -11230,7 +11230,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1237,,44,,,,,,,,,,,Indian Charcoal Tree-Trema orientale
 1237,,45,,,,,,,,,,,Indian Charcoal Tree-Trema orientale
 1237,,46,,,,,,,,,,,Indian Charcoal Tree-Trema orientale
-1237,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian Charcoal Tree-Trema orientale
+1237,,47,,,,,,,,,,,Indian Charcoal Tree-Trema orientale
 1234,,0,,,,,,,,,,,Bhimal-Grewia optiva
 1234,,1,,,,,,,,,,,Bhimal-Grewia optiva
 1234,,2,,,,,,,,,,,Bhimal-Grewia optiva
@@ -11278,7 +11278,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1234,,44,,,,,,,,,,,Bhimal-Grewia optiva
 1234,,45,,,,,,,,,,,Bhimal-Grewia optiva
 1234,,46,,,,,,,,,,,Bhimal-Grewia optiva
-1234,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Bhimal-Grewia optiva
+1234,,47,,,,,,,,,,,Bhimal-Grewia optiva
 1238,,0,,,,,,,,,,,Indian prickly ash-Zanthoxylum rhetsa
 1238,,1,,,,,,,,,,,Indian prickly ash-Zanthoxylum rhetsa
 1238,,2,,,,,,,,,,,Indian prickly ash-Zanthoxylum rhetsa
@@ -11326,7 +11326,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1238,,44,,,,,,,,,,,Indian prickly ash-Zanthoxylum rhetsa
 1238,,45,,,,,,,,,,,Indian prickly ash-Zanthoxylum rhetsa
 1238,,46,,,,,,,,,,,Indian prickly ash-Zanthoxylum rhetsa
-1238,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Indian prickly ash-Zanthoxylum rhetsa
+1238,,47,,,,,,,,,,,Indian prickly ash-Zanthoxylum rhetsa
 1235,,0,,,,,,,,,,,Bedu-Ficus palmata
 1235,,1,,,,,,,,,,,Bedu-Ficus palmata
 1235,,2,,,,,,,,,,,Bedu-Ficus palmata
@@ -11374,7 +11374,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1235,,44,,,,,,,,,,,Bedu-Ficus palmata
 1235,,45,,,,,,,,,,,Bedu-Ficus palmata
 1235,,46,,,,,,,,,,,Bedu-Ficus palmata
-1235,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Bedu-Ficus palmata
+1235,,47,,,,,,,,,,,Bedu-Ficus palmata
 1239,,0,,,,,,,,,,,
 1239,,1,,,,,,,,,,,
 1239,,2,,,,,,,,,,,
@@ -11422,7 +11422,7 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1239,,44,,,,,,,,,,,
 1239,,45,,,,,,,,,,,
 1239,,46,,,,,,,,,,,
-1239,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,
+1239,,47,,,,,,,,,,,
 1236,,0,,,,,,,,,,,Lychee-Litchi chinensis
 1236,,1,,,,,,,,,,,Lychee-Litchi chinensis
 1236,,2,,,,,,,,,,,Lychee-Litchi chinensis
@@ -11470,4 +11470,4 @@ species_id,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flo
 1236,,44,,,,,,,,,,,Lychee-Litchi chinensis
 1236,,45,,,,,,,,,,,Lychee-Litchi chinensis
 1236,,46,,,,,,,,,,,Lychee-Litchi chinensis
-1236,,47,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,Lychee-Litchi chinensis
+1236,,47,,,,,,,,,,,Lychee-Litchi chinensis
