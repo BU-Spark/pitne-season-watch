@@ -56,3 +56,4 @@ for week in range(1):
     max_row = df_week_inliers.iloc[max_idx]
     
     print("best row: {}".format(max_row))
+    ref_data.append(max_row)
