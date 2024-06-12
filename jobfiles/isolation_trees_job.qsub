@@ -1,0 +1,23 @@
+#!/bin/bash -l
+
+# Submit job with the command: qsub job.qsub
+
+# Set the runtime limit (default 12 hours):
+#$ -l h_rt=12:00:00
+
+# Send email when the job is done (default: no email is sent)
+#$ -m e
+
+# Give the job a name (default: script name)
+#$ -N isolation_trees_test
+
+# Set SCC project
+#$ -P sparkpit
+
+# Request 2 CPUs
+#$ -pe omp 2
+
+# Request no GPUs
+#$ -l gpus=0
+
+module load miniconda/23.11.0 && cd /rprojectnb/sparkpit/pit-seasonwatch && conda activate seasonwatch-ml && python pitne-season-watch/isolation_trees.py
