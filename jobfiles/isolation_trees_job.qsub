@@ -27,4 +27,4 @@ echo "Job name : $JOB_NAME"
 echo "Job ID : $JOB_ID  $SGE_TASK_ID"
 echo "=========================================================="
 
-module load miniconda/23.11.0 && cd /rprojectnb/sparkpit/pit-seasonwatch && conda activate seasonwatch-ml && python pitne-season-watch/isolation_trees.py
+module load miniconda/23.11.0 && cd /rprojectnb/sparkpit/pit-seasonwatch && conda activate seasonwatch-ml && jupyter nbconvert --to script NOTEBOOK_NAME.ipynb && python NOTEBOOK_NAME.py
