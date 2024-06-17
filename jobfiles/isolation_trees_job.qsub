@@ -27,4 +27,10 @@ echo "Job name : $JOB_NAME"
 echo "Job ID : $JOB_ID  $SGE_TASK_ID"
 echo "=========================================================="
 
+# convert a notebook to a python script and run
 module load miniconda/23.11.0 && cd /rprojectnb/sparkpit/pit-seasonwatch && conda activate seasonwatch-ml && jupyter nbconvert --to script NOTEBOOK_NAME.ipynb && python NOTEBOOK_NAME.py
+
+# or...
+
+# run a python file
+module load miniconda/23.11.0 && cd /rprojectnb/sparkpit/pit-seasonwatch && conda activate seasonwatch-ml && python SCRIPTNAME.py
