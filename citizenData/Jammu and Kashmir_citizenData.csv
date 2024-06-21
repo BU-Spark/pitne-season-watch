@@ -1,0 +1,9 @@
+Observation_ID,Date_of_observation,User_id,User_Tree_id,Species_name,Lat,Long,State_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+699375.0,2023-10-31,23271.0,147397.0,Apple-Malus domestica,33.72254,75.14871,Jammu and Kashmir,1.0,1.0,2.0,0.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2023,39
+581159.0,2022-03-26,20285.0,112515.0,Apricot tree-Prunus armeniaca,34.24561,77.16045,Jammu and Kashmir,0.0,0.0,1.0,2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2022,11
+699373.0,2023-10-31,23271.0,147395.0,Apricot tree-Prunus armeniaca,33.72228,75.14874,Jammu and Kashmir,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,1.0,-2.0,2023,39
+325984.0,2019-06-15,20393.0,58180.0,Babool- Acacia nilotica,32.65307,74.80336,Jammu and Kashmir,2.0,1.0,0.0,0.0,0.0,-2.0,-2.0,2.0,1.0,-2.0,2019,21
+326013.0,2019-06-15,20393.0,58205.0,Devil's tree- Alstonia scholaris,32.65292,74.80711,Jammu and Kashmir,2.0,1.0,1.0,0.0,0.0,-2.0,-2.0,2.0,2.0,1.0,2019,21
+325996.0,2019-06-15,20393.0,58193.0,Mast Tree-Monoon longifolium,32.65307,74.80336,Jammu and Kashmir,2.0,1.0,0.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2019,21
+699379.0,2023-10-31,23271.0,147399.0,Peach tree-Prunus persica,33.72258,75.14869,Jammu and Kashmir,0.0,1.0,2.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
+699377.0,2023-10-31,23271.0,147398.0,Plum tree-Prunus domestica,33.72225,75.14865,Jammu and Kashmir,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2023,39
