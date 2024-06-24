@@ -1,2 +1,2 @@
-Observation_ID,Date_of_observation,User_id,User_Tree_id,Species_id,Species_name,Lat,Long,State_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
-235047.0,2018-12-01,15318.0,13567.0,1040.0,Gamar-Gmelina arborea,13.06697,77.57372,Lakshadweep,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,43
+Observation_ID,Date_of_observation,User_id,User_Tree_id,Species_id,Species_name,Lat,Long,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+235047.0,2018-12-01,15318.0,13567.0,1040.0,Gamar-Gmelina arborea,13.06697,77.57372,0.0,1.0,1.0,0.0,0.0,-2.0,-2.0,0.0,0.0,-2.0,2018,43
