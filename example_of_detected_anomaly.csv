@@ -1,0 +1,6 @@
+,Observation_ID,Date_of_observation,User_id,User_Tree_id,Species_name,Lat,Long,State_name,Leaves_fresh,Leaves_mature,Leaves_old,Flowers_bud,Flowers_open,Flowers_male,Flowers_Female,Fruits_unripe,Fruits_ripe,Fruits_open,Year,Week
+218859,286227.0,2018-12-17,4884.0,7138.0,Wood Apple- Aegle marmelos,8.53543,76.96352,Kerala,2.0,2.0,2.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2018,46
+218929,286658.0,2018-12-17,4884.0,7125.0,Wood Apple- Aegle marmelos,8.56742,77.01065,Kerala,1.0,1.0,1.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2018,46
+218928,286657.0,2018-12-24,4884.0,7125.0,Wood Apple- Aegle marmelos,8.56742,77.01065,Kerala,1.0,1.0,1.0,1.0,1.0,-2.0,-2.0,1.0,1.0,-2.0,2018,46
+219245,288352.0,2018-12-24,4884.0,7167.0,Wood Apple- Aegle marmelos,8.50388,76.94494,Kerala,2.0,2.0,2.0,2.0,2.0,-2.0,-2.0,2.0,2.0,-2.0,2018,46
+219246,288353.0,2018-12-17,4884.0,7167.0,Wood Apple- Aegle marmelos,8.50388,76.94494,Kerala,2.0,2.0,2.0,2.0,2.0,-2.0,-2.0,2.0,2.0,-2.0,2018,46

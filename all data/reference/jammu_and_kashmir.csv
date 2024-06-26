@@ -143,54 +143,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1012,Purple Bauhinia-Bauhinia purpurea,,45,,,,,,,,,,
 1012,Purple Bauhinia-Bauhinia purpurea,,46,,,,,,,,,,
 1012,Purple Bauhinia-Bauhinia purpurea,,47,,,,,,,,,,
-1002,Wood Apple-Aegle marmelos,,0,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,1,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,2,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,3,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,4,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,5,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,6,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,7,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,8,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,9,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,10,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,11,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,12,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,13,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,14,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,15,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,16,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,17,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,18,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,19,,,,0.0,0.0,,,0.0,0.0,
-1002,Wood Apple-Aegle marmelos,,20,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,21,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,22,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,23,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,24,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,25,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,26,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,27,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,28,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,29,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,30,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,31,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,32,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,33,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,34,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,35,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,36,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,37,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,38,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,39,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,40,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,41,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,42,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,43,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,44,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,45,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,46,,,,1.0,1.0,,,1.0,1.0,
-1002,Wood Apple-Aegle marmelos,,47,,,,1.0,1.0,,,1.0,1.0,
+1002,Wood Apple-Aegle marmelos,,0,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,1,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,2,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,3,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,4,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,5,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,6,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,7,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,8,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,9,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,10,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,11,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,12,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,13,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,14,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,15,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,16,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,17,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,18,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,19,,,,0,0,,,0,0,
+1002,Wood Apple-Aegle marmelos,,20,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,21,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,22,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,23,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,24,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,25,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,26,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,27,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,28,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,29,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,30,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,31,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,32,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,33,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,34,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,35,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,36,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,37,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,38,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,39,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,40,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,41,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,42,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,43,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,44,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,45,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,46,,,,1,1,,,1,1,
+1002,Wood Apple-Aegle marmelos,,47,,,,1,1,,,1,1,
 1017,Flame of the Forest-Butea monosperma,,0,,,,,,,,,,
 1017,Flame of the Forest-Butea monosperma,,1,,,,,,,,,,
 1017,Flame of the Forest-Butea monosperma,,2,,,,,,,,,,
@@ -335,54 +335,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1013,Jhinjheri-Bauhinia racemosa,,45,,,,,,,,,,
 1013,Jhinjheri-Bauhinia racemosa,,46,,,,,,,,,,
 1013,Jhinjheri-Bauhinia racemosa,,47,,,,,,,,,,
-1003,Indian Horsechestnut-Aesculus indica,,0,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,1,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,2,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,3,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,4,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,5,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,6,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,7,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,8,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,9,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,10,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,11,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,12,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,13,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,14,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,15,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,16,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,17,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,18,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,19,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,20,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,21,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,22,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,23,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,24,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,25,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,26,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,27,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,28,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,29,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,30,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,31,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,32,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,33,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,34,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,35,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,36,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,37,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,38,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,39,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,40,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,41,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,42,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,43,,,,1.0,1.0,,,1.0,1.0,1.0
-1003,Indian Horsechestnut-Aesculus indica,,44,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,45,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,46,,,,0.0,0.0,,,0.0,0.0,0.0
-1003,Indian Horsechestnut-Aesculus indica,,47,,,,0.0,0.0,,,0.0,0.0,0.0
+1003,Indian Horsechestnut-Aesculus indica,,0,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,1,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,2,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,3,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,4,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,5,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,6,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,7,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,8,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,9,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,10,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,11,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,12,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,13,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,14,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,15,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,16,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,17,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,18,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,19,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,20,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,21,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,22,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,23,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,24,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,25,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,26,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,27,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,28,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,29,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,30,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,31,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,32,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,33,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,34,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,35,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,36,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,37,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,38,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,39,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,40,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,41,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,42,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,43,,,,1,1,,,1,1,1
+1003,Indian Horsechestnut-Aesculus indica,,44,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,45,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,46,,,,0,0,,,0,0,0
+1003,Indian Horsechestnut-Aesculus indica,,47,,,,0,0,,,0,0,0
 1019,Fish-tail Palm-Caryota urens,,0,,,,,,,,,,
 1019,Fish-tail Palm-Caryota urens,,1,,,,,,,,,,
 1019,Fish-tail Palm-Caryota urens,,2,,,,,,,,,,
@@ -767,54 +767,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1014,Semla-Bauhinia retusa,,45,,,,,,,,,,
 1014,Semla-Bauhinia retusa,,46,,,,,,,,,,
 1014,Semla-Bauhinia retusa,,47,,,,,,,,,,
-1004,Tree of Heaven-Ailanthus excelsa,,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,1,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,2,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,3,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,4,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,5,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,6,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,7,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,8,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,9,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,10,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,11,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,12,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,13,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,14,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,15,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,16,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,17,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,18,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,19,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,20,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,21,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,22,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,23,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,24,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,25,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,26,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,27,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,28,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,29,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,30,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,31,,,,1.0,1.0,1.0,1.0,1.0,1.0,
-1004,Tree of Heaven-Ailanthus excelsa,,32,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,33,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,34,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,35,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,36,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,37,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,38,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,39,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,40,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,41,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,42,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,43,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,44,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,45,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,46,,,,0.0,0.0,0.0,0.0,0.0,0.0,
-1004,Tree of Heaven-Ailanthus excelsa,,47,,,,0.0,0.0,0.0,0.0,0.0,0.0,
+1004,Tree of Heaven-Ailanthus excelsa,,0,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,1,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,2,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,3,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,4,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,5,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,6,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,7,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,8,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,9,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,10,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,11,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,12,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,13,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,14,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,15,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,16,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,17,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,18,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,19,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,20,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,21,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,22,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,23,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,24,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,25,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,26,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,27,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,28,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,29,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,30,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,31,,,,1,1,1,1,1,1,
+1004,Tree of Heaven-Ailanthus excelsa,,32,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,33,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,34,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,35,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,36,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,37,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,38,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,39,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,40,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,41,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,42,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,43,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,44,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,45,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,46,,,,0,0,0,0,0,0,
+1004,Tree of Heaven-Ailanthus excelsa,,47,,,,0,0,0,0,0,0,
 1008,Devil's Tree-Alstonia scholaris,,0,,,,,,,,,,
 1008,Devil's Tree-Alstonia scholaris,,1,,,,,,,,,,
 1008,Devil's Tree-Alstonia scholaris,,2,,,,,,,,,,
@@ -911,54 +911,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1026,Large Sebesten-Cordia wallichii,,45,,,,,,,,,,
 1026,Large Sebesten-Cordia wallichii,,46,,,,,,,,,,
 1026,Large Sebesten-Cordia wallichii,,47,,,,,,,,,,
-1015,Red Silk Cotton-Bombax ceiba,,0,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,1,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,2,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,3,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,4,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,5,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,6,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,7,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,8,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,9,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,10,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,11,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,12,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,13,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,14,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,15,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,16,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,17,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,18,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,19,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,20,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,21,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,22,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,23,,,,1.0,1.0,,,1.0,1.0,1.0
-1015,Red Silk Cotton-Bombax ceiba,,24,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,25,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,26,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,27,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,28,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,29,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,30,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,31,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,32,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,33,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,34,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,35,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,36,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,37,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,38,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,39,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,40,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,41,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,42,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,43,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,44,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,45,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,46,,,,0.0,0.0,,,0.0,0.0,0.0
-1015,Red Silk Cotton-Bombax ceiba,,47,,,,0.0,0.0,,,0.0,0.0,0.0
+1015,Red Silk Cotton-Bombax ceiba,,0,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,1,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,2,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,3,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,4,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,5,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,6,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,7,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,8,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,9,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,10,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,11,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,12,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,13,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,14,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,15,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,16,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,17,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,18,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,19,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,20,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,21,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,22,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,23,,,,1,1,,,1,1,1
+1015,Red Silk Cotton-Bombax ceiba,,24,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,25,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,26,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,27,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,28,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,29,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,30,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,31,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,32,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,33,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,34,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,35,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,36,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,37,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,38,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,39,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,40,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,41,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,42,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,43,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,44,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,45,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,46,,,,0,0,,,0,0,0
+1015,Red Silk Cotton-Bombax ceiba,,47,,,,0,0,,,0,0,0
 1005,Krishna Siris-Albizia amara,,0,,,,,,,,,,
 1005,Krishna Siris-Albizia amara,,1,,,,,,,,,,
 1005,Krishna Siris-Albizia amara,,2,,,,,,,,,,
@@ -1007,54 +1007,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1005,Krishna Siris-Albizia amara,,45,,,,,,,,,,
 1005,Krishna Siris-Albizia amara,,46,,,,,,,,,,
 1005,Krishna Siris-Albizia amara,,47,,,,,,,,,,
-1027,Tanner's Tree-Coriaria nepalensis,,0,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,1,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,2,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,3,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,4,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,5,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,6,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,7,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,8,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,9,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,10,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,11,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,12,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,13,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,14,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,15,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,16,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,17,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,18,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,19,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,20,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,21,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,22,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,23,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,24,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,25,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,26,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,27,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,28,,,,1.0,,1.0,1.0,1.0,1.0,
-1027,Tanner's Tree-Coriaria nepalensis,,29,,,,1.0,,1.0,1.0,1.0,1.0,
-1027,Tanner's Tree-Coriaria nepalensis,,30,,,,1.0,,1.0,1.0,1.0,1.0,
-1027,Tanner's Tree-Coriaria nepalensis,,31,,,,1.0,,1.0,1.0,1.0,1.0,
-1027,Tanner's Tree-Coriaria nepalensis,,32,,,,1.0,,1.0,1.0,1.0,1.0,
-1027,Tanner's Tree-Coriaria nepalensis,,33,,,,1.0,,1.0,1.0,1.0,1.0,
-1027,Tanner's Tree-Coriaria nepalensis,,34,,,,1.0,,1.0,1.0,1.0,1.0,
-1027,Tanner's Tree-Coriaria nepalensis,,35,,,,1.0,,1.0,1.0,1.0,1.0,
-1027,Tanner's Tree-Coriaria nepalensis,,36,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,37,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,38,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,39,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,40,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,41,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,42,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,43,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,44,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,45,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,46,,,,0.0,,0.0,0.0,0.0,0.0,
-1027,Tanner's Tree-Coriaria nepalensis,,47,,,,0.0,,0.0,0.0,0.0,0.0,
+1027,Tanner's Tree-Coriaria nepalensis,,0,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,1,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,2,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,3,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,4,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,5,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,6,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,7,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,8,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,9,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,10,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,11,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,12,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,13,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,14,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,15,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,16,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,17,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,18,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,19,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,20,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,21,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,22,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,23,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,24,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,25,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,26,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,27,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,28,,,,1,,1,1,1,1,
+1027,Tanner's Tree-Coriaria nepalensis,,29,,,,1,,1,1,1,1,
+1027,Tanner's Tree-Coriaria nepalensis,,30,,,,1,,1,1,1,1,
+1027,Tanner's Tree-Coriaria nepalensis,,31,,,,1,,1,1,1,1,
+1027,Tanner's Tree-Coriaria nepalensis,,32,,,,1,,1,1,1,1,
+1027,Tanner's Tree-Coriaria nepalensis,,33,,,,1,,1,1,1,1,
+1027,Tanner's Tree-Coriaria nepalensis,,34,,,,1,,1,1,1,1,
+1027,Tanner's Tree-Coriaria nepalensis,,35,,,,1,,1,1,1,1,
+1027,Tanner's Tree-Coriaria nepalensis,,36,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,37,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,38,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,39,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,40,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,41,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,42,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,43,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,44,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,45,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,46,,,,0,,0,0,0,0,
+1027,Tanner's Tree-Coriaria nepalensis,,47,,,,0,,0,0,0,0,
 1016,Toddy Palm-Borassus flabellifer,,0,,,,,,,,,,
 1016,Toddy Palm-Borassus flabellifer,,1,,,,,,,,,,
 1016,Toddy Palm-Borassus flabellifer,,2,,,,,,,,,,
@@ -1775,54 +1775,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1009,Axlewood-Anogeissus latifolia,,45,,,,,,,,,,
 1009,Axlewood-Anogeissus latifolia,,46,,,,,,,,,,
 1009,Axlewood-Anogeissus latifolia,,47,,,,,,,,,,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,0,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,1,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,2,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,3,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,4,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,5,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,6,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,7,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,8,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,9,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,10,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,11,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,12,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,13,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,14,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,15,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,16,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,17,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,18,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,19,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,20,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,21,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,22,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,23,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,24,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,25,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,26,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,27,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,28,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,29,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,30,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,31,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,32,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,33,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,34,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,35,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,36,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,37,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,38,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,39,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,40,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,41,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,42,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,43,,,,1.0,1.0,,,1.0,1.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,44,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,45,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,46,,,,0.0,0.0,,,0.0,0.0,
-1044,"Roxburghs Kydia, Pulia-Kydia calycina",,47,,,,0.0,0.0,,,0.0,0.0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,0,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,1,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,2,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,3,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,4,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,5,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,6,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,7,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,8,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,9,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,10,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,11,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,12,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,13,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,14,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,15,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,16,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,17,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,18,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,19,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,20,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,21,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,22,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,23,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,24,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,25,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,26,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,27,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,28,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,29,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,30,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,31,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,32,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,33,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,34,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,35,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,36,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,37,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,38,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,39,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,40,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,41,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,42,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,43,,,,1,1,,,1,1,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,44,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,45,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,46,,,,0,0,,,0,0,
+1044,"Roxburghs Kydia, Pulia-Kydia calycina",,47,,,,0,0,,,0,0,
 1036,Country Fig-Ficus racemosa,,0,,,,,,,,,,
 1036,Country Fig-Ficus racemosa,,1,,,,,,,,,,
 1036,Country Fig-Ficus racemosa,,2,,,,,,,,,,
@@ -2063,54 +2063,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1041,Indian Elm-Holoptelea integrifolia,,45,,,,,,,,,,
 1041,Indian Elm-Holoptelea integrifolia,,46,,,,,,,,,,
 1041,Indian Elm-Holoptelea integrifolia,,47,,,,,,,,,,
-1011,Neem-Azadirachta indica,,0,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,1,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,2,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,3,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,4,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,5,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,6,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,7,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,8,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,9,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,10,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,11,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,12,,,,1.0,1.0,,,1.0,1.0,
-1011,Neem-Azadirachta indica,,13,,,,1.0,1.0,,,1.0,1.0,
-1011,Neem-Azadirachta indica,,14,,,,1.0,1.0,,,1.0,1.0,
-1011,Neem-Azadirachta indica,,15,,,,1.0,1.0,,,1.0,1.0,
-1011,Neem-Azadirachta indica,,16,,,,1.0,1.0,,,1.0,1.0,
-1011,Neem-Azadirachta indica,,17,,,,1.0,1.0,,,1.0,1.0,
-1011,Neem-Azadirachta indica,,18,,,,1.0,1.0,,,1.0,1.0,
-1011,Neem-Azadirachta indica,,19,,,,1.0,1.0,,,1.0,1.0,
-1011,Neem-Azadirachta indica,,20,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,21,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,22,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,23,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,24,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,25,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,26,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,27,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,28,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,29,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,30,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,31,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,32,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,33,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,34,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,35,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,36,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,37,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,38,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,39,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,40,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,41,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,42,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,43,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,44,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,45,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,46,,,,0.0,0.0,,,0.0,0.0,
-1011,Neem-Azadirachta indica,,47,,,,0.0,0.0,,,0.0,0.0,
+1011,Neem-Azadirachta indica,,0,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,1,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,2,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,3,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,4,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,5,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,6,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,7,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,8,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,9,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,10,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,11,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,12,,,,1,1,,,1,1,
+1011,Neem-Azadirachta indica,,13,,,,1,1,,,1,1,
+1011,Neem-Azadirachta indica,,14,,,,1,1,,,1,1,
+1011,Neem-Azadirachta indica,,15,,,,1,1,,,1,1,
+1011,Neem-Azadirachta indica,,16,,,,1,1,,,1,1,
+1011,Neem-Azadirachta indica,,17,,,,1,1,,,1,1,
+1011,Neem-Azadirachta indica,,18,,,,1,1,,,1,1,
+1011,Neem-Azadirachta indica,,19,,,,1,1,,,1,1,
+1011,Neem-Azadirachta indica,,20,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,21,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,22,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,23,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,24,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,25,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,26,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,27,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,28,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,29,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,30,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,31,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,32,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,33,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,34,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,35,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,36,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,37,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,38,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,39,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,40,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,41,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,42,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,43,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,44,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,45,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,46,,,,0,0,,,0,0,
+1011,Neem-Azadirachta indica,,47,,,,0,0,,,0,0,
 1042,Jacaranda-Jacaranda mimosifolia,,0,,,,,,,,,,
 1042,Jacaranda-Jacaranda mimosifolia,,1,,,,,,,,,,
 1042,Jacaranda-Jacaranda mimosifolia,,2,,,,,,,,,,
@@ -2351,54 +2351,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1053,Indian Cork Tree-Millingtonia hortensis,,45,,,,,,,,,,
 1053,Indian Cork Tree-Millingtonia hortensis,,46,,,,,,,,,,
 1053,Indian Cork Tree-Millingtonia hortensis,,47,,,,,,,,,,
-1050,Chinaberry-Melia azedarach,,0,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,1,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,2,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,3,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,4,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,5,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,6,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,7,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,8,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,9,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,10,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,11,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,12,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,13,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,14,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,15,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,16,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,17,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,18,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,19,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,20,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,21,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,22,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,23,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,24,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,25,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,26,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,27,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,28,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,29,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,30,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,31,,,,1.0,1.0,,,1.0,1.0,
-1050,Chinaberry-Melia azedarach,,32,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,33,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,34,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,35,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,36,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,37,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,38,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,39,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,40,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,41,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,42,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,43,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,44,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,45,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,46,,,,0.0,0.0,,,0.0,0.0,
-1050,Chinaberry-Melia azedarach,,47,,,,0.0,0.0,,,0.0,0.0,
+1050,Chinaberry-Melia azedarach,,0,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,1,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,2,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,3,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,4,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,5,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,6,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,7,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,8,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,9,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,10,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,11,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,12,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,13,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,14,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,15,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,16,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,17,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,18,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,19,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,20,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,21,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,22,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,23,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,24,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,25,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,26,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,27,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,28,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,29,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,30,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,31,,,,1,1,,,1,1,
+1050,Chinaberry-Melia azedarach,,32,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,33,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,34,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,35,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,36,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,37,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,38,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,39,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,40,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,41,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,42,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,43,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,44,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,45,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,46,,,,0,0,,,0,0,
+1050,Chinaberry-Melia azedarach,,47,,,,0,0,,,0,0,
 1047,Chandada-Macaranga peltata,,0,,,,,,,,,,
 1047,Chandada-Macaranga peltata,,1,,,,,,,,,,
 1047,Chandada-Macaranga peltata,,2,,,,,,,,,,
@@ -3071,54 +3071,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1061,Copper-pod-Peltophorum pterocarpum,,45,,,,,,,,,,
 1061,Copper-pod-Peltophorum pterocarpum,,46,,,,,,,,,,
 1061,Copper-pod-Peltophorum pterocarpum,,47,,,,,,,,,,
-1068,Kanak Champa-Pterospermum acerifolium,,0,,,,0.0,0.0,,,0.0,0.0,0.0
-1068,Kanak Champa-Pterospermum acerifolium,,1,,,,0.0,0.0,,,0.0,0.0,0.0
-1068,Kanak Champa-Pterospermum acerifolium,,2,,,,0.0,0.0,,,0.0,0.0,0.0
-1068,Kanak Champa-Pterospermum acerifolium,,3,,,,0.0,0.0,,,0.0,0.0,0.0
-1068,Kanak Champa-Pterospermum acerifolium,,4,,,,0.0,0.0,,,0.0,0.0,0.0
-1068,Kanak Champa-Pterospermum acerifolium,,5,,,,0.0,0.0,,,0.0,0.0,0.0
-1068,Kanak Champa-Pterospermum acerifolium,,6,,,,0.0,0.0,,,0.0,0.0,0.0
-1068,Kanak Champa-Pterospermum acerifolium,,7,,,,0.0,0.0,,,0.0,0.0,0.0
-1068,Kanak Champa-Pterospermum acerifolium,,8,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,9,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,10,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,11,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,12,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,13,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,14,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,15,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,16,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,17,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,18,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,19,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,20,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,21,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,22,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,23,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,24,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,25,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,26,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,27,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,28,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,29,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,30,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,31,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,32,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,33,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,34,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,35,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,36,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,37,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,38,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,39,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,40,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,41,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,42,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,43,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,44,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,45,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,46,,,,1.0,1.0,,,1.0,1.0,1.0
-1068,Kanak Champa-Pterospermum acerifolium,,47,,,,1.0,1.0,,,1.0,1.0,1.0
+1068,Kanak Champa-Pterospermum acerifolium,,0,,,,0,0,,,0,0,0
+1068,Kanak Champa-Pterospermum acerifolium,,1,,,,0,0,,,0,0,0
+1068,Kanak Champa-Pterospermum acerifolium,,2,,,,0,0,,,0,0,0
+1068,Kanak Champa-Pterospermum acerifolium,,3,,,,0,0,,,0,0,0
+1068,Kanak Champa-Pterospermum acerifolium,,4,,,,0,0,,,0,0,0
+1068,Kanak Champa-Pterospermum acerifolium,,5,,,,0,0,,,0,0,0
+1068,Kanak Champa-Pterospermum acerifolium,,6,,,,0,0,,,0,0,0
+1068,Kanak Champa-Pterospermum acerifolium,,7,,,,0,0,,,0,0,0
+1068,Kanak Champa-Pterospermum acerifolium,,8,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,9,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,10,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,11,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,12,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,13,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,14,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,15,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,16,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,17,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,18,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,19,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,20,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,21,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,22,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,23,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,24,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,25,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,26,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,27,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,28,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,29,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,30,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,31,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,32,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,33,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,34,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,35,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,36,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,37,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,38,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,39,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,40,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,41,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,42,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,43,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,44,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,45,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,46,,,,1,1,,,1,1,1
+1068,Kanak Champa-Pterospermum acerifolium,,47,,,,1,1,,,1,1,1
 1066,Pongam Tree-Pongamia pinnata,,0,,,,,,,,,,
 1066,Pongam Tree-Pongamia pinnata,,1,,,,,,,,,,
 1066,Pongam Tree-Pongamia pinnata,,2,,,,,,,,,,
@@ -3503,54 +3503,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1071,Himalayan Rhododendron-Rhododendron arboreum,,45,,,,,,,,,,
 1071,Himalayan Rhododendron-Rhododendron arboreum,,46,,,,,,,,,,
 1071,Himalayan Rhododendron-Rhododendron arboreum,,47,,,,,,,,,,
-1075,Sal-Shorea robusta,,0,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,1,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,2,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,3,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,4,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,5,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,6,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,7,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,8,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,9,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,10,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,11,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,12,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,13,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,14,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,15,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,16,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,17,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,18,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,19,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,20,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,21,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,22,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,23,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,24,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,25,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,26,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,27,,,,1.0,1.0,,,1.0,1.0,
-1075,Sal-Shorea robusta,,28,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,29,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,30,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,31,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,32,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,33,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,34,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,35,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,36,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,37,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,38,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,39,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,40,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,41,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,42,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,43,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,44,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,45,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,46,,,,0.0,0.0,,,0.0,0.0,
-1075,Sal-Shorea robusta,,47,,,,0.0,0.0,,,0.0,0.0,
+1075,Sal-Shorea robusta,,0,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,1,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,2,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,3,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,4,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,5,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,6,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,7,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,8,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,9,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,10,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,11,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,12,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,13,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,14,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,15,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,16,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,17,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,18,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,19,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,20,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,21,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,22,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,23,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,24,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,25,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,26,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,27,,,,1,1,,,1,1,
+1075,Sal-Shorea robusta,,28,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,29,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,30,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,31,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,32,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,33,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,34,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,35,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,36,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,37,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,38,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,39,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,40,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,41,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,42,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,43,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,44,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,45,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,46,,,,0,0,,,0,0,
+1075,Sal-Shorea robusta,,47,,,,0,0,,,0,0,
 1078,Ghost Tree-Sterculia urens,,0,,,,,,,,,,
 1078,Ghost Tree-Sterculia urens,,1,,,,,,,,,,
 1078,Ghost Tree-Sterculia urens,,2,,,,,,,,,,
@@ -4031,54 +4031,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1076,African Tulip-Spathodea campanulata,,45,,,,,,,,,,
 1076,African Tulip-Spathodea campanulata,,46,,,,,,,,,,
 1076,African Tulip-Spathodea campanulata,,47,,,,,,,,,,
-1087,Indian Mahogany-Toona ciliata,,0,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,1,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,2,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,3,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,4,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,5,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,6,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,7,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,8,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,9,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,10,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,11,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,12,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,13,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,14,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,15,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,16,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,17,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,18,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,19,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,20,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,21,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,22,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,23,,,,1.0,1.0,,,1.0,1.0,1.0
-1087,Indian Mahogany-Toona ciliata,,24,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,25,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,26,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,27,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,28,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,29,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,30,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,31,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,32,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,33,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,34,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,35,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,36,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,37,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,38,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,39,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,40,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,41,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,42,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,43,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,44,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,45,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,46,,,,0.0,0.0,,,0.0,0.0,0.0
-1087,Indian Mahogany-Toona ciliata,,47,,,,0.0,0.0,,,0.0,0.0,0.0
+1087,Indian Mahogany-Toona ciliata,,0,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,1,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,2,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,3,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,4,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,5,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,6,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,7,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,8,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,9,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,10,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,11,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,12,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,13,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,14,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,15,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,16,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,17,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,18,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,19,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,20,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,21,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,22,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,23,,,,1,1,,,1,1,1
+1087,Indian Mahogany-Toona ciliata,,24,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,25,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,26,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,27,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,28,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,29,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,30,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,31,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,32,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,33,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,34,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,35,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,36,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,37,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,38,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,39,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,40,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,41,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,42,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,43,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,44,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,45,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,46,,,,0,0,,,0,0,0
+1087,Indian Mahogany-Toona ciliata,,47,,,,0,0,,,0,0,0
 1082,Teak-Tectona grandis,,0,,,,,,,,,,
 1082,Teak-Tectona grandis,,1,,,,,,,,,,
 1082,Teak-Tectona grandis,,2,,,,,,,,,,
@@ -4223,54 +4223,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1077,Wild Almond-Sterculia foetida,,45,,,,,,,,,,
 1077,Wild Almond-Sterculia foetida,,46,,,,,,,,,,
 1077,Wild Almond-Sterculia foetida,,47,,,,,,,,,,
-1089,Ber-Ziziphus mauritiana,,0,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,1,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,2,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,3,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,4,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,5,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,6,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,7,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,8,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,9,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,10,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,11,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,12,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,13,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,14,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,15,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,16,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,17,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,18,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,19,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,20,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,21,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,22,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,23,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,24,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,25,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,26,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,27,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,28,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,29,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,30,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,31,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,32,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,33,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,34,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,35,,,,1.0,1.0,,,1.0,1.0,
-1089,Ber-Ziziphus mauritiana,,36,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,37,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,38,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,39,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,40,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,41,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,42,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,43,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,44,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,45,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,46,,,,0.0,0.0,,,0.0,0.0,
-1089,Ber-Ziziphus mauritiana,,47,,,,0.0,0.0,,,0.0,0.0,
+1089,Ber-Ziziphus mauritiana,,0,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,1,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,2,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,3,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,4,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,5,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,6,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,7,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,8,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,9,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,10,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,11,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,12,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,13,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,14,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,15,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,16,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,17,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,18,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,19,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,20,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,21,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,22,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,23,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,24,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,25,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,26,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,27,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,28,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,29,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,30,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,31,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,32,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,33,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,34,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,35,,,,1,1,,,1,1,
+1089,Ber-Ziziphus mauritiana,,36,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,37,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,38,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,39,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,40,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,41,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,42,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,43,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,44,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,45,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,46,,,,0,0,,,0,0,
+1089,Ber-Ziziphus mauritiana,,47,,,,0,0,,,0,0,
 1093,Mango: Allampur Beneshan-Mangifera indica,,0,,,,,,,,,,
 1093,Mango: Allampur Beneshan-Mangifera indica,,1,,,,,,,,,,
 1093,Mango: Allampur Beneshan-Mangifera indica,,2,,,,,,,,,,
@@ -4319,54 +4319,54 @@ species_id,species_name,updated_at,week,Leaves_fresh,Leaves_mature,Leaves_old,Fl
 1093,Mango: Allampur Beneshan-Mangifera indica,,45,,,,,,,,,,
 1093,Mango: Allampur Beneshan-Mangifera indica,,46,,,,,,,,,,
 1093,Mango: Allampur Beneshan-Mangifera indica,,47,,,,,,,,,,
-1090,Mango (all varieties)-Mangifera indica,,0,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,1,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,2,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,3,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,4,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,5,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,6,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,7,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,8,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,9,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,10,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,11,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,12,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,13,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,14,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,15,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,16,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,17,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,18,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,19,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,20,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,21,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,22,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,23,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,24,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,25,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,26,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,27,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,28,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,29,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,30,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,31,,,,1.0,1.0,,,1.0,1.0,
-1090,Mango (all varieties)-Mangifera indica,,32,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,33,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,34,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,35,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,36,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,37,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,38,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,39,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,40,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,41,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,42,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,43,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,44,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,45,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,46,,,,0.0,0.0,,,0.0,0.0,
-1090,Mango (all varieties)-Mangifera indica,,47,,,,0.0,0.0,,,0.0,0.0,
+1090,Mango (all varieties)-Mangifera indica,,0,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,1,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,2,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,3,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,4,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,5,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,6,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,7,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,8,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,9,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,10,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,11,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,12,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,13,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,14,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,15,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,16,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,17,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,18,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,19,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,20,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,21,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,22,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,23,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,24,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,25,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,26,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,27,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,28,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,29,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,30,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,31,,,,1,1,,,1,1,
+1090,Mango (all varieties)-Mangifera indica,,32,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,33,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,34,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,35,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,36,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,37,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,38,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,39,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,40,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,41,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,42,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,43,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,44,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,45,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,46,,,,0,0,,,0,0,
+1090,Mango (all varieties)-Mangifera indica,,47,,,,0,0,,,0,0,
 1098,Mango: Bangalora-Mangifera indica,,0,,,,,,,,,,
 1098,Mango: Bangalora-Mangifera indica,,1,,,,,,,,,,
 1098,Mango: Bangalora-Mangifera indica,,2,,,,,,,,,,
