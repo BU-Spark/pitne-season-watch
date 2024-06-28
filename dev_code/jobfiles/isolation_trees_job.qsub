@@ -1,0 +1,36 @@
+#!/bin/bash -l
+
+# Submit job with the command: qsub job.qsub
+
+# Set the runtime limit (default 12 hours):
+#$ -l h_rt=12:00:00
+
+# Send an email when the job finishes or if it is aborted (by default no email is sent).
+#$ -m ea
+
+# Give the job a name (default: script name)
+#$ -N one_gpu
+
+# Set SCC project
+#$ -P sparkpit
+
+# Combine output and error files into a single file
+#$ -j y
+
+# Request 8 Cores
+#$ -pe omp 8
+
+# Keep track of information related to the current job
+echo "=========================================================="
+echo "Start date : $(date)"
+echo "Job name : $JOB_NAME"
+echo "Job ID : $JOB_ID  $SGE_TASK_ID"
+echo "=========================================================="
+
+# convert a notebook to a python script and run
+module load miniconda/23.11.0 && cd /rprojectnb/sparkpit/pit-seasonwatch && conda activate seasonwatch-ml && jupyter nbconvert --to script NOTEBOOK_NAME.ipynb && python NOTEBOOK_NAME.py
+
+# or...
+
+# run a python file
+module load miniconda/23.11.0 && cd /rprojectnb/sparkpit/pit-seasonwatch && conda activate seasonwatch-ml && python SCRIPTNAME.py
