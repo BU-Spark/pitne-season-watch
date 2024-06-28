@@ -1,0 +1,55 @@
+State_name,Species_id,Species_name,Year,Attribute,Mean_start_transition_time,Std_start_transition_time,Max_probability_start_transition_week,Mean_end_transition_time,Std_end_transition_time,Max_probability_end_transition_week
+Kerala,1090,Mango (all varieties)-Mangifera indica,2018,Flowers_bud,32,6.966885462618149,37,14,5.364110827925632,9
+Kerala,1090,Mango (all varieties)-Mangifera indica,2019,Flowers_bud,32,5.690152213998066,33,12,7.4155967968068905,11
+Kerala,1090,Mango (all varieties)-Mangifera indica,2020,Flowers_bud,30,6.316206496490796,33,8,6.012755789009311,8
+Kerala,1090,Mango (all varieties)-Mangifera indica,2021,Flowers_bud,37,8.839900155939533,35,9,7.839618087625588,9
+Kerala,1090,Mango (all varieties)-Mangifera indica,2022,Flowers_bud,32,7.438477156500019,34,11,8.158369744573427,11
+Kerala,1090,Mango (all varieties)-Mangifera indica,2023,Flowers_bud,20,7.123180563159635,27,9,7.672686887470597,8
+Kerala,1090,Mango (all varieties)-Mangifera indica,2018,Flowers_open,32,6.936359047325631,33,14,5.229894663822593,9
+Kerala,1090,Mango (all varieties)-Mangifera indica,2019,Flowers_open,34,5.890741266937515,36,13,6.9307744487432,11
+Kerala,1090,Mango (all varieties)-Mangifera indica,2020,Flowers_open,31,6.52565316489442,33,9,5.8462443321993405,8
+Kerala,1090,Mango (all varieties)-Mangifera indica,2021,Flowers_open,38,9.140825184809117,37,10,7.985239464210285,7
+Kerala,1090,Mango (all varieties)-Mangifera indica,2022,Flowers_open,33,7.182749754278634,36,11,8.458005759178771,10
+Kerala,1090,Mango (all varieties)-Mangifera indica,2023,Flowers_open,20,6.333987368573263,27,10,7.622649764931104,9
+Kerala,1090,Mango (all varieties)-Mangifera indica,2018,Fruits_unripe,39,9.368357662235946,47,17,5.122818168381453,17
+Kerala,1090,Mango (all varieties)-Mangifera indica,2019,Fruits_unripe,37,6.669726307734303,36,20,6.060060366296005,19
+Kerala,1090,Mango (all varieties)-Mangifera indica,2020,Fruits_unripe,37,6.768787434520488,33,15,5.848858400765425,17
+Kerala,1090,Mango (all varieties)-Mangifera indica,2021,Fruits_unripe,41,7.407918511592615,46,17,6.6761633879295195,15
+Kerala,1090,Mango (all varieties)-Mangifera indica,2022,Fruits_unripe,38,7.474219911505568,37,18,6.372300788526728,18
+Kerala,1090,Mango (all varieties)-Mangifera indica,2023,Fruits_unripe,18,7.529567922552933,32,17,7.2308247409140645,17
+Kerala,1090,Mango (all varieties)-Mangifera indica,2018,Fruits_ripe,46,8.750086059602474,47,23,6.508381167117784,21
+Kerala,1090,Mango (all varieties)-Mangifera indica,2019,Fruits_ripe,45,6.609911170897989,47,24,5.930749515850678,23
+Kerala,1090,Mango (all varieties)-Mangifera indica,2020,Fruits_ripe,44,7.8058344819417895,44,22,5.610341205121509,20
+Kerala,1090,Mango (all varieties)-Mangifera indica,2021,Fruits_ripe,45,6.749514073423105,46,23,7.0267663656510475,23
+Kerala,1090,Mango (all varieties)-Mangifera indica,2022,Fruits_ripe,43,7.053925272640012,45,21,6.5977882438710935,18
+Kerala,1090,Mango (all varieties)-Mangifera indica,2023,Fruits_ripe,14,8.972393578516334,29,20,6.6681913494016225,18
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2018,Flowers_bud,29,11.5220296428953,39,11,6.259034308155369,7
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2019,Flowers_bud,31,6.464511036046839,30,12,6.870129700991713,11
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2020,Flowers_bud,30,6.61451552568513,32,7,6.051819047862015,2
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2021,Flowers_bud,33,11.253087781443249,24,10,8.621594841125669,9
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2022,Flowers_bud,33,8.71210526488423,33,13,10.634810968467196,11
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2023,Flowers_bud,20,7.688875755586159,28,8,9.313417930119728,5
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2018,Flowers_male,31,11.862527678438125,39,12,6.395014851934905,8
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2019,Flowers_male,32,6.6399364968790575,30,12,7.152852623346701,11
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2020,Flowers_male,30,6.493471140148115,31,8,5.82284192094162,7
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2021,Flowers_male,32,11.032703247064365,24,10,8.510568497052908,9
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2022,Flowers_male,33,8.929187258765888,33,12,11.292991463402934,11
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2023,Flowers_male,20,7.74295353575224,27,8,9.342116770416078,5
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2018,Flowers_Female,31,12.025665985097797,39,12,6.2282699456168364,7
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2019,Flowers_Female,31,6.7280764977487815,30,12,7.203266348944178,11
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2020,Flowers_Female,30,6.450623708494336,32,8,5.850822484378003,7
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2021,Flowers_Female,32,11.456585081240503,24,10,8.226280680083848,9
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2022,Flowers_Female,33,8.79303426870514,33,13,11.133661338177548,11
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2023,Flowers_Female,20,8.521911747594437,26,8,9.346755328667582,5
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2018,Fruits_unripe,43,10.468350130669052,47,23,8.614169205954386,16
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2019,Fruits_unripe,35,7.479752716178715,35,22,7.549821676207612,20
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2020,Fruits_unripe,35,6.946074181365388,33,14,5.5097288317043365,13
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2021,Fruits_unripe,40,9.503725073742482,46,17,7.3752800640287655,17
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2022,Fruits_unripe,38,8.75370714793848,36,19,8.592285558827792,18
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2023,Fruits_unripe,20,8.948190911924744,32,19,6.982365556739315,21
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2018,Fruits_ripe,3,8.75509840309557,47,30,7.521837828490987,17
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2019,Fruits_ripe,46,7.353125950647458,46,26,6.125993241093156,23
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2020,Fruits_ripe,45,8.402724915108314,45,23,5.856961853156145,20
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2021,Fruits_ripe,46,7.227319029922639,46,23,6.089199773656652,23
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2022,Fruits_ripe,45,7.46692453224983,45,24,6.659495561116716,23
+Kerala,1161,Jackfruit-Artocarpus heterophyllus,2023,Fruits_ripe,18,7.129305972199404,32,22,6.556486750675045,21

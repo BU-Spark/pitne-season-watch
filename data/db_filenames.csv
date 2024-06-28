@@ -1,0 +1,22 @@
+state,reference_filename,citizen_filename
+andaman and nicobar islands,pvt_andaman_and_nicobar_islands.csv,andaman and nicobar islands_citizenData.csv
+andhra pradesh,pvt_andhra_pradesh.csv,andhra pradesh_citizenData.csv
+arunachal pradesh,pvt_arunachal_pradesh.csv,arunachal pradesh_citizenData.csv
+assam,pvt_assam.csv,assam_citizenData.csv
+bihar,pvt_bihar.csv,bihar_citizenData.csv
+delhi,pvt_delhi.csv,delhi_citizenData.csv
+gujarat,pvt_gujarat.csv,gujarat_citizenData.csv
+haryana,pvt_haryana.csv,haryana_citizenData.csv
+jammu and kashmir,pvt_jammu_and_kashmir.csv,jammu and kashmir_citizenData.csv
+jharkhand,pvt_jharkhand.csv,jharkhand_citizenData.csv
+karnataka,pvt_karnataka.csv,karnataka_citizenData.csv
+kerala,pvt_kerala.csv,kerala_citizenData.csv
+madhya pradesh,pvt_madhya_pradesh.csv,madhya pradesh_citizenData.csv
+maharashtra,pvt_maharashtra.csv,maharashtra_citizenData.csv
+manipur,pvt_manipur.csv,manipur_citizenData.csv
+meghalaya,pvt_meghalaya.csv,meghalaya_citizenData.csv
+odisha,pvt_odisha.csv,odisha_citizenData.csv
+puducherry,pvt_puducherry.csv,puducherry_citizenData.csv
+rajasthan,pvt_rajasthan.csv,rajasthan_citizenData.csv
+tamil nadu,pvt_tamil_nadu.csv,tamil nadu_citizenData.csv
+tripura,pvt_tripura.csv,tripura_citizenData.csv
