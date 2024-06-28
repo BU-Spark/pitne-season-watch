@@ -24,7 +24,7 @@ from sklearn.ensemble import IsolationForest # Isolation Forests for anomaly det
 # Previewing Original Citizen Data
 
 
-df = pd.read_csv("alldata.csv") # Load raw citizen data in
+df = pd.read_csv("../data/original_citizen_data/alldata.csv") # Load raw citizen data in
 
 
 # # Handling Incorrect -2 Values
@@ -252,7 +252,7 @@ df['Species_name'] = df['Species_name'].replace(to_replace=r'\w* Mango- Mangifer
 # Filling in Missing States
 
 
-states_shapefile = gpd.read_file("india_map/gadm41_IND_3.shp") # Load map of India with states as a coordinate grid with labels
+states_shapefile = gpd.read_file("../data/india_map/gadm41_IND_3.shp") # Load map of India with states as a coordinate grid with labels
 
 # Function for filling state_name attribute based on coordinates for observations with NA state_name
 def find_indian_state(latitude, longitude, gdf):
@@ -403,7 +403,7 @@ df = df.drop(invalid_indices) # Drop observations deemed outliers
 
 
 # Load species lookup dicts for id <-> name from species_codes.csv
-species_codes = pd.read_csv("species codes.csv", encoding='unicode_escape')
+species_codes = pd.read_csv("../data/species codes.csv", encoding='unicode_escape')
 
 species_id_to_name = {}
 species_name_to_id = {}
@@ -551,15 +551,15 @@ print("Finished Reformatting Species Names")
 
 
 # Save updated_alldata.csv to disk
-df.to_csv('updated_alldata.csv', index=False)
+df.to_csv('../data/cleaned_alldata.csv', index=False)
 
 
 # Make Directories for Citizen and Reference Data
 
 
 # Create directories for storing citizen and reference data.
-os.makedirs("all data/citizen", exist_ok=True)
-os.makedirs("all data/reference", exist_ok=True)
+os.makedirs("../data/citizen_states_cleaned", exist_ok=True)
+os.makedirs("../data/reference_states_cleaned", exist_ok=True)
 
 
 # State DFs to all data/citizen folder\
@@ -570,7 +570,7 @@ for state_name in df["State_name"].unique(): # Iterate over all states
     state_df = df[df["State_name"] == state_name] # Only use observations from given state
     state_df = state_df.drop(["State_name"], axis = 1) # Drop State_name column because it is the same value throughout each CSV file
     state_name = state_name.replace(" ","_").lower() # Reformat state names to lowercase with _ instead of spaces
-    state_df.to_csv(f"all data/citizen/{state_name}.csv", index=False) # Save citizen observations in the given state to disk
+    state_df.to_csv(f"../data/citizen_states_cleaned/{state_name}.csv", index=False) # Save citizen observations in the given state to disk
 
 
 # Reference Data Cleaning
@@ -615,7 +615,7 @@ def clean_df(df):
     
     df = df.drop_duplicates() # Drop reference data for species with duplicate yearly observations
     
-    week_codes = [list(df.columns[3:-2]) # Names of week columns
+    week_codes = list(df.columns[3:-2]) # Names of week columns
     base_cols = list(df.columns[:3]) + [df.columns[-1]] # Names of non-week columns excluding created_at (excluding this column acts as dropping it)
     
     new_cols = base_cols + ['week'] + list(acronym_to_phenophase_dict.values()) # Names of columns used in cleaned reference data
@@ -668,14 +668,14 @@ def clean_df(df):
 
 # Clean all pvt tables & save them to disk in reference folder
 print("Started Cleaning Reference Data")
-for tablename in os.listdir('./pvttables_raw/'): # Iterate through pvt tables
+for tablename in os.listdir('../data/original_reference_data/pvttables_raw/'): # Iterate through pvt tables
     if tablename == '.DS_Store': # Ignore this file 
         continue
     print("cleaning {}".format(tablename))
-    ref_df = pd.read_csv('./pvttables_raw/{}'.format(tablename), sep=';') # Load the given pvt table
+    ref_df = pd.read_csv('../data/original_reference_data/pvttables_raw/{}'.format(tablename), sep=';') # Load the given pvt table
     tablename = tablename.replace("pvt_","") # Reformat table name
     if tablename == 'maharastra.csv': # Fix misspelling
         tablename = 'maharashtra.csv'
     new_df = clean_df(ref_df) # Clean reference data
-    new_df.to_csv('./all data/reference/{}'.format(tablename), index=False) # Save cleaned reference data to disk in reference folder
+    new_df.to_csv('../data/reference_states_cleaned/{}'.format(tablename), index=False) # Save cleaned reference data to disk in reference folder
 print("Finished Citizen and Reference Data Cleaning")
